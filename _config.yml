@@ -11,7 +11,7 @@ title:            constrained creativity
 tagline:          'where i write'
 description:      'started from the lower-bottom now we almost at the middle.'
 url:              http://lqb2.github.com/blog
-baseurl:          /blog
+baseurl:          /blog/
 
 author:
   name:           'Lawrence Barriner II'
