@@ -7,15 +7,15 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /hyde
+title:            constrained creativity
+tagline:          'where i write'
+description:      'started from the lower-bottom now we almost at the middle.'
+url:              http://lqb2.github.com/blog
+baseurl:          /blog
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Lawrence Barriner II'
+  url:            https://twitter.com/lqb2
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/lqb2/blog
