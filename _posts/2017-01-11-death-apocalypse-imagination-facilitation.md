@@ -35,6 +35,7 @@ this makes me believe that it's actually really important to have more imaginati
 
 out of time!
 
-​| --- | --- |
-| writing | 11:44 |
-| spell-check, link-finding, & formatting | 14:42 |
+​ 
+writing: 11:44
+
+spell-check, link-finding, & formatting: 14:42 
