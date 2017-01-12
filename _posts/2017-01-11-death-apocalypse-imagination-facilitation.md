@@ -1,15 +1,13 @@
 ---
 layout: post
 title: 'on imagination, death, apocalypse, and facilitating society'
-date: '2017-01-10T08:06:31-05:00'
+date: '2017-01-11T08:06:31-05:00'
 tags:
 - death
 - imagination
 - facilitation
 ---
-on imagination, facilitation, and the cultural fascination with death and apocalypse
-
-ok so this is gonna be a random disjointed collection of thoughts. they'reconnected in some way, but i'm not sure how at the outset, so i'll just start and we where it lands.
+ook so this is gonna be a random disjointed collection of thoughts. they'reconnected in some way, but i'm not sure how at the outset, so i'll just start and we where it lands.
 
 the other day, i read through a section of grant williams' masters thesis. though there was a ton that stood out as important, one quote is haunting me. 
 
