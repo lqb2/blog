@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'less of that, more of this'
-date: '2017-01-11T08:06:31-05:00'
+date: '2017-01-12T08:06:31-05:00'
 tags:
 - sports
 - community
 ---
+
 ## that = sports. 
 
 yesterday, i had a great conversation with jim moffet about the insanity that is sports in america. the gist of the conversation was the amount of attention sports takes up in popular culture. if you took just a single sports-watching american male and analyzed how much of his brain was taken up by sports knowledge, i think we'd be astounded. even in just a single year, the amount of time spent watching games, keeping track of teams, players, coaches, scores, stats, and game locations is huge. take that and multiply it by every season of that sport someone has watched. take that a multiply it by the number of different sports someone watches. then take that and add up all the people who carry that knowledge around for their whole lives. can you imagine? the level of complexity at which i hear people discuss why this coach is gonna help take a certain team to a championship is unreal. the ways in which the brain stores and accesses that much information are really complex.
