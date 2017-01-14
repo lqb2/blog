@@ -19,5 +19,17 @@ i also am thinking that about how i can get unplugged from systems that i don’
 
 ok last point: two friends have said lately that i should have one foot in each world that i want to be a part of. i've always been a floater and i think i could try to reject that or i could embrace it. not everyone can do it so if it's a skill i have, why not use it? it turns out i have a fascination with spectrums (spectra?) and moving along them, so i probably should follow that, right? 
 
-writing: 10:34
-spell-check, link-finding, & formatting: 9:00
+<table>
+	<thead>
+		<tr>
+			<th>writing</th>
+			<th>spell-check, link-finding, & formatting</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>10:34</td>
+			<td>9:00</td>
+		</tr>
+	</tbody>
+</table>
