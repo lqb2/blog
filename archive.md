@@ -4,28 +4,32 @@ title: Archive
 ---
 
 <p class="message">
-  Hey there! This is my archive. 
+  Hey! This is my archive. It's a work in progress... like everything else on this site, heh. My bullets aren't grouping properly right now so... ¯\_(ツ)_/¯
 </p>
 
 <div class="posts">
+
+  <ul class="posts">
+    {% for mypost in site.posts %}
+      <li>
+        {% assign fdate = mypost.date | date: '%b %Y' %}
+        {% if cur_date != fdate %}
+          {% assign cur_date = fdate %}
+          <h2>{{ mypost.date | date: '%b of %Y' }}</h2>
+        {% endif %}
+        <span class="post-meta">{{ mypost.date | date: "%b %-d, %Y" }} | </span>
+        <a href="{{ mypost.url | prepend: site.baseurl }}">{{ mypost.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+<!-- old archive format, not grouped by month 
 <ul>
   {% for post in site.posts %}
     <li>{{ post.date | date_to_string }} – <a href="{{ site.baseurl }}/{{ post.url }}">
         {{ post.title }}
       </a></li>
-
-<!--   <div class="post">
-
- <span class="post-date">{{ post.date | date_to_string }}</span>
-    <h3 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h3>
-
-    
-
-     {{ post.content }} -->
   {% endfor %}
   </ul>
+-->
 </div>
