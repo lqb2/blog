@@ -3,28 +3,53 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey. Welcome to my little piece of the internet. At the beginning of 2016, I told myself I was going to write for 10 minutes every day. It took me a while, but eventually I got there. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Track record: 
 
-There are currently two themes built on Poole:
+<table>
+	<thead>
+		<tr>
+			<th>Month</th>
+			<th>Post Count</th>
+		</tr>
+	</th>
+	<tbody>
+		<tr><td>January</td><td>12</td></tr>
+		<tr><td>February</td><td>3</td></tr>
+		<tr><td>March</td><td>4</td></tr>
+		<tr><td>April</td><td>3</td></tr>
+		<tr><td>May</td><td>9</td></tr>
+		<tr><td>June</td><td>16</td></tr>
+		<tr><td>July</td><td>21</td></tr>
+		<tr><td>August</td><td>29</td></tr>
+		<tr><td>September</td><td>36</td></tr>
+		<tr><td>October</td><td>26</td></tr>
+		<tr><td>November</td><td>29</td></tr>
+		<tr><td>December</td><td>36</td></tr>
+	</tbody>
+</table>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### My Writing Philosophy
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I write for a few reasons: 
 
-## Setup
+1. I like the idea of [working out loud](http://jarche.com/2014/11/inspiration-for-working-out-loud/). 
+1. I want to to get over my anxiety around writing (I'm getting better at this, but it still...)
+1. James Baldwin is a hero of mine.
+1. The world definitely needs more Black, queer voices. 
+1. Because Danielle Coates-Connor told me I should.
+1. To put ideas out in an easily shareable way. 
+1. To process my thinking in a way that allows me to build on previous thoughts. 
 
-Some fun facts about the setup of this project include:
+### My Approach
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+1. I'm constantly collecting ideas to write about. They come from podcasts, conversations, books, and articles mostly. Whenever I come up with a nugget of idea, I save it in a folder on my iPhone Notes app. 
+1. In the morning, after meditating, I set my timer for ten minutes (actually, I stopped doing this step in Oct 2016 because it wasn't helpful after having built the habit), pick a post idea from my Notes app, start [Toggl](http://toggl.com), hit play on [my writing playlist](https://open.spotify.com/user/1213286621/playlist/0bHjluzadbXKWbzr3a45IO), and write. The ten minutes are more like a guideline at this point... 
+1. When I'm done writing, I take 10-20 minutes to find links, type up quotes, format my post in [Sublime](https://www.sublimetext.com/) and fix typoes.
+1. Hit publish.
+1. Get ready for the work day. 
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Contact me
 
-Thanks for reading!
+[lqb@alum.mit.edu](mailto:lqb@alum.mit.edu)
