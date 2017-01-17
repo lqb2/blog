@@ -32,7 +32,19 @@ why do we (broadly speaking) think connecting with each other about who we are a
 - [port cafe vision](http://www.portcafe.org/vision.html)
 - [port cafe history](http://www.portcafe.org/history.html)
 
-writing: 11:44
+<table>
+	<thead>
+		<tr>
+			<th>writing</th>
+			<th>spell-check, link-finding, & formatting</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>11:44</td>
+			<td>14:42</td>
+		</tr>
+	</tbody>
+</table>
 
-spell-check, link-finding, & formatting: 14:42 
 note: post published on 12 jan. date error. won't compile posts properly ater jan 11th...

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'lukes dimensions of power'
+title: 'lukes&#39; dimensions of power'
 date: '2017-01-13T07:07:31-05:00'
 tags:
 - power
