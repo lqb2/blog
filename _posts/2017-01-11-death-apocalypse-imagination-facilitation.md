@@ -15,7 +15,7 @@ the other day, i read through a section of grant williams' masters thesis. thoug
 
 – frederic jameson, essay: [*future city*](https://newleftreview.org/II/21/fredric-jameson-future-city)
 
-from where i am in the world, this is overwhelmingly true. all of the people around me who are forward-thinking can only imagine the end of times. the science, the trends, the media, everything tends towards destruction. nuclear war, climate change, oppressive systems, it all just leads to the end of times. 
+from where i am in the world, this is overwhelmingly true. all of the people around me who are forward-thinking can only imagine the end of times (ok, all is an exaggeration, but it's close). the science, the trends, the media, everything tends towards destruction. nuclear war, climate change, oppressive systems, it all just leads to the end of times. 
 
 bell hooks, from a different angle, was also onto this understanding...
 
