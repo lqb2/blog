@@ -36,7 +36,7 @@ fuck.
 
 > And in the educational process, there’s an extensive ethical curriculum. The bridge has to stay up; it can’t fall down. You have a historical tradition where, in medicine, they’re going back to Hippocrates. In law, you’re like talking about English common law that happened centuries ago. And then in computer science, they’re sort of radically anti-historical. Not even ahistorical, just like, there is nothing before now.
 
-> We refuse to see — there is no before time. And there is zero ethical curriculum. You can get a top-of-the-line, the highest credential computer science degree from the most august institutions with essentially having had zero ethics training. And that is, in fact, the most likely path to getting funded as a successful startup in Silicon Valley.
+> We refuse to see — there is no before time. And there is zero ethical curriculum. You can get a top-of-the-line, the highest credential computer science degree from the most august institutions with essentially having had zero ethics training. And that is, in fact, the most likely path to getting funded as a successful startup in Silicon Valley. — Anil Dash
 
 <table>
 	<thead>
