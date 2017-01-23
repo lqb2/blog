@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'tech industry woes part 2: news and social media are playing a dangerous game'
-date: '2017-01-22T21:41:31-05:00'
+date: '2017-01-22T09:41:31-05:00'
 tags:
 - anil dash
 - technology
