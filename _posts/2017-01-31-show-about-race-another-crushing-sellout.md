@@ -19,6 +19,8 @@ so now instead of the show just running in dependently and not being a money mak
 
 ![sobbing woman](https://media.giphy.com/media/131s7DE2m4UWwo/giphy.gif "gif of sobbing woman") 
 
+if i ever start a cool thing and you, someone who has read this blog post, see or hear of me trying to sell it off for money, **call. me. out.** please.
+
 caveat: i'm projecting all of my anger towards the corporation in this particular situation. i realize that it's possible that the original show hosts could also have been a part of this decision. it seems their careers are all advancing and they're all busier than when they started the show. maybe the show itself had something to do with them blowing up. either way, they could have been a part of the decision to close it down as well. still pissed. =[
 
 update: just found this ridiculous "apology" on showaboutrace.com. 
