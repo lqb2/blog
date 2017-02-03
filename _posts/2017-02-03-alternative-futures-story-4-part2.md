@@ -35,8 +35,8 @@ why do they always resist like this? i ran over, crushed his gun with my hand, a
 	</thead>
 	<tbody>
 		<tr>
-			<td>12:12</td>
-			<td>3:03</td>
+			<td>12:24</td>
+			<td>7:30</td>
 		</tr>
 	</tbody>
 </table>
