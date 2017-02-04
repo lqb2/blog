@@ -35,10 +35,13 @@ i think this is why i'm so into imagination right now.
 
 ok. i'm over time, but here are some quotes: 
 
-> “There are more than a few things hindering us. I won't list them all, but one is imperative. We haven't envisioned winning.” — Ferari Shepard  
+> “There are more than a few things hindering us. I won't list them all, but one is imperative. We haven't envisioned winning.” — Ferari Shepard
 
+-
 
 > "Our strategy should be not only to confront empire, but to lay siege to it. To deprive it of oxygen. To mock it. With our art, our music, our literature, our stubbornness, our joy, our brilliance, our sheer relentlessness—and our ability to tell our own stories. Stories that are different from the ones we’re being brainwashed to believe."" — Arundhati Roy at the 2003 World Social Forum  
+
+-
 
 > "our feet won't take us to a place we haven't yet been in our minds." (paraphrase) — somewhere in the center for story-based strategy narrative curriculum
 
