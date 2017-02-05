@@ -45,7 +45,7 @@ ok. i'm over time, but here are some quotes:
 
 > "our feet won't take us to a place we haven't yet been in our minds." (paraphrase) — somewhere in the center for story-based strategy narrative curriculum
 
-actually, [here are a bunch of quotes](http://lqb2quotes.tumblr.com/tagged/re%3Aimagining+change) about imagination (and narrative strategy) from my reading of the book [re-imagining change](). 
+actually, [here are a bunch of quotes](http://lqb2quotes.tumblr.com/tagged/re%3Aimagining+change) about imagination (and narrative strategy) from my reading of the book [re-imagining change](https://www.goodreads.com/book/show/11450138-re?from_search=true). 
 
 &#x2731; sidenote: why are the anthropomorphized devices always women? i set my siri to an australian male voice and people comment on it almost without fail. #patriarchy
 
