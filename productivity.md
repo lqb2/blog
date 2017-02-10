@@ -3,7 +3,7 @@ layout: page
 title: Productivity Resources
 ---
 
-# Commonly shared resources
+## Commonly shared resources
 
 * [Barking up the Wrong Tree: Here’s The Schedule Very Successful People Follow Every Day](http://www.bakadesuyo.com/2014/06/schedule/)
 * [building your personal system, brick by brick](https://lqb2.github.io/blog/2016/09/05/building-your-personal-system-brick-by-brick/)
@@ -11,7 +11,7 @@ title: Productivity Resources
 * 99u: [The 5 Types of Work That Fill Your Day](http://99u.com/articles/7151/the-5-types-of-work-that-fill-your-day)
 * James Clear: [Forget About Setting Goals. Focus on This Instead.](http://jamesclear.com/goals-systems)
 
-# posts to update and link later
+## posts to update and link later
 
 * on saying no
 * why do your heavy-thinking work in the morning, part 1, part 2
