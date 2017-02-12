@@ -8,8 +8,6 @@ tags:
 - citizenship
 ---
 
-this is part 2 in a series of posts about some takeaways from  (here's [part 1]({{ site.baseurl }}//2017/02/09/politics-and-economics-are-subjective-too/)). somewhere around minute 33, she gets into this whole thing about listening and i really dig it. 
-
 ok. last thought from [krista tippett's interview on longform](https://longform.org/posts/longform-podcast-215-krista-tippett) ([thought 1]({{ site.baseurl }}//2017/02/09/politics-and-economics-are-subjective-too/) and [thought 2]({{ site.baseurl }}//2017/02/10/on-listening-generously/)).
 
 around 50 minutes she said that we need to reknit the fabric of common life. that we have to figure out what it means to be a citizen in the 21st century. this is actually a new task and even the best president we could possibly have can't do it for us. this is a task for us, as individuals and groups, to figure out. it won't look like it did in 1950. it won't even look like it did in 1990. we have to figure out what it looks like to be together and make decisions in our current context. 
