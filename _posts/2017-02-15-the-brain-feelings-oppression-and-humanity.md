@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'the brain, feelings, oppression, and humanity
+title: 'the brain, feelings, oppression, and humanity'
 date: '2017-02-15T07:46:31-05:00'
 tags:
 - focus
