@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+You can sign up for my weekly newsletter [here](http://tinyletter.com/lqb2) and my daily writing [here](http://eepurl.com/cDn4a1).
+
 Hey. Welcome to my little piece of the internet. At the beginning of 2016, I told myself I was going to write for 10 minutes every day. It took me a while, but eventually I got there. 
 
 Track record: 
