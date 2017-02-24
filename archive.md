@@ -18,7 +18,7 @@ title: Archive
           <h2>{{ mypost.date | date: '%b of %Y' }}</h2>
         {% endif %}
         <span class="post-meta">{{ mypost.date | date: "%b %-d, %Y" }} | </span>
-        <a href="{{ mypost.url | prepend: site.baseurl }}">{{ mypost.title }}</a>
+        <!--<a href="{{ mypost.url | prepend: site.baseurl }}">--><a href="{{ site.baseurl }}&#47;{{ mypost.url }}">{{ mypost.title }}</a>
       </li>
     {% endfor %}
   </ul>

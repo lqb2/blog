@@ -36,8 +36,8 @@ man, i love that guy's brain.
 	</thead>
 	<tbody>
 		<tr>
-			<td>12:06</td>
-			<td>9:00</td>
+			<td>8:32</td>
+			<td>16:32</td>
 		</tr>
 	</tbody>
 </table>
