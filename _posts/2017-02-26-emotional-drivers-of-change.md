@@ -9,7 +9,7 @@ tags:
 - systemic change
 ---
 
-on of the books i'm reading right now is [_focus: the hidden driver of excellence_ by daniel goleman](https://www.goodreads.com/book/show/17349126-focus?from_search=true). [i mentioned in my last post about the book]({{ site.baseurl }}/2017/02/15/the-brain-feelings-oppression-and-humanity/) that it's pretty poorly written (and that continues to feel true), but there are definitely some interesting insights. 
+on of the books i'm reading right now is [_focus: the hidden driver of excellence_ by daniel goleman](https://www.goodreads.com/book/show/17349126-focus?from_search=true). [i mentioned in my last post about the book]({{ site.baseurl }}2017/02/15/the-brain-feelings-oppression-and-humanity/) that it's pretty poorly written (and that continues to feel true), but there are definitely some interesting insights. 
 
 one that i just came across in the chapter titled _distant threats_ is about emotions as motivators. he shares several studies about the difference between negative and positive emotions as drivers of action. turns out, negative emotions are better at driving urgent, short-term change and positive emotions are better at driving long-term change. when people are in pain, they tend to do whatever it takes to alleviate the pain as quickly as possible. unfortunately, that tends to undermine long-term efforts to change the situation that caused the pain initially. for example: taking medicine relieve a headache vs understanding why you get headaches all the time.
 
