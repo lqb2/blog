@@ -3,7 +3,7 @@ layout: post
 title: 'challenging the two-parent heteropatriarchal household'
 date: '2017-01-09T07:25:31-05:00'
 tags:
-- salvation: black people and love
+- salvation&#58; black people and love
 - bell hooks
 - family
 ---

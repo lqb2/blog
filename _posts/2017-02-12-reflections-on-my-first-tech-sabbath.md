@@ -6,6 +6,7 @@ tags:
 - casper ter kuile
 - sabbath
 - tech sabbath
+- reflection
 ---
 
 for years, my friend casper has had in this in his email signature:

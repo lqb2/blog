@@ -3,7 +3,7 @@ layout: post
 title: 'negative emotions are poor drivers of systemic change'
 date: '2017-02-26T08:42:00-05:00'
 tags:
-- focus: the hidden driver of excellence
+- focus&#58; the hidden driver of excellence
 - intelligent mischief
 - systems
 - systemic change
