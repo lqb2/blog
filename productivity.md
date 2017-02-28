@@ -13,7 +13,12 @@ title: Productivity Resources
 
 ## posts to update and link later
 
-* on saying no
+* [on saying no]({{ site.baseurl }}2016/05/28/on-saying-no/)
+* [on saying no and learning how to have alone time]({{ site.baseurl }}2016/11/03/on-saying-no-and-learning-how-to-have-alone-time/)
+* [on saying no: update part 2]({{ site.baseurl }}2016/11/04/on-saying-no-update-part-2/)
+* [why i plan my schedule out six weeks in advance]({{ site.baseurl }}2016/06/19/why-i-plan-my-schedule-six-weeks-in-advance/)
+* [on decision fatigue and cognitive budgets (part 1)]({{ site.baseurl }}2016/04/17/on-decision-fatigue-and-cognitive-budgets-part-1/)
+* [on decision fatigue and cognitive budgets (part 2): on routines and ‘personal systems’]({{ site.baseurl }}2016/05/09/on-decision-fatigue-and-cognitive-budgets-part/)
 * why do your heavy-thinking work in the morning, part 1, part 2
 * done is better than perfect
 * the difference between projects and tasks
@@ -34,9 +39,6 @@ on systems change and accountability (basically, everyone i've worked with so fa
 * how to decide what to do in a particular moment: part 2
 * manager time vs maker time
 * the six things the most productive people do everyday
-* on decision fatigue and cognitive budgets (part 1)
-* on decision fatigue and cognitive budgets (part 2): on routines and ‘personal systems’
-* why i plan my schedule out six weeks in advance
 * why highly productive people don't use a lot of self-control
 * why running your life like a startup will help you get where you want to go faster
 * writing tip: hemingway style
