@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'reflections on my first national day of unplugging '
+title: 'reflections on my first national day of unplugging'
 date: '2017-03-05T08:48:00-05:00'
 tags:
 - time well spent
