@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'why is boston a good place to start things, but not to them'
+title: 'why is boston a good place to start things, but not to grow them'
 date: '2017-03-08T07:05:00-05:00'
 tags:
 - aisha shillingford
