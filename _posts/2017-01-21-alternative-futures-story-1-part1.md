@@ -7,7 +7,7 @@ tags:
 - fiction 
 ---
 
-note: from time to time, i'll be using my daily writing time to start drafts of pieces for a project i'm helping to launch with a friend (grant williams) called 'alternative futures.' link coming soon.
+note: from time to time, i'll be using my daily writing time to start drafts of pieces for a project i'm helping to launch with a friend (grant williams) called [alternative futures](http://colabradio.mit.edu/category/alternative-futures/).
 
 ***
 
