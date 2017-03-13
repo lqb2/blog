@@ -10,7 +10,7 @@ tags:
 - earthseed
 --- 
 
-marilyn nelson's recent interview on on being was amazing. 
+[marilyn nelson's recent interview on on being](http://onbeing.org/programs/marilyn-nelson-communal-pondering-in-a-noisy-world/) was amazing. 
 
 among many things, she has explained to me why i have so much hostility towards the majority of mainstream christianity in america. it comes down to the magical mental vs the alliance mentality. see the transcribed section of the interview below.
 
@@ -27,8 +27,9 @@ there are also some interesting connections to lauren olamina's [earthseed](http
 so many spiritual connections these days. i wonder if we're (being ross and me) getting closer to that vision he had of us... 
 
 hm!
+---
 
-[transcript section](http://onbeing.org/programs/marilyn-nelson-communal-pondering-in-a-noisy-world/):
+##[transcript section](http://onbeing.org/programs/marilyn-nelson-communal-pondering-in-a-noisy-world/):
 
 MS. TIPPETT: Here’s another — here’s one — I want to ask you about this, another poem you wrote about him. “Abba Jacob said: / There’s a big difference between / the mentalities of magic and of alliance. / People who spend their lives searching for God have a magical mentality: / They need a sign, a proof, / a puff of smoke, an irrefutable miracle. / People who have an alliance mentality / know God by loving.”
 
