@@ -27,6 +27,7 @@ there are also some interesting connections to lauren olamina's [earthseed](http
 so many spiritual connections these days. i wonder if we're (being ross and me) getting closer to that vision he had of us... 
 
 hm!
+
 ---
 
 ##[transcript section](http://onbeing.org/programs/marilyn-nelson-communal-pondering-in-a-noisy-world/):
