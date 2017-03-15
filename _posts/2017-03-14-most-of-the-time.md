@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'pádraig ó tuama on understanding - "most of the time" (part 1)'
+title: 'pádraig ó tuama on understanding: "most of the time" (part 1)'
 date: '2017-03-14T07:31:00-05:00'
 tags:
 - on being
@@ -40,7 +40,7 @@ adding another layer to it, pádraig referenced something called [the levels of 
 
 very interesting stuff. 
 
-tomorrow, part 2 - understanding; not agreeing
+tomorrow, [part 2 - understanding; not agreeing](2017/03/15/understanding-doesnt-mean-agreeing/)
 
 <table>
 	<thead>
