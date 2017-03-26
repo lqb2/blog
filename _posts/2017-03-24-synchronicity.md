@@ -29,6 +29,14 @@ all of this sounds real hokey, but i just can't help noticing the pattern. it fe
 
 holy shit that was longer than i expected. need to stop rambling now. tomorrow will be a fiction take on this idea. 
 
+## update
+
+the same day that i wrote this, i had lunch with dave madan and these exact ideas came up! two examples: first, i prompted dave with a storytelling possibility and he said that that was like the fifth time storytelling had come up in the last three days. and then he actually gave all the examples. nuts. 
+
+second, sometimes the same name comes up over and over in a short period of time. for me, the name eric gordon has come up like three times in three days. i think that means that i need to meet up or with him (also, this could be an interesting point to add to [the narrative version of this topic]({{ site.baseurl }}2017/03/25/the-carriers/)...)
+
+and, of course, the meta, is that i wrote about this the very morning that dave brought it up at lunch. :O
+
 <table>
 	<thead>
 		<tr>
