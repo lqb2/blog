@@ -23,7 +23,7 @@ after our conversation, i remembered that there are actually old examples of thi
 
 ### different models of the pipeline for elders
 
-we actually didn't talk too much about this, but he did share one example that seems cool. it's called altdiv school and here's some text from their website. it's illustrative.
+we actually didn't talk too much about this, but he did share one example that seems cool. it's called [altdiv](http://www.openmasters.org/altdiv) school and here's some text from their website. it's illustrative.
 
 > Alt*Div: A LEARNING LAB FOR SPIRITUAL & MORAL LEADERSHIP
 

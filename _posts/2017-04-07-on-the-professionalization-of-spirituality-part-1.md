@@ -39,7 +39,7 @@ in essence, i ended with two questions:
 * does this trend of professionalization bode ill for the future of spirituality?
 * how is that relate (if at all) to the decreasing connectedness of young people to religious institutions?
 
-i knew i was having dinner with casper soon, so i figured i'd just paint this picture for him and ask him what he thought... (see part 2)
+i knew i was having dinner with casper soon, so i figured i'd just paint this picture for him and ask him what he thought... (see [part 2](2017/04/09/on-the-professionalization-of-spirituality-part-2/))
 
 ### resources
 

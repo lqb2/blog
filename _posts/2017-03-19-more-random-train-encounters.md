@@ -8,6 +8,7 @@ tags:
 - public transportation
 - james martin
 - benji mauer
+- random train encounters
 ---
 
 in the last month, i've had three random, really positive encounters on the train. one of them [i've already written about]({{ site.baseurl }}2017/02/28/random-train-encounter-maylene/) and the other two happened in the last two weeks. 
