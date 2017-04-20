@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'the impacts of trauma lodging in the body'
+title: 'bessel van der kolk: the impacts of trauma lodging in the body'
 date: '2017-04-18T06:01:00-04:00'
 tags:
 - on being
-- bessen van der kolk
+- bessel van der kolk
 --- 
 
-i'm catching up on on being and, as usual, it's blowing my mind. [the interviewee, bessen van der kolk, studies trauma](https://onbeing.org/programs/bessel-van-der-kolk-how-trauma-lodges-in-the-body/). i'll probably write on this a few times, but right now i'm thinking about some points he made regarding trauma, narrative, and the body. 
+i'm catching up on on being and, as usual, it's blowing my mind. [the interviewee, bessel van der kolk, studies trauma](https://onbeing.org/programs/bessel-van-der-kolk-how-trauma-lodges-in-the-body/). i'll probably write on this a few times, but right now i'm thinking about some points he made regarding trauma, narrative, and the body. 
 
 there's a ton that i'm leaving out, but here's the thought trajectory that's most interesting to me right now. 
 
