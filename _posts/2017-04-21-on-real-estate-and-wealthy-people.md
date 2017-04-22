@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'on the problem of real estate development by wealthy people '
+title: 'on the problem of real estate development by wealthy people'
 date: '2017-04-21T07:40:00-04:00'
 tags:
 - white supremacy
