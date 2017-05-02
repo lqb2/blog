@@ -23,8 +23,8 @@ i think ptsd is an extreme case as it's just one of many types of trauma and vic
 
 so i think whatever type of oppression or structural problem we're talking about, if there are victims somewhere, we haven't yet solved the problem. as i think about it, this has interesting and significant implications for what it will meant to end racism, sexism, homophobia, etc. we need systemic and ecosystem solutions to these issues, not just point in time solutions.
 
-[interview](https://onbeing.org/programs/bessel-van-der-kolk-how-trauma-lodges-in-the-body/)
-[series]({{ site.baseurl }}tags/#bessel van der kolk-ref)
+[interview]: https://onbeing.org/programs/bessel-van-der-kolk-how-trauma-lodges-in-the-body/
+
 
 <table>
 	<thead>
