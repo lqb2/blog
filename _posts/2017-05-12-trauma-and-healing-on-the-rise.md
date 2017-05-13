@@ -38,7 +38,7 @@ ps - but [this](https://www.wellandgood.com/good-advice/shaman-teacher-training-
 	<tbody>
 		<tr>
 			<td>14:06</td>
-			<td>5:00</td>
+			<td>6:00</td>
 		</tr>
 	</tbody>
 </table>
