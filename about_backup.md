@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+published: false
 ---
 
 Sidenote: You can sign up for my weekly newsletter [here](http://tinyletter.com/lqb2) and my daily writing [here](http://eepurl.com/cDn4a1).
