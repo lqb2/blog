@@ -37,7 +37,7 @@ on systems change and accountability (basically, everyone i've worked with so fa
 * 3 self-care techniques
 * how to decide what to do in a particular moment
 * how to decide what to do in a particular moment: part 2
-* manager time vs maker time
+* [manager time vs maker time](http://www.paulgraham.com/makersschedule.html)
 * the six things the most productive people do everyday
 * why highly productive people don't use a lot of self-control
 * why running your life like a startup will help you get where you want to go faster
@@ -49,15 +49,15 @@ on systems change and accountability (basically, everyone i've worked with so fa
 * balancing your personal system week to week
 * The afternoon slump is normal: work with it; not around it
 * why i don’t drink coffee in the afternoon
-* Three Types of Work in Getting It Done, or GTD
+* [Three Types of Work in Getting It Done, or GTD](http://richdadobservations.blogspot.com/2009/12/three-types-of-work-in-getting-it-done.html)
 * self-driven change is hard: be forgiving of yourself
-* Time management skills are stupid. Here's what works.
-* the diversity/bandwidth tradeoff
+* [Time management skills are stupid. Here's what works.](http://www.bakadesuyo.com/2013/09/time-management-skills/)
+* [the diversity/bandwidth tradeoff]({{ site.baseurl}}2016/11/01/the-diversitybandwidth-tradeoff/)
 * most stress comes from not finishing what you’ve started
 * habit breaking tips: replacing one habit for another and have accountability
 * Build a Better You, One Habit at a Time
 * on taste, the gap, creation, and curation
-* meditation is like muddy water settling
+* [meditation is like muddy water settling]({{ site.baseurl }}2016/11/01/meditation-is-like-muddy-water-settling/)
 * the costs of "multi-tasking": why task-switching is expensive
 * 3 self-care techniques
 * turns out, you can’t be good friends with everyone (aka the hardest lesson i’ve learned this year)
