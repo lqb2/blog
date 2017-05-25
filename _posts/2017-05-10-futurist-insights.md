@@ -6,7 +6,7 @@ tags:
 - alternative futures
 - futurism
 - imagination
-- adrienne marie brown
+- adrienne maree brown
 --- 
 
 last week, i was on two calls about futurist writing. the first was a reflective semi-wrap up call for the [alternative futures](http://bit.ly/alternativefutures) (af) pilot round. the second was with some (new) friends in nairobi. both were with grant williams. some interesting insights bubbled up in those calls.
@@ -21,7 +21,7 @@ second, the future iterations of af have yet to be defined, but there are some i
 
 1. people join the collective with a world in mind. each person in the collective then commits to writing into that world for a period of months. the group supports each other with feedback and encouragement.
 
-1. the group collectively commits to the same world and everyone writes into it from their difference perspectives. this idea was spawned by [abe lateiner's story](http://colabradio.mit.edu/alternative-futures-the-ivoids-farewell-address-to-the-humans/), but it turns out (unsurprisingly) that adrienne marie brown did this three years ago via the [detroit sci fi generator](detroitscifigenerator.wordpress.com). 
+1. the group collectively commits to the same world and everyone writes into it from their difference perspectives. this idea was spawned by [abe lateiner's story](http://colabradio.mit.edu/alternative-futures-the-ivoids-farewell-address-to-the-humans/), but it turns out (unsurprisingly) that adrienne maree brown did this three years ago via the [detroit sci fi generator](detroitscifigenerator.wordpress.com). 
 
 1. there was another idea, but it escapes me right now... 
 

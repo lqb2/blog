@@ -3,7 +3,7 @@ layout: post
 title: 'getting clearer on futurist writing'
 date: '2017-05-13T09:34:00-04:00'
 tags:
-- adrienne marie brown
+- adrienne maree brown
 - futurism
 - visionary fiction
 - speculative fiction
@@ -11,7 +11,7 @@ tags:
 - octavia's brood
 --- 
 
-adrienne marie brown's outro in [octavia's brood](https://www.goodreads.com/book/show/23129839-octavia-s-brood) has really helped crystallize some things for me. among them is a ton of clarification about the different types and elements of futurist storytelling. as grant and i wade through building out this [alternative futures collective](http://bit.ly/alternativefutures) (af or afc) ([which i've been thinking about a good bit]({{ site.baseurl }}2017/05/10/futurist-insights/)), i wish i had read this excerpt first (and to be fair, someone at [css](https://www.storybasedstrategy.org/) told me to read octavia's brood in 2015... i just didn't listen. #ffs why don't i listen?)
+adrienne maree brown's outro in [octavia's brood](https://www.goodreads.com/book/show/23129839-octavia-s-brood) has really helped crystallize some things for me. among them is a ton of clarification about the different types and elements of futurist storytelling. as grant and i wade through building out this [alternative futures collective](http://bit.ly/alternativefutures) (af or afc) ([which i've been thinking about a good bit]({{ site.baseurl }}2017/05/10/futurist-insights/)), i wish i had read this excerpt first (and to be fair, someone at [css](https://www.storybasedstrategy.org/) told me to read octavia's brood in 2015... i just didn't listen. #ffs why don't i listen?)
 
 > The elements of visionary fiction are that it: explores current social issues through the lens of sci-fi; is conscious of identity and intersecting identities; centers those who have been marginalized; is aware of power inequalities; is realistic and hard but hopeful; shows change from the bottom up rather than the top down; highlights that change is collective; and is not neutral—its purpose is social change and society transformation. The stories we tell can either reflect the society we are a part of or transform it. If we want to bring new worlds into existence, then we need to challenge the narratives that uphold current power dynamics and patterns. We call upon science fiction, fantasy, horror, magical realism, myth, and everything in between as we create and teach visionary fiction.
 
