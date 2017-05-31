@@ -33,7 +33,9 @@ mind. blown.
 
 ps - there's something here about audio work (radio, audio storytelling), too. podcasting and audio work is blowing up these days. i have a hunch that there's something about the nature of that communication medium that has something to do with a desire to be more connected. the vibrational nature of audio just literally makes us feel more connected than reading text. 
 
-pps - one of the other presenters, [daphne carr](http://funboring.com/), in her session called [muff the police](https://listeningtothecity.wordpress.com/2017/04/28/nomadic-civic-sculpture-sound-bites-of-egelston-2/) talked about noise and showing the following chart. i don't really understand it, but the fact that this graph is about sound waves and has a line on it labeled 'threshold for hearing' makes me think about sound can literally be a feeling and how that relates to how we understand each other... hm! maybe for another post...
+pps - one of the other presenters, [daphne carr](http://funboring.com/), in her session called [muff the police](https://listeningtothecity.wordpress.com/2017/04/28/nomadic-civic-sculpture-sound-bites-of-egelston-2/) talked about noise and showing the below chart (well, a different one, but i couldn't find an easy link). i don't really understand it, but the fact that this graph is about sound waves and has a line on it labeled 'threshold for hearing' makes me think about sound can literally be a feeling and how that relates to how we understand each other... hm! maybe for another post...
+
+![sound thresholds](https://image.slidesharecdn.com/dr-140926115204-phpapp01/95/audio-engineering-201-how-to-sound-37-638.jpg?cb=1411732622)
 
 <table>
 	<thead>
