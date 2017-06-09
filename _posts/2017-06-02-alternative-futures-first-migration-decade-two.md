@@ -9,6 +9,8 @@ tags:
 - fiction
 --- 
 
+_note: this is another draft for a piece i’ll submit to the [alternative futures project](http://colabradio.mit.edu/category/alternative-futures/) i’ve launched with my friend, grant.
+
 for some reason, today i couldn't stop crying. even as i write this, my eyes are welling up. but as one of our elder adrienne said many suns ago:
 
 > Remember you are water. Of course you leave salt trails. Of course you are crying.
