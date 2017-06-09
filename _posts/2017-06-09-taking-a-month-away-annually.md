@@ -12,7 +12,7 @@ tags:
 
 ![canada geese migrating](http://birdnote.org/sites/default/files/15_-_discombobulated_canada_geese.jpg)
 
-a few weeks ago, i had a conversation with my dear brother, ross, at a our friend aubre's going away party. he had just come back from a month in israel and was telling me all about his trip. he had lots he wanted to share and, of course, i had a ton of questions. it was a really a good convo (as they always are with him), but one thing stuck with me strongly enough that i thought i should write about it. 
+a few weeks ago, i had a conversation with my dear brother, [ross](https://twitter.com/Rchanowski), at a our friend aubre's going away party. he had just come back from a month in israel and was telling me all about his trip. he had lots he wanted to share and, of course, i had a ton of questions. it was a really a good convo (as they always are with him), but one thing stuck with me strongly enough that i thought i should write about it. 
 
 he said how impactful it's been to take a month to live in a different context in order to re-orient (​actually, now that i think about it, i think this has been something he's always done (with more or less rigor depending on the situation that year)). i can totally understand that and totally want to find a way to integrate a practice like that into my life. it makes sense to me for at least three reasons:
 
