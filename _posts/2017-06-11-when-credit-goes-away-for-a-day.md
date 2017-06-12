@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'what happens when you drop your credit card terminal'
-date: '2017-06-11T22:15:00-04:00'
+date: '2017-06-11T10:15:00-04:00'
 tags:
 - vancouver
 - money
