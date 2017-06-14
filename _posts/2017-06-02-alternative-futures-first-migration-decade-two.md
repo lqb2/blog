@@ -10,7 +10,7 @@ tags:
 - migration
 --- 
 
-_note: this is another draft for a piece i’ll submit to the [alternative futures project](http://colabradio.mit.edu/category/alternative-futures/) i’ve launched with my friend, grant.
+_note_: this is another draft for a piece i’ll submit to the [alternative futures project](http://colabradio.mit.edu/category/alternative-futures/) i’ve launched with my friend, grant.
 
 for some reason, today i couldn't stop crying. even as i write this, my eyes are welling up. but as one of our elders, adrienne, said many suns ago:
 
@@ -25,6 +25,8 @@ i'm writing from the side of the road where i've parked my house for the evening
 this morning was hard, but i got out by noon and that let me get a good distance before sundown. 
 
 when i woke up, i took all the stuff i had packed up last night, everything i owned, put it outside on my bamboo mat, and began breaking down my house.
+
+*[continue to part 2]()...*
 
 <table>
 	<thead>

@@ -10,7 +10,7 @@ tags:
 - migration
 --- 
 
-_note: this is part 2 of a draft for a piece i’ll eventually submit to the [alternative futures project](http://colabradio.mit.edu/category/alternative-futures/). part 1 is [over here]({{ site.baseurl}}2017/06/02/alternative-futures-migration-decade-two-2/). 
+_note_: this is part 2 of a draft for a piece i’ll eventually submit to the [alternative futures project](http://colabradio.mit.edu/category/alternative-futures/). part 1 is [over here]({{ site.baseurl}}2017/06/02/alternative-futures-migration-decade-two-2/). 
 
 the stone foundation that my parents and extended family had hewn before my birth was in the same spot they put it on the day i was born. when i turned ten, i began the process of moving out of the family's house main house. this first mini-migration was practice but it was more joyful than sad. different than this time. 
 
