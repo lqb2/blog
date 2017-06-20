@@ -10,7 +10,7 @@ tags:
 - colab radio
 --- 
 
-this past friday, a few people from the 2017 cohort of [evolutionary leadership](https://www.gibranrivera.com/the-workshop/) had a morning meditation session (a sit). one of the folks doesn't have a regular practice so two of us got to explain bits of our practices to her. 
+this past friday, a few people from the 2017 cohort of [evolutionary leadership](https://www.gibranrivera.com/the-workshop/) had a morning meditation session (a sit). one of the folks wanted to hear a bit about the sitting practices of the rest of us and so two of us got to explain bits of our practices. 
 
 jen explained that insight meditation is usually focused on one of a few anchors: [the breath, the body, or sound](https://www.tarabrach.com/howtomeditate/). for the past few years i've used sound as my primary anchor, although sometimes i do breath. there's a specific [episode of on being about the loss of quiet spaces](https://onbeing.org/programs/gordon-hempton-silence-and-the-presence-of-everything/) that inspired my sound-based practice...specifically this line:
 
