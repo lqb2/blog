@@ -10,7 +10,7 @@ tags:
 
 ok so it's been almost two weeks since i/we got back from [evolutionary leadership][evolutionary leadership] (el). it's clear to me that are going to be many layers to thinking about this experience. it will absolutely be an iterative process and i imagine it'll take a long time (forever?) to integrate the learnings. but that process won't start until it starts so here's to starting!
 
-for this first pass, i'm going to attempt to talk about the two pieces of the el thinking that have resonated/stuck with me the most: first, on the human response to the evolution pathway. second to the importance of paying attention to and cultativing inner spaces. other things i need to eventually write up include the importance of the journey to and from cortes island, the boat journey we took to a bird colony, my sitting tree(s), the people in the 2017 cohort, my mantra, and the importance/impact of having people in the cohort live in town. 
+for this first pass, i'm going to attempt to talk about the two pieces of the el thinking that have resonated/stuck with me the most: first, on the human response to the evolution pathway. second to the importance of paying attention to and cultativing inner spaces. other things i need to eventually write up include the importance of the journey to and from cortes island, the boat journey we took to a bird colony, my sitting tree(s), the people in the 2017 cohort, my mantra, the impact of the surprising (and yet obvious) way the two halves of the workshop were structured, and the importance/impact of having people in the cohort live in town with me (boston). 
 
 ### the evolutionary pathway
 
