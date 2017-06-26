@@ -25,6 +25,8 @@ version:          2.1.0
 github:
   repo:           https://github.com/lqb2/blog
 
+# Google services
+google_analytics: UA-86130890-4
 
   
 gems: [jekyll-paginate, jekyll-feed]

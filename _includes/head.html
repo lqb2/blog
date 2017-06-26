@@ -27,4 +27,10 @@
   <!-- RSS -->
   <!-- <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">-->
   {% feed_meta %}
+
+  <!-- Google Analytics -->
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+  
 </head>
