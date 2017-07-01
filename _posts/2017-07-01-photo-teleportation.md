@@ -30,10 +30,11 @@ i was literally transported back to the moment in time. i lost control of my bod
 
 ---
 
+this is the beginning of the 250 words a day challenge that's i'm participating in with a bunch of folks from the [evolutionary leadership]() crew. i think i'm going to build a fictional world each day. not sure if they're going to be different each day or not. we'll see. 
 
 inspiration: 
 ![me on cortes island during evolutionary leadership 2017](http://i.imgur.com/912jjPp.jpg)
-words: 254
+words: 253
 
 <table>
 	<thead>
