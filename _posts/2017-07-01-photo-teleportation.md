@@ -1,13 +1,16 @@
 ---
 layout: post
-title: 'photo teleportation'
+title: 'alternative futures: photo teleportation'
 date: '2017-07-01T09:52:25-04:00'
 tags:
 - july writing challenge
 - 250 words/day
+- alternative futures
+- futurism
+-
 --- 
 
-i sat down and took a deep breath. was i ready? who knew. but i was about to find out. 
+i sat down and took a deep breath. was i ready? who knew. either way, i was about to find out. 
 
 i opened the text message and saw myself sitting on the tree. i recognized my pants, my hair, my shirt, and the book. and in just a split second i was back on cortes. 
 
@@ -30,7 +33,7 @@ i was literally transported back to the moment in time. i lost control of my bod
 
 ---
 
-this is the beginning of the 250 words a day challenge that's i'm participating in with a bunch of folks from the [evolutionary leadership]() crew. i think i'm going to build a fictional world each day. not sure if they're going to be different each day or not. we'll see. 
+this is the beginning of the 250 words a day challenge that's i'm participating in with a bunch of folks/friends/family/loves from the [evolutionary leadership](https://www.gibranrivera.com/the-workshop/) crew. i think i'm going to build a fictional world each day. not sure if the posts are going to be a different world each day or not. we'll see. 
 
 inspiration: 
 ![me on cortes island during evolutionary leadership 2017](http://i.imgur.com/912jjPp.jpg)
