@@ -13,6 +13,7 @@ title: Productivity Resources
 
 ## posts to update and link later
 
+* [how i work]({{ site.baseurl }}2016/04/21/how-i-work/)
 * [on saying no]({{ site.baseurl }}2016/05/28/on-saying-no/)
 * [on saying no and learning how to have alone time]({{ site.baseurl }}2016/11/03/on-saying-no-and-learning-how-to-have-alone-time/)
 * [on saying no: update part 2]({{ site.baseurl }}2016/11/04/on-saying-no-update-part-2/)
@@ -28,15 +29,14 @@ title: Productivity Resources
 * writing for an audience of one
 * why having functioning systems is importance for stress-free productivity
 * overwork undermines love and is collapsing our society
-* how to decide what to do in a particular moment
 * on mentoring and being mentored
 * out in the world is better than in your head
 on systems change and accountability (basically, everyone i've worked with so far has benefitted from some type of accountability * - whether it's a daily text, or the international writing email thread)
 * feeling productive actually makes you more productive (no joke)
 * productivity tip: reward yourself when you accomplish a goal
 * 3 self-care techniques
-* how to decide what to do in a particular moment
-* how to decide what to do in a particular moment: part 2
+* [how to decide what to do in a particular moment]({{ site.baseurl }}2016/07/28/how-to-decide-what-to-do-in-a-particular-moment/)
+* [how to decide what to do in a particular moment: part 2]({{ site.baseurl }}2016/07/31/how-to-make-the-decision-about-what-to-do-in-a/)
 * [manager time vs maker time](http://www.paulgraham.com/makersschedule.html)
 * the six things the most productive people do everyday
 * why highly productive people don't use a lot of self-control
@@ -60,5 +60,5 @@ on systems change and accountability (basically, everyone i've worked with so fa
 * [meditation is like muddy water settling]({{ site.baseurl }}2016/11/01/meditation-is-like-muddy-water-settling/)
 * the costs of "multi-tasking": why task-switching is expensive
 * 3 self-care techniques
-* turns out, you can’t be good friends with everyone (aka the hardest lesson i’ve learned this year)
+* [turns out, you can’t be good friends with everyone (aka the hardest lesson i’ve learned this year)]({{ site.baseurl }}2016/09/21/turns-out-you-cant-be-good-friends-with-everyone/)
 * why hanging out with close friends has become a necessity for me
