@@ -33,6 +33,8 @@ i thanked her for her words and opened my eyes. i put my pen to the page and sta
 
 ---
 
+_note: the extractive nature of this is wrong but i couldn’t think outside of that frame this morning. should rethink that in the future._
+
 this is post #4 of the [evolutionary leadership](https://www.gibranrivera.com/the-workshop/) 250 words a day challenge. 
 
 ### inspiration: 
