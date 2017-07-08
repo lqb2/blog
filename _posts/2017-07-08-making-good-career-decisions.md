@@ -41,9 +41,9 @@ why? three reasons:
 
 * things change. this includes you. it also includes the relevance of the data you gathered. maybe you did a bunch of career research in your 20s when you wanted to travel the world, but when you found your life partner partway through and decided to have a kid... 
 
-### today’s era, you aren’t really stuck to one path
+### in today’s era, you aren’t really stuck to one path
 
-for lots of reasons (mostly related to economicshifts), people aren't locked into the same path forever. well, maybe we never were, but least at ceratin points in history it made more sense to be (either because of how society was structured or because the benefits of doing so were just so good). anyway, these days we have more options. you can:
+for lots of reasons (mostly related to economic shifts), people aren't locked into the same path forever. well, maybe we never were, but least at ceratin points in history it made more sense to be (either because of how society was structured or because the benefits of doing so were just so good). anyway, these days we have more options. you can:
 
 * do one for a while and then switch to another,
 
@@ -55,5 +55,5 @@ so yea. i'm interested in supporting people to do more learning about what they 
 
 <!-- hyperlink bank -->
 
-words / writing / post-processing  
+**words / writing / post-processing**  
 542w / 23:05m / 43:00m
