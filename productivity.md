@@ -54,8 +54,8 @@ on systems change and accountability (basically, everyone i've worked with so fa
 * [the diversity/bandwidth tradeoff]({{ site.baseurl}}2016/11/01/the-diversitybandwidth-tradeoff/)
 * most stress comes from not finishing what you’ve started
 * habit breaking tips: replacing one habit for another and have accountability
-* Build a Better You, One Habit at a Time
-* on taste, the gap, creation, and curation
+* [Build a Better You, One Habit at a Time](https://greatist.com/fitness/build-better-you-one-habit-time)
+* [ira glass on taste, the gap, creation, and curation](https://www.youtube.com/watch?v=PbC4gqZGPSY)
 * [meditation is like muddy water settling]({{ site.baseurl }}2016/11/01/meditation-is-like-muddy-water-settling/)
 * the costs of "multi-tasking": why task-switching is expensive
 * 3 self-care techniques
@@ -63,3 +63,4 @@ on systems change and accountability (basically, everyone i've worked with so fa
 * why hanging out with close friends has become a necessity for me
 * [why running your life like a startup will help you get where you want to go faster]({{ site.baseurl }}2016/08/21/why-running-your-life-like-a-startup-will-help-you/)
 * [how to make the most of the startup that is your life]({{ site.baseurl }}2016/08/18/how-to-make-the-most-of-the-startup-that-is-your/)
+* [Forget About Setting Goals. Focus on This Instead.](http://jamesclear.com/goals-systems)
