@@ -3,7 +3,7 @@ layout: post
 title: 'mentees becoming peers'
 date: '2017-07-10T07:16:00-04:00'
 tags:
-- mentoring
+- mentorship
 - coaching
 --- 
 
