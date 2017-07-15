@@ -7,6 +7,7 @@ tags:
 - mentorship
 - community
 - belonging
+- gibrán rivera
 --- 
 
 > *the best way to grow is to have teachers, peers, and people you teach.* — gibrán rivera, evolutionary leadership

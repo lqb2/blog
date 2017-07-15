@@ -11,6 +11,7 @@ tags:
 - personal practice
 - experiment
 - personal systems
+- tools
 --- 
 
 so i'm experimenting with calendly to help me figure out how to plan meetings with people. i literally hate playing the calendar game and it seems like that's all i do these days. 
