@@ -6,6 +6,7 @@ tags:
 - reading
 - writing
 - podcasts
+- craig aubuchon
 --- 
 
 last week i had lunch with a good friend (hey, craig!) and he asked me how it was that i found so many different ideas to write about. as i was explaining it (as often happens), i began to understand my own system better. 
@@ -37,9 +38,9 @@ if i'm walking, i'm probably listening to a podcast. i love them. i try to liste
 
 ---
 
-at some point during the conversation craig mentioned that he had this mental image of me as a spider with a web that just catches all sorts of ideas. i really like that idea and it even reminds me of a visual my old colleague, curtis ogden, uses in one of my favorite blog posts of his. 
+at some point during the conversation craig mentioned that he had this mental image of me as a spider with a web that just catches all sorts of ideas. i really like that idea and it even reminds me of a visual my old colleague, curtis ogden, uses in one of my favorite blog posts of his: [network leadership roles 2.0](http://interactioninstitute.org/network-leadership-roles-2-0/). 
 
-[image of network roles]
+![Network Leadership Roles 2.0](http://i.imgur.com/qeFdKPe.jpg)
 
 i'd use it as a logo or something, but spiders are too creepy for that, heh. 
 

@@ -14,6 +14,7 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
   - [Themes](#themes)
   - [Reverse layout](#reverse-layout)
 - [Development](#development)
+  + [How to Hide a Page](#hide)
 - [Author](#author)
 - [License](#license)
 
@@ -103,6 +104,16 @@ Hyde has two branches, but only one is used for active development.
 - `master` for development.  **All pull requests should be submitted against `master`.**
 - `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
 
+### Hide a Page
+
+You can hide a page from your menu by removing or commenting out the title in the YAML front matter.
+
+```
+---
+layout: page
+<!-- title: Full Text Archive -->
+---
+```
 
 ## Author
 
