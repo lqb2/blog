@@ -39,6 +39,10 @@ having a running stream of [shitty first drafts](https://wrd.as.uky.edu/sites/de
 
 in the pre-internet and pre-personal computer days i think it made sense for only processed writing to get published. publishing was a resource-intensive (human and natural) process. now that it's trivial from several perspectives (personal barriers aside), i think the world is more interesting when people think out loud. the ability to interact with each other's raw(ish) thoughts is fascinating. i've been influenced so much by reading other people's thoughts / morning pages / drafts and i want the world to exist where everyone's thoughts are valued. our thoughts are one of the few things that the world probably can't have enough of. 
 
+### it's helping me learn github and markdown
+
+period.
+
 <!-- hyperlink bank -->
 
 **words / writing / post-processing**  
