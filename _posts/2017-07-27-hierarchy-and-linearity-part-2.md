@@ -23,6 +23,12 @@ as i think about, it also reminds me of one of the [elements of emergent strateg
 
 anyway, non-linearity. yes yes yes.
 
+### interested in cloning tomatoes?
+
+here's how to do it even better.
+
+* [Is there anything special I can do to promote fruiting in a tomato cutting?](https://gardening.stackexchange.com/questions/1124/is-there-anything-special-i-can-do-to-promote-fruiting-in-a-tomato-cutting)
+
 <!-- hyperlink bank -->
 
 **words / writing / post-processing**  
