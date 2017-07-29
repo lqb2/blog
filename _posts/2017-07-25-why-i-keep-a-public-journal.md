@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'why i keep a public journal '
+title: 'why i keep a public journal / think out loud'
 date: '2017-07-25T07:19:00-04:00'
 tags:
 - writing
 - curtis ogden
 - harold jarche
-- spencer wilson
+- spewil
 --- 
 
 this morning i had a rapid-fire text convo with a dear friend about many things, including putting unedited drafts / morning pages in public. it made me reflect on the many reasons **i** do this and also want to write them down (in public). you'll see why.
