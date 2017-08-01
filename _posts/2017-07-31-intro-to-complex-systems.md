@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'intro to intro to complexity theory'
+title: 'intro to complexity theory'
 date: '2017-07-31T07:15:00-04:00'
 tags:
 - complexity theory
