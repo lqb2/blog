@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'interactive book club reading response: week 4 DRAFT'
+title: 'interactive book club reading response: week 4'
 date: '2017-08-02T07:01:00-04:00'
 tags:
 - mindstorms
@@ -8,9 +8,13 @@ tags:
 - interactive book club
 --- 
 
-`3 highlights from the #diversityp5js reading this week (chapter 5 & 6)`
+**3 highlights from the [#diversityp5js](https://twitter.com/search?f=tweets&vertical=default&q=%23diversityp5js) reading this week (chapter 5 & 6)**
 
-[eliza struthers-jobin](https://twitter.com/iamelizasj) wrote a [medium post about some of her reflections on the reading](https://medium.com/@iamelizasj/p5xjs-mindstorms-week-1-2-2759bcd2e988) from the second meeting of the [#diversityp5js](https://twitter.com/search?f=tweets&vertical=default&q=%23diversityp5js) book club. since i write everyday, i was inspired to do the same this week as my reading response.
+for the past four weeks, i've been a part of [an interactive book club](https://diversity.p5js.org/aboutseries.html) that's a project of the p5js diversity initiative, hosted by the [princeton council on science and technology](http://cst.princeton.edu/). there are response questions each week ([here they are for week 4](https://diversity.p5js.org/weekfour.html)) and people are invited to respond however makes sense to them, including with code or words. i wanted to do some code as my responses (and for the first week i did!) but i'm too slow and didn't have the right tools to keep up with coding each week on top of the reading and everything else i have to do in life lol. 
+
+so, this week i decided to just write a response since i write everyday anyways. a few weeks ago [eliza struthers-jobin](https://twitter.com/iamelizasj) also [wrote as her response](https://medium.com/@iamelizasj/p5xjs-mindstorms-week-1-2-2759bcd2e988) and it was excellent so i'm doing the same now. 
+
+_note_: i don't generally edit my morning writing because it just takes too much time so sorry in advance for any typos, grammatical errors, etc. anyways...
 
 this book is **so** good and has so many powerful insights that i really struggled with deciding which parts to pull out and write about. i knew i had to decide, though, because otherwise i'd be writing all day (which may be pleasant, but irresponsible). i picked three points just based on intuition when i went back through my notes. it is what it is, ya know?
 
