@@ -7,6 +7,9 @@ tags:
 - futurism
 - imagination
 - adrienne maree brown
+- world-building
+- grant williams
+- caroline howe
 --- 
 
 last week, i was on two calls about futurist writing. the first was a reflective semi-wrap up call for the [alternative futures](http://bit.ly/alternativefutures) (af) pilot round. the second was with some (new) friends in nairobi. both were with grant williams. some interesting insights bubbled up in those calls.
