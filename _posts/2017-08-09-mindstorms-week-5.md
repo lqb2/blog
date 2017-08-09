@@ -14,7 +14,7 @@ it's the last week of the interactive book club! i'm **super** excited and also 
 
 i'm excited because (and this going to sound silly because this was sort of the whole but...) i/we just finished a whole book! not only do i love reading books but i also had a goal for reading 24 books this year and this brings me up to 18 so far (ht to [ross](https://twitter.com/Rchanowski) for inspiring me to get at least on the reading slow train)! 
 
-i'm sad because... that means today is the last group meeting. i have really appreciated the levity and light commitment of this structure *and* i'm still going to miss it. some good connections have been made, though, and i'm definitely going to experiment with this structure sometime soon (maybe with my dear friend nene at georgia tech using jessica gordon-nemhard's book, [collective courage](http://www.psupress.org/books/titles/978-0-271-06216-7.html))... anyway, on to three (of many) things that stuck out to me. 
+i'm sad because... that means today is the last group meeting. i have really appreciated the levity and light commitment of this structure *and* i'm still going to miss it. some good connections have been made, though, and i'm definitely going to experiment with this structure sometime soon (maybe with my dear friend nene at georgia tech using jessica gordon nembhard's book, [collective courage](http://www.psupress.org/books/titles/978-0-271-06216-7.html))... anyway, on to three (of many) things that stuck out to me. 
 
 starting from the end...
 
