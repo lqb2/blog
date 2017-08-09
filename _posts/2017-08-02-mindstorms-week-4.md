@@ -10,7 +10,9 @@ tags:
 
 **3 highlights from the [#diversityp5js](https://twitter.com/search?f=tweets&vertical=default&q=%23diversityp5js) reading this week (chapter 5 & 6)**
 
-for the past four weeks, i've been a part of [an interactive book club](https://diversity.p5js.org/aboutseries.html) that's a project of the p5js diversity initiative, hosted by the [princeton council on science and technology](http://cst.princeton.edu/). there are response questions each week ([here they are for week 4](https://diversity.p5js.org/weekfour.html)) and people are invited to respond however makes sense to them, including with code or words. i wanted to do some code as my responses (and for the first week i did!) but i'm too slow and didn't have the right tools to keep up with coding each week on top of the reading and everything else i have to do in life lol. 
+for the past four weeks, i've been a part of [an interactive book club](https://diversity.p5js.org/aboutseries.html) that's a project of the p5js diversity initiative, hosted by the [princeton council on science and technology](http://cst.princeton.edu/). there are response questions each week ([here they are for week 4](https://diversity.p5js.org/weekfour.html)) and people are invited to respond however makes sense to them, including with code or words. i wanted to do some code as my responses (and for the first week i did (see screenshot below)!) but i'm too slow and didn't have the right tools to keep up with coding each week on top of the reading and everything else i have to do in life lol. 
+
+![one of my coding exercises from week 1 of the book club - an illustration of one of the conceptual models of power](http://i.imgur.com/WPnrj3U.png)
 
 so, this week i decided to just write a response since i write everyday anyways. a few weeks ago [eliza struthers-jobin](https://twitter.com/iamelizasj) also [wrote as her response](https://medium.com/@iamelizasj/p5xjs-mindstorms-week-1-2-2759bcd2e988) and it was excellent so i'm doing the same now. 
 
