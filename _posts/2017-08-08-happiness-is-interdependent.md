@@ -27,7 +27,7 @@ the latest addition to the growing concept of interest comes from (surprise, sur
 &nbsp;
 
 > If you think of separate entities, well, I am a separate entity, as well. So what do I do? I create a small bubble, a self-centered bubble, and I take care of my own happiness, because after all, I’m this separate entity, so I just have to build my own happiness. And that’s fine, and everyone will become happy in their own bubble, and then the world will be fine.
-
+> 
 > Well, if it would work, OK, but this is not working. Why? Not just because of moral issues, because it’s bad to be self-centered — because it’s dysfunctional, because it’s at odds with reality. So it doesn’t work.
 
 lately, i've been building out theories of change for different areas of my work and i'm starting to think that i need to just do one for my life in general. one of the parts of being a theory of change is both understanding a goal as well as understanding resources and strategies you currently have access to in order to move towards that goal. of course, doing this effectively also requires a sufficient understanding of how the world works (i'm [thinking of complexity here](2017/07/31/intro-to-complex-systems/)). but assuming you have that understanding, in order to move towards a liberated world (which is what i'm interested in), understanding that all things are interrelated is a key factor. 
