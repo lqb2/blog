@@ -25,7 +25,7 @@ title: Productivity Resources
 * the difference between projects and tasks
 * most productive people: 6 things they do everyday
 * turns out highly functioning people don't rely on their self-control
-* on the ability to discern between urgency and importance
+* [on the ability to discern between urgency and importance]({{ site.baseurl }}2016/07/26/on-the-ability-to-discern-between-urgency-and/)
 * writing for an audience of one
 * why having functioning systems is importance for stress-free productivity
 * overwork undermines love and is collapsing our society
@@ -34,7 +34,7 @@ title: Productivity Resources
 on systems change and accountability (basically, everyone i've worked with so far has benefitted from some type of accountability * - whether it's a daily text, or the international writing email thread)
 * feeling productive actually makes you more productive (no joke)
 * productivity tip: reward yourself when you accomplish a goal
-* 3 self-care techniques
+* [3 self-care techniques]({{ site.baseurl }}2016/09/03/3-self-care-techniques/)
 * [how to decide what to do in a particular moment]({{ site.baseurl }}2016/07/28/how-to-decide-what-to-do-in-a-particular-moment/)
 * [how to decide what to do in a particular moment: part 2]({{ site.baseurl }}2016/07/31/how-to-make-the-decision-about-what-to-do-in-a/)
 * [manager time vs maker time](http://www.paulgraham.com/makersschedule.html)
@@ -52,15 +52,14 @@ on systems change and accountability (basically, everyone i've worked with so fa
 * [self-driven change is hard: be forgiving of yourself]({{ site.baseurl }}2016/09/04/self-driven-change-is-hard-be-forgiving-of/)
 * [Time management skills are stupid. Here's what works.](http://www.bakadesuyo.com/2013/09/time-management-skills/)
 * [the diversity/bandwidth tradeoff]({{ site.baseurl}}2016/11/01/the-diversitybandwidth-tradeoff/)
-* most stress comes from not finishing what you’ve started
+* [most stress comes from not finishing what you’ve started]({{ site.baseurl }}2016/09/14/most-stress-comes-from-not-finishing-what-youve/)
 * habit breaking tips: replacing one habit for another and have accountability
 * [Build a Better You, One Habit at a Time](https://greatist.com/fitness/build-better-you-one-habit-time)
 * [ira glass on taste, the gap, creation, and curation](https://www.youtube.com/watch?v=PbC4gqZGPSY)
 * [meditation is like muddy water settling]({{ site.baseurl }}2016/11/01/meditation-is-like-muddy-water-settling/)
 * the costs of "multi-tasking": why task-switching is expensive
-* 3 self-care techniques
 * [turns out, you can’t be good friends with everyone (aka the hardest lesson i’ve learned this year)]({{ site.baseurl }}2016/09/21/turns-out-you-cant-be-good-friends-with-everyone/)
-* why hanging out with close friends has become a necessity for me
+* [why hanging out with close friends is life giving and a necessity (aka the benefits of hanging with close friends)]({{ site.baseurl }}2016/11/27/why-hanging-out-with-close-friends-is-life-giving/)
 * [why running your life like a startup will help you get where you want to go faster]({{ site.baseurl }}2016/08/21/why-running-your-life-like-a-startup-will-help-you/)
 * [how to make the most of the startup that is your life]({{ site.baseurl }}2016/08/18/how-to-make-the-most-of-the-startup-that-is-your/)
 * [Forget About Setting Goals. Focus on This Instead.](http://jamesclear.com/goals-systems)
