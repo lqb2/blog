@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: ''
 date: '2017-08-00T00:00:00-04:00'
 tags:
