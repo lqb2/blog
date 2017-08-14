@@ -1,10 +1,18 @@
 ---
 layout: post
-comments: true
 title: 'staying connected in times of disconnection'
-date: '2017-08-13T22:13:00-04:00'
+date: '2017-08-13T11:13:00-04:00'
 tags:
-- 
+- 45
+- connection
+- charlie schaeffer
+- sourdough
+- worms
+- vermicompost
+- seeds
+- gardening
+- agriculture
+- kombucha
 --- 
 
 this weekend (like many other weekends, and days, and weeks), white supremacists are on the loose ([particularly in charlottesville, virgina](https://www.nytimes.com/2017/08/13/us/charlottesville-protests-unite-the-right.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=b-lede-package-region&region=top-news&WT.nav=top-news)). they are more on the loose lately because of [45's lack of desire to alienate portions of his base](https://www.nytimes.com/2017/08/13/opinion/trump-charlottesville-hate-stormer.html). 
