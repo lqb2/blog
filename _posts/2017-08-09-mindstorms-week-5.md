@@ -8,6 +8,8 @@ tags:
 - sharon de la cruz
 - aatish bhatia
 - interactive book club
+- samba schools
+- swarming
 --- 
 
 it's the last week of the interactive book club! i'm **super** excited and also **super** sad. 
