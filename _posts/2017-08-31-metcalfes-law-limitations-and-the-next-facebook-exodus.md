@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'metcalfe&#39;s law, it&#39;s limitations, and the next wave of facebook exodus'
+title: 'metcalfe&#39;s law, its limitations, and the next wave of facebook exodus'
 date: '2017-08-31T07:13:00-04:00'
 tags:
 - metcalfe's law
