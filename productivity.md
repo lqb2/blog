@@ -30,8 +30,8 @@ title: Productivity Resources
 * why having functioning systems is importance for stress-free productivity
 * overwork undermines love and is collapsing our society
 * on mentoring and being mentored
-* out in the world is better than in your head
-on systems change and accountability (basically, everyone i've worked with so far has benefitted from some type of accountability * - whether it's a daily text, or the international writing email thread)
+* [out in the world is better than in your head]({{ site.baseurl }}2016/09/02/out-in-the-world-is-better-than-in-your-head/)
+* on systems change and accountability (basically, everyone i've worked with so far has benefitted from some type of accountability * - whether it's a daily text, or the international writing email thread)
 * feeling productive actually makes you more productive (no joke)
 * productivity tip: reward yourself when you accomplish a goal
 * [3 self-care techniques]({{ site.baseurl }}2016/09/03/3-self-care-techniques/)
@@ -53,13 +53,14 @@ on systems change and accountability (basically, everyone i've worked with so fa
 * [Time management skills are stupid. Here's what works.](http://www.bakadesuyo.com/2013/09/time-management-skills/)
 * [the diversity/bandwidth tradeoff]({{ site.baseurl}}2016/11/01/the-diversitybandwidth-tradeoff/)
 * [most stress comes from not finishing what you’ve started]({{ site.baseurl }}2016/09/14/most-stress-comes-from-not-finishing-what-youve/)
-* habit breaking tips: replacing one habit for another and have accountability
+* [habit breaking tips: replacing one habit for another and have accountability]({{ site.baseurl }}2016/09/03/habit-breaking-tips-replacing-one-habit-for/)
 * [Build a Better You, One Habit at a Time](https://greatist.com/fitness/build-better-you-one-habit-time)
 * [ira glass on taste, the gap, creation, and curation](https://www.youtube.com/watch?v=PbC4gqZGPSY)
 * [meditation is like muddy water settling]({{ site.baseurl }}2016/11/01/meditation-is-like-muddy-water-settling/)
-* the costs of "multi-tasking": why task-switching is expensive
+* [the costs of "multi-tasking": why task-switching is expensive]({{ site.baseurl }}2016/11/02/the-costs-of-multi-tasking-why-task-switching/)
 * [turns out, you can’t be good friends with everyone (aka the hardest lesson i’ve learned this year)]({{ site.baseurl }}2016/09/21/turns-out-you-cant-be-good-friends-with-everyone/)
 * [why hanging out with close friends is life giving and a necessity (aka the benefits of hanging with close friends)]({{ site.baseurl }}2016/11/27/why-hanging-out-with-close-friends-is-life-giving/)
 * [why running your life like a startup will help you get where you want to go faster]({{ site.baseurl }}2016/08/21/why-running-your-life-like-a-startup-will-help-you/)
 * [how to make the most of the startup that is your life]({{ site.baseurl }}2016/08/18/how-to-make-the-most-of-the-startup-that-is-your/)
 * [Forget About Setting Goals. Focus on This Instead.](http://jamesclear.com/goals-systems)
+* [Basic GTD: Deal with your agreements](https://facilethings.com/blog/en/basics-agreements)
