@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'nucleated cells: narratives of competition versus cooperation'
+title: 'bateson: nucleated cells & narratives of competition versus cooperation'
 date: '2017-09-22T06:58:00-04:00'
 tags:
 - nucleated cells

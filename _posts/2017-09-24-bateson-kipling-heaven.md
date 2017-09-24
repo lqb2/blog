@@ -9,7 +9,7 @@ tags:
 - liberation
 --- 
 
-in the mary catherine bateson episode of on being, bateson cites her mom's love of a particular poem, _when earth's picture is painted_ by rudyard kipling. the full poem is at the end, but i really liked the conversation krista had with bateson about the poem's vision of heaven. 
+in the [mary catherine bateson episode of on being][onbeing], bateson cites her mom's love of a particular poem, _when earth's picture is painted_ by rudyard kipling. the full poem is at the end, but i really liked the conversation krista had with bateson about the poem's vision of heaven. 
 
 in a sense, it is one way of describing what i imagine an ideal world would be like. in fact, in a sense, it's the world i'm working towards with my all of my support work: coaching, website building, and personal storytelling. 
 
@@ -46,6 +46,8 @@ heaven is a place on earth, right?
 > For the God of things as they are! <br>
 
 <!-- hyperlink bank -->
+
+[onbeing]: https://onbeing.org/programs/mary-catherine-bateson-composing-a-life-aug2017/
 
 **words / writing / post-processing**  
 229w / 11min / 10min
