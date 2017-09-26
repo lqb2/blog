@@ -5,11 +5,12 @@ date: '2017-01-17T07:34:31-05:00'
 tags:
 - cooperatives
 - seasonal eating
+- food
 ---
 
 last week, i went to the local co-op grocery store of which i am a member. among other things, i needed cilantro and poblano peppers. they were out of cilantro. they also just don't sell poblano peppers at all.
 
-as i walked around the store getting other things i wanted, i got more and more angry. i thought, "wtf is the point of a local grocery store if they don’t carry shit? i'm willing to pay a little more to support a local business, but not if they're not gonna carry what i want. this is why people shop at giant chain stores so they can get what they need/want for cheap."
+as i walked around the store getting other things i wanted, i got more and more angry. i thought, "wtf is the point of a local grocery store if they don’t carry shit? i'm willing to pay a little more to support a local business, but not if they're not gonna carry what i want... this is why people shop at giant chain stores so they can get what they need/want for cheap."
 
 i bought the things i needed that they did actually have and went home. 
 
