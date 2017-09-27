@@ -6,6 +6,7 @@ tags:
 - food
 - seasonality
 - agriculture
+- seasonal eating
 --- 
 
 earlier this week i went to go look up a blog post i could've sworn i wrote about eating seasonally, but i couldn't find it. i realized that it wasn't a blog post but a section i'd written in my book draft, heh.[*](#footnote) #sweatdropemoji
@@ -22,6 +23,12 @@ but during the fall and winter, the food selection narrows. what's available are
 anyways, it's interesting for sure. and i'm hoping that the lifestyle shift that comes with eating seasonally may help change up our culture of wanting all the food in every season. maybe if we didn't culturally want strawberries in winter we'd find ways to farm them locally and stop destroying the planet with monoculture farming and the deforestation that comes along with it. 
 
 <a name="footnote">&#042;</a> i'm not totally sure what to do when things like this happen but i imagine this won't be the first or last time i make this confusion. either thinking i blogged about something but it's actually in the book or thinking something is in the book but it's actually on my blog. 
+
+### other interesting seasonal food resources
+
+* [eat seasonably - uk-based](http://eatseasonably.co.uk/what-to-eat-now/calendar/)
+* [seasonal food guide - us-based](https://www.seasonalfoodguide.org/)
+* [two big reasons to eat seasonally and how to actually do it](http://dontwastethecrumbs.com/2013/04/two-big-reasons-to-eat-seasonally-how-to-actually-do-it/)
 
 <!-- hyperlink bank -->
 
