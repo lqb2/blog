@@ -2,13 +2,13 @@ shortserve:
 	jekyll serve --watch --limit_posts 2
 
 writepost:
-	open http://127.0.0.1:4000/blog/
 	subl _posts/post-template.md	
 
 serve:
 	jekyll build
 	osascript -e 'tell application "Terminal" to activate' -e 'tell application "System Events" to tell process "Terminal" to keystroke "t" using command down'	
 	jekyll serve --incremental
+	open http://127.0.0.1:4000/blog/
 
 # publish command doesn't work yet
 publish:
