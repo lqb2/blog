@@ -2,7 +2,8 @@ shortserve:
 	jekyll serve --watch --limit_posts 2
 
 writepost:
-	subl _posts/post-template.md	
+	subl _posts/post-template.md
+	open hemingway
 
 serve:
 	open http://127.0.0.1:4000/blog/
