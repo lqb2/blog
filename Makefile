@@ -3,6 +3,7 @@ shortserve:
 
 writepost:
 	subl _posts/post-template.md
+	cd ../../Applications 
 	open hemingway
 
 serve:
