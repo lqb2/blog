@@ -3,8 +3,8 @@ shortserve:
 
 writepost:
 	subl _posts/post-template.md
-	cd ../../Applications 
-	open hemingway
+	cd ../../../Applications 
+	open Hemingway.app/
 
 serve:
 	open http://127.0.0.1:4000/blog/
