@@ -41,4 +41,4 @@ and i agree.
 <!-- hyperlink bank -->
 
 **words / writing / post-processing**  
-540w / 15min / 
+540w / 15min / 8min
