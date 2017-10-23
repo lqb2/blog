@@ -10,7 +10,7 @@ tags:
 - collective
 --- 
 
-note: this world was inspired by a convo with grant williams on 12 sept 2017). 
+note: this world was inspired by a convo with grant williams on 12 sept 2017. 
 
 ---
 
