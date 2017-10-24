@@ -8,7 +8,7 @@ tags:
 - podcast garage
 --- 
 
-a little over a week ago, i started intuition training... errrr... maybe training is the wrong word. but maybe it's the right word. idk. ANYWAYS. the point is that i was instructed by a new colleague/connection to play a game for a week with my intuition. 
+a little over a week ago, i started intuition training... errrr... maybe training is the wrong word. but maybe it's the right word. idk. ANYWAYS. the point is that i was instructed by a new colleague/connection, [the founder of the school for mindful play](schoolofmindfulplay.com), to play a game for a week with my intuition. 
 
 it's a very simple game: when i notice my intuition (which i think i feel in my stomach and in my chest), i should pay attention to it and go with it. if i'm at restaurant, i should choose by what i'm drawn to, not what i rationalize as being the best option. 
 
