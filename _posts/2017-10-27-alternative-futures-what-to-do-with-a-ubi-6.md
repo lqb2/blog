@@ -19,7 +19,7 @@ in hindsight, it was a little silly. i had become a doctor because that's what m
 
 i chose a comfortable place to live: the south end. i picked a comfortable partner: my high school sweetheart. i had the comfortable number of children created for us: one. 
 
-but now i really had to try and figure out where (if at all) i was willing to be made uncomfortable. my opinion has always been right. so now that the tri-branch discussion is coming up and i'm on the advisory board for the judicial branch, i have to prepare arguments and i'm just not sure what's possible... do i want to admit at all that there's weakness in the thinking of this branch in the past? i wasn't here, but now i'm implicated. decisions of the past? how was anyone supposed to know this would happen? 
+but now i really had to try and figure out where (if at all) i was willing to be made uncomfortable. my opinion has always been right. so now that the tri-branch discussion is coming up and i'm on the advisory board for the executive branch, i have to prepare arguments and i'm just not sure what's possible... do i want to admit at all that there's weakness in the thinking of this branch in the past? i wasn't here then, but now i'm implicated. decisions of the past... how was anyone supposed to know this would happen? 
 
 ---
 
