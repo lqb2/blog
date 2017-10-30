@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'alternative futures: what to do with a ubi (part 7)'
+title: 'alternative futures: what to do with a ubi (part 8)'
 date: '2017-10-29-T07:56:00-04:00'
 tags:
 - alternative futures
@@ -9,7 +9,7 @@ tags:
 - maximum income
 --- 
 
-continued from ([part 6]({{ site.baseurl }}2017/10/28/alternative-futures-what-to-do-with-a-ubi-8/))
+continued from ([part 7]({{ site.baseurl }}2017/10/28/alternative-futures-what-to-do-with-a-ubi-7/))
 
 ---
 

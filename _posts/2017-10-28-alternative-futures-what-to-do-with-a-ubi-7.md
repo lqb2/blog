@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'alternative futures: what to do with a ubi (part 6)'
+title: 'alternative futures: what to do with a ubi (part 7)'
 date: '2017-10-28-T08:01:00-04:00'
 tags:
 - alternative futures
