@@ -1,7 +1,7 @@
 shortserve:
 	jekyll serve --watch --limit_posts 2
 
-writepost:
+write:
 	subl _posts/post-template.md
 	open ../../../Applications/Hemingway.app/
 
