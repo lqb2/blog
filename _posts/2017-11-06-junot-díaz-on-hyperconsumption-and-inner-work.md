@@ -8,10 +8,9 @@ tags:
 - consumption
 - hyperconsumption
 - capitalism
-- 
 --- 
 
-this is the second takeaway thoughts from [the junot díaz episode of on being](https://onbeing.org/programs/junot-diaz-radical-hope-is-our-best-weapon-sep2017/). i'm just going to try and walk through a paraphrase of junot's thoughts in [this one section of the episode](https://overcast.fm/+BYAbhaNOI/26:01). 
+this is my [second takeaway]({{ site.baseurl }}tags/#junot díaz-ref) from [the junot díaz episode of on being](https://onbeing.org/programs/junot-diaz-radical-hope-is-our-best-weapon-sep2017/). i'm just going to try and walk through a paraphrase of junot's thoughts in [this one section of the episode](https://overcast.fm/+BYAbhaNOI/26:01). 
 
 1. **we have created a culture this is subject to a logic of hyperconsumption.** we aren't just consumers anymore. we are hyperconsumers. or maybe (thinking in terms of complexity) its that our individual consumer behavior creates a hyperconsumerist culture. either way, the big picture patterns are that those who sell the most tickets, get the most clicks, make the most sales are the winners. 
 
