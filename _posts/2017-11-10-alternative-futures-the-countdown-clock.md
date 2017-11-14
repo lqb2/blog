@@ -5,6 +5,7 @@ date: '2017-11-10T10:21:00-04:00'
 tags:
 - alternative futures
 - sex
+
 --- 
 
 as i put my jack in the coatroom i took a peek at sam's number: 238. damn. i was really hoping to see 0. he and his partner went on a long date last night and he had high hopes for how the evening would end. 
