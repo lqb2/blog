@@ -21,8 +21,8 @@ title: Productivity Resources
 * [on decision fatigue and cognitive budgets (part 1)]({{ site.baseurl }}2016/04/17/on-decision-fatigue-and-cognitive-budgets-part-1/)
 * [on decision fatigue and cognitive budgets (part 2): on routines and ‘personal systems’]({{ site.baseurl }}2016/05/09/on-decision-fatigue-and-cognitive-budgets-part/)
 * why do your heavy-thinking work in the morning, part 1, part 2
-* done is better than perfect
-* the difference between projects and tasks
+* [done is better than perfect]({{ site.baseurl }}2016/05/27/done-is-better-than-perfect/)
+* [the difference between projects and tasks]({{ site.baseurl }}2016/08/17/on-the-difference-between-projects-and-tasks/)
 * most productive people: 6 things they do everyday
 * turns out highly functioning people don't rely on their self-control
 * [on the ability to discern between urgency and importance]({{ site.baseurl }}2016/07/26/on-the-ability-to-discern-between-urgency-and/)
