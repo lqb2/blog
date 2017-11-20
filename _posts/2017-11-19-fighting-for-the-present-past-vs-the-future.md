@@ -3,7 +3,13 @@ layout: post
 title: 'the left vs the right: fighting for the past/present vs the future'
 date: '2017-11-19T07:01:00-04:00'
 tags:
-- 
+- white supremacy
+- whiteness
+- Charlottesville
+- imagination
+- future
+- futurism
+- extinction burst
 --- 
 
 somewhere around the 35:00 mark in the episode, [From 4Chan to Charlottesville: where the alt-right came from, and where it's going](https://player.fm/series/the-ezra-klein-show/from-4chan-to-charlottesville-where-the-alt-right-came-from-and-where-its-going), of the ezra klein show, ezra poses a frame of the current moment in america that was striking. 
