@@ -53,6 +53,8 @@ ppps - i read somewhere (maybe sister outsider?) about the fact that brilliant p
 
 pppps - this critique scales for most of the modern western world. our societies are in wrong relationship with the resources needed to sustain us. i recognize my complicity in this and am working on it. 
 
+ppppps - the fact that there are some academics that are exceptions to the above thinking does not mean that the system does not produce these outcomes on average. there were also masters who didn't whip their slaves (and if you think i'm extra for going there, just imagine how the slaves felt). 
+
 <!-- hyperlink bank -->
 
 
