@@ -12,7 +12,7 @@ preface: this is my short piece, written for the collaborative sci-fi generator 
 
 ---
 
-2297. 
+2297\.
 
 i wasn't really ready to go, but my uncles said i had to anyways. i had stayed a night with each of my relatives (blood and not) in the past week and this was the last stop. i knew i had to go, but i just didn't want you. i grabbed my pack and my staff (i always take my walking stick on trips over 100 miles) and met them at the door. i could feel the outside already: it was cold. fucking cold. 
 
