@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'pádraig ó tuama and carlo ravelli on here'
+title: 'pádraig ó tuama and carlo rovelli on here'
 date: '2017-03-21T08:15:00-04:00'
 tags:
 - on being
-- carlo ravelli
+- carlo rovelli
 - physics
 - social change
 - pádraig ó tuama

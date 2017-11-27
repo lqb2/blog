@@ -5,7 +5,7 @@ date: '2017-08-06T11:58:00-04:00'
 tags:
 - ezra glenn
 - relationships
-- carlo ravelli
+- carlo rovelli
 - buddhism
 --- 
 

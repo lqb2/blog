@@ -4,7 +4,7 @@ title: 'multiculturalism and the idea that all life is interaction'
 date: '2017-03-23T07:34:00-04:00'
 tags:
 - on being
-- carlo ravelli
+- carlo rovelli
 - physics
 - social change
 - interaction
@@ -16,7 +16,7 @@ back then, i couldn't really think through any answers to that question. however
 
 first, slavery and forced or chosen migration disprove one of the premises of the question. moving around the world is not an activity that only the elite participate in. most africans who became slaves didn't want to come to america... and yet here they were. those people, regardless of what they wanted before, have writings, songs, and all sorts of other cultural relics of the desire for a harmonious society. 
 
-second, this idea about from [carlo ravelli's on being interview](http://www.onbeing.org/programs/carlo-rovelli-all-reality-is-interaction) makes me believe that we do need a multicultural society. i will butcher it if i try to boil it down too much so i'll just drop the excerpt below. the gist of the point, though, is that psycists know (or are learning) that all of life is interactions. therefore, if we expand that thinking to society, all we are is the product of interactions. this is true even down to the biological way in which humans are made. so, if you were take that another step, as krista does, the flipside of idea would be that not interaction is anti-thetical to life. 
+second, this idea about from [carlo rovelli's on being interview](http://www.onbeing.org/programs/carlo-rovelli-all-reality-is-interaction) makes me believe that we do need a multicultural society. i will butcher it if i try to boil it down too much so i'll just drop the excerpt below. the gist of the point, though, is that psycists know (or are learning) that all of life is interactions. therefore, if we expand that thinking to society, all we are is the product of interactions. this is true even down to the biological way in which humans are made. so, if you were take that another step, as krista does, the flipside of idea would be that not interaction is anti-thetical to life. 
 
 :O
 

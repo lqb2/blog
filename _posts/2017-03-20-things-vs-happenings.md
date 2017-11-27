@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 'carlo ravelli: things versus happenings'
+title: 'carlo rovelli: things versus happenings'
 date: '2017-03-20T06:47:00-04:00'
 tags:
 - on being
-- carlo ravelli
+- carlo rovelli
 - physics
 - social change
 - culture
 --- 
 
-i'm listening to [the carlo ravelli episode of on being](http://www.onbeing.org/programs/carlo-rovelli-all-reality-is-interaction) and it's one of the few that really stretches me. the way he talks about math and physics in some ways is really elegant and in other ways is just way over my head. that said, there are still some interesting takeaways. 
+i'm listening to [the carlo rovelli episode of on being](http://www.onbeing.org/programs/carlo-rovelli-all-reality-is-interaction) and it's one of the few that really stretches me. the way he talks about math and physics in some ways is really elegant and in other ways is just way over my head. that said, there are still some interesting takeaways. 
 
 one of the first from this episode is carlo's ideas about things versus happenings. 
 
@@ -30,7 +30,7 @@ at the scale of the individual, it's how i can tell quickly in a coaching call h
 	<thead>
 		<tr>
 			<th>writing</th>
-			<th>spell-check, link-finding, & formatting</th>
+			<th>spell-check, link-finding, formatting</th>
 		</tr>
 	</thead>
 	<tbody>
