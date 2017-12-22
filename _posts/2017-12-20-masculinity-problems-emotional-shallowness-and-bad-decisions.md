@@ -7,7 +7,7 @@ tags:
 - patriarchy
 - vulnerability
 - on being
-- 
+- Antonio Damasio
 --- 
 
 ​this 2nd part of this two-part post on the problems of masculinity is about connection between emotions as necessary for decisions and patriarchal masculinity as the dominant decision making paradigm in the us.
@@ -16,7 +16,11 @@ in the previous part of this, i discussed how masculinity, defined incorrectly, 
 
 why does that matter for decision making?
 
-well, on the episode of on being with _ , a famous psychological case is discussed where someone loses the part of the brain that handles emotion. one of the most surprising impacts of that loss was the loss of ability to make decisions. this study lead to the eventual insight that **all decisions are connected to our emotions.**
+well, on the episode of on being with... well i can't actually remember or find the episode, but know it happened... anyway, there was a famous psychological case is discussed where someone loses the part of the brain that handles emotion. one of the most surprising impacts of that loss was the loss of ability to make decisions. this study lead to the eventual insight that **all decisions are connected to our emotions.** 
+
+sidenote: though i couldn't remember the original place i heard this, i did find [this other blog post](http://bigthink.com/experts-corner/decisions-are-emotional-not-logical-the-neuroscience-behind-decision-making) that references the same research:
+
+> A few years ago, neuroscientist [Antonio Damasio](http://www.motherjones.com/files/descartes.pdf) made a groundbreaking discovery. He studied people with damage in the part of the brain where emotions are generated. He found that they seemed normal, except that they were not able to feel emotions. But they all had something peculiar in common: they couldn’t make decisions. They could describe what they should be doing in logical terms, yet they found it very difficult to make even simple decisions, such as what to eat. Many decisions have pros and cons on both sides—shall I have the chicken or the turkey? With no rational way to decide, these test subjects were unable to arrive at a decision.
 
 i can't remember all the details, but essentially, what i remember is that without *any* access to emotions, the person wasn't able to make clear decisions because they couldn't "pull the trigger" on one option versus another. the insights developed over time essentially pointed to the reality that, even though our brain might create rational frameworks for weighing options against each other, the final decision comes down to how we *feel* about one option over another.
 
@@ -34,7 +38,7 @@ anyways, i could keep rambling, but i'll stop for now. patriarchal masculinity c
 
 ok. done for now. 
 
-ps - this makes me want to go back and reread the section in emergent strategy() about consensus as an ancient (r)evolutionary decision making framework...
+ps - this makes me want to go back and reread the section in [emergent strategy](https://www.akpress.org/emergentstrategy.html) about consensus as an ancient (r)evolutionary decision making framework...
 
 <!-- hyperlink bank -->
 
@@ -43,4 +47,4 @@ ps - this makes me want to go back and reread the section in emergent strategy()
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-593w / 20min / 
+593w / 20min / 10min
