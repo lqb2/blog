@@ -42,4 +42,4 @@ we live and die by stories. they fucking matter.
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-357w / 12min / 
+357w / 12min / 9min
