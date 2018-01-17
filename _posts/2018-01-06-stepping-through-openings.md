@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'openings: we don&#039;t always win, but we also don&#039;t always lose'
+title: 'solnit on openings: we don&#039;t always win, but we also don&#039;t always lose'
 date: '2018-01-06T09:39:00-04:00'
 tags:
 - rebecca solnit
