@@ -33,6 +33,7 @@ anyway, here's the (almost) full list. i might keep some detail here about i'm g
 * public one medium post about my coaching work per month
 * meditate: 20 mins/day + 1h session/week (the 1h session can replace one of the 20 minute days)
 * facilitate 100 meetings this year
+* schedule all my meetings during a 2-hour chunk of time on fridays (instead of trying to schedule meetings on the fly). note: there will be many exceptions to this, but i'm hoping that i can at least save non-urgent meetings to be scheduled during this chunk of time. 
 * keep my commitment made during amb's time in boston in nov 2017
     <!-- * “i want to be a commitment to holding space for people to transform. i want support myself and others to get enough rest & sleep (which are different things). i want to commit to teaching young ones to read (and therefore be free #frederick douglass). i want to commit to feeding those who are hungry. i want to be a commitment to noticing potential to connect and not forcing the connection.” -->
 * collaborate with more people of color on side projects
