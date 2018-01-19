@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'why i don&#042;t check email before noon'
+title: 'why i don&#039;t check email before noon'
 date: '2018-01-19T07:43:00-04:00'
 tags:
 - email
