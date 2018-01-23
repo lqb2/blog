@@ -8,11 +8,17 @@ tags:
 - alicia garza
 --- 
 
-last weekend, at a dear friend's birthday party, a new connection, inspired me to commit to a daily practice. that lovely human is named donna harati() and during one of the many, amazing conversations that weekend, she shared that she has committed to imagining the world she wants for 10 minutes a day. 
+last weekend, at a dear friend's birthday party, a new connection, inspired me to commit to a daily practice. that lovely human is named donna harati and during one of the many, amazing conversations that weekend, she shared that she has committed to imagining the world she wants for 10 minutes a day. 
 
 i was stunned. 
 
-she shared that she is inspired by [alicia garza](https://twitter.com/aliciagarza)'s commitment to "hope as a discipline." and when i saw the words below in a piece from junot díaz, i was struck. 
+Here is the piece where Alicia Garza talks about doing visioning for ten minutes a Day (toward the end) http://www.complex.com/life/2017/11/black-lives-matter-founder-alicia-garza-talks-staying-centered-in-the-face-of-extreme-adversity
+
+And the “hope as a discipline” idea is from Mariame Kaba (). 
+
+she shared that she is inspired the idea of “hope as a discipline” from mariame kaba [@prisonculture](https://twitter.com/prisonculture) as well as [alicia garza](https://twitter.com/aliciagarza)'s commitment ["to purposefully envision solutions and freedom for ten minutes a day."](http://www.complex.com/life/2017/11/black-lives-matter-founder-alicia-garza-talks-staying-centered-in-the-face-of-extreme-adversity)
+
+and then when i saw the words below in a piece from junot díaz, i was struck even more (even harder? idk). 
 
 > "Radical hope is our best weapon against despair, even when despair seems justifiable; it makes the survival of the end of your world possible. Only radical hope could have imagined people like us into existence. And I believe that it will help us create a better, more loving future." - [Under President Trump, Radical Hope Is Our Best Weapon](https://www.newyorker.com/magazine/2016/11/21/under-president-trump-radical-hope-is-our-best-weapon)
 
@@ -22,6 +28,13 @@ so that thinking should also apply to my work towards a more just world, too. if
 
 i've only done it a few days so far (because building habits takes time), but i've had some pretty excellent visions so far. this is gonna be an excellent practice to have worked into my system. thank you, donna, for the inspiration!!!
 
+
+
+--- 
+
+Here is the piece where Alicia Garza talks about doing visioning for ten minutes a Day (toward the end) http://www.complex.com/life/2017/11/black-lives-matter-founder-alicia-garza-talks-staying-centered-in-the-face-of-extreme-adversity
+
+And the “hope as a discipline” idea is from Mariame Kaba (@prisonculture). 
 <!-- hyperlink bank -->
 
 
