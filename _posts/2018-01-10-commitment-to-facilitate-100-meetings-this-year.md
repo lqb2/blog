@@ -33,8 +33,10 @@ anyway, practice, right?
 1. group annual reflection afternoon meeting. 6 jan, 430-515p. 
 2. culture committee meeting. 9 jan, 12-130p. 
 3. [fill in meetings above this]
+4. communications committee. 23 jan, 2-4p. 
 4. culture committee meeting. 24 jan, 1230-230p.
 5. unleashing alternative futures workshop x 3. 
+6. communications committee. 30 jan, 2-4p. 
 
 <!-- hyperlink bank -->
 
