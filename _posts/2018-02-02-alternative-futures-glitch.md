@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'alternative futures: the day everything disappeared'
+title: 'alternative futures: glitch'
 date: '2018-02-02T08:07:00-04:00'
 tags:
 - alternative futures
@@ -9,7 +9,7 @@ tags:
 - grant williams
 --- 
 
-<div class="message">preface: this is a science fiction story, flash fiction style. it'll probably be two parts. it is my output from world we built collaboratively during the [unleashing alternative futures workshop](http://colabradio.mit.edu/unleashing-alternative-futures-constructing-new-worlds-through-imagination-narrative-and-radical-hope/). </div>
+<div class="message">preface: this is a science fiction story, flash fiction style. it'll probably be two parts. it is my output from world we built collaboratively during the <a href="http://colabradio.mit.edu/unleashing-alternative-futures-constructing-new-worlds-through-imagination-narrative-and-radical-hope/">unleashing alternative futures workshop</a>. </div>
 
 ---
 
