@@ -25,7 +25,7 @@ i remember the day like it was yesterday. where i was, what i doing, who i was w
 
 ---
 
-### 2067 - jamaica plain - zi 
+### 2067 - back bay (vr) - zi 
 
 "come on, yall, let's gooooooo." 
 
@@ -51,6 +51,7 @@ i was bouncing around at the platform gate waiting for the rest of my raid team 
 
 "come onnnnnnn," i signaled through our team chat. "if we miss this elevator, we're not going to be able to get down this morning at all...
 
+see [part 2](2018/02/06/alternative-futures-glitch-part2/)...
 
 <!-- hyperlink bank -->
 
