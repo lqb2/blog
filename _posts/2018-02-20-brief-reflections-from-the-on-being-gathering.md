@@ -5,6 +5,7 @@ date: '2018-02-20T11:32:00-04:00'
 tags:
 - on being
 - reflections
+- on being gathering reflections
 --- 
 
 i got back this morning (like 1a e.s.t.) from california coming off of the first [on being gathering](https://onbeing.org/on-being-gathering/). it was beautiful and problematic (as are most things). here are just a few highlight reflections that i want not to forget. 

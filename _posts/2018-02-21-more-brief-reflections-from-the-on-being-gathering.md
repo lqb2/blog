@@ -5,6 +5,7 @@ date: '2018-02-21T07:00:00-04:00'
 tags:
 - on being
 - reflections
+- on being gathering reflections
 --- 
 
 a few, longer, more detailed reflections from my time at the [on being gathering](https://onbeing.org/on-being-gathering/).
