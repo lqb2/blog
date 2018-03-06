@@ -1,9 +1,12 @@
 ---
 layout: post
-title: '"be a conduit" (and other phrases for 2018)'
+title: '"be a conduit" (and other phrases/mantras for 2018)'
 date: '2018-01-07T08:25:00-04:00'
 tags:
-- 
+- reflection
+- mantras
+- mantra
+- 2018
 --- 
 
 ## my phrase for 2018: be a conduit
