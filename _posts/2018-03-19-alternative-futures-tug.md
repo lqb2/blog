@@ -3,7 +3,8 @@ layout: post
 title: 'alternative futures: tug'
 date: '2018-03-19T08:30:00-04:00'
 tags:
-- 
+- alternative futures
+- time travel
 --- 
 
 a single drop of sweat rolled over each rib down the left of my chest and into the elastic band of my underwear. "nerves" didn't begin to describe what my body was feeling.
@@ -16,7 +17,7 @@ even as i was freaking the fuck out, i knew the time would be useful. five secon
 
 5 seconds left.
 
-i closed my eyes, leaned back in my chair, and shut out all my classmates and the teachers. i slowed my heart to 20 beats a minute and reached back as gently as i could. i extended my energy field backwards in time to my mom, jackie, and then the woman, the mother, who raised her, carrie. i always struggled with the gap between carrie and carrie's mother but i had learned to cross that chasm fluidly enough to do it quickly now. i reached back to carrie's mother, whose name i may never know, and then to carrie's grandmother. 
+i closed my eyes, leaned back in my chair, and shut out all my classmates and the teachers. i slowed my heart to 20 beats a minute and reached back as gently as i could. i extended my energy field backwards in time to my mom, jackie, and then the woman, the mother, who raised her, carrie. i always struggled with the gap between carrie and carrie's mother but i had learned to cross that rift fluidly enough to do it quickly now. i reached back to carrie's mother, whose name i may never know, and then to carrie's grandmother. 
 
 4 seconds left. 
 
@@ -35,13 +36,16 @@ i wonder how many more years i could keep drawing on this energy when i needed i
 
 the atoms in the room slowly started vibrating again as i relaxed my control of the space. my heartbeat sped up to normal speed and the words flying across the room quickened from an exagerrated southern drawl to a regular southern drawl. 
 
-i raised my hand, high, even though i knew the teacher wouldn't likely call on my black hand to answer her question about the civil war... someday... 
+i raised my hand, high, even though i knew the teacher wouldn't likely call on me to answer her question about the civil war... someday... 
+
+[<a href="{{ site.baseurl }}2018/03/23/alternative-futures-tug-part-2/">see part 2...</a>]
 
 ## notes:
 longer arcs of this story include:
-* a whole story that uses the time stop slowdown as a plot device (sort of similar to kindred's time jumps and also chronicles of a death foretold which is an entire book/short story over a single day). 
+* a whole story that uses the time stop slowdown as a plot device (sort of similar to kindred's time jumps and also [chronicle of a death foretold](https://www.goodreads.com/book/show/23878.Chronicle_of_a_Death_Foretold) which is an entire book/short story over a single day). 
 * the reaching back and pulling energy eventually depletes the ancestors... until the protagonist realizes that he can send energy backward by healing trauma in the present. 
 * the protagonist recognizing that he's in a race to fill up his own spiritual well so he can be reached back to by his nephews (or some other chosen child) since he has no kids of his own. 
+* freezing / slowing down time for small spaces has pretty dramatic negative affects on the world outside of that space. the main character is just beginning to develop this power, but he's definitely got lots of growing to do... and with growth comes growing pains, always...
 <!-- hyperlink bank -->
 
 

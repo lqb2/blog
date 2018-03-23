@@ -4,7 +4,7 @@ shortserve:
 write:
 	sublime .
 	sublime _posts/post-template.md
-	open ../../../../Applications/Hemingway.app/
+	open '../../../../../Applications/Hemingway Editor.app/'
 
 serve:
 	open http://127.0.0.1:4000/blog/
