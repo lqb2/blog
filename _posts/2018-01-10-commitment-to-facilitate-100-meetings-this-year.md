@@ -37,6 +37,12 @@ anyway, practice, right?
 4. culture committee meeting. 24 jan, 1230-230p.
 5. unleashing alternative futures workshop x 3. 
 6. communications committee. 30 jan, 2-4p. 
+1. [fill in meetings here]
+1. staff check-in meeting. 7 march, 3-4p
+1. personal theory of practice development meeting. 8 march. 1-4p.
+4. communications committee. 13 march. 230-330p. 
+1. personal theory of practice development planning session. 21 march. 12-1p.
+1. alternative futures + the mit libraries. 23 march. 10-11a.
 
 <!-- hyperlink bank -->
 
