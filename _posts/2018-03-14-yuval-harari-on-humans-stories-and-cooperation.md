@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'what sets humans apart is our ability to create stories that can lead to massive cooperation'
+title: 'yuval: harari what sets humans apart is our ability to create stories that can lead to massive cooperation'
 date: '2018-03-14T08:00:00-04:00'
 tags:
 - yuval harari

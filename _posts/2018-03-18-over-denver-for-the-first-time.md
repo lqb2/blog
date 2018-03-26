@@ -10,7 +10,7 @@ tags:
 - city
 --- 
 
-[photo]
+![Imgur](https://i.imgur.com/nfwOhW3.jpg)
 
 yesterday, i flew over denver, colorado at night for the first time. it sort of blew my mind. it was a bit of a euphoric experience. i often have experiences like that when i fly. when i see the strangely wondrous shapes and forms our species grinds into the earth, i am often both astonished and heartbroken. 
 
@@ -18,22 +18,26 @@ but last night, flying over denver was something different. as we approached, mo
 
 i checked the headrest map. denver approaching. 
 
+![Imgur](https://i.imgur.com/jlAOJaI.jpg)
+
 and as we approach, i see the city splay out. a massive blotch of streetlight orange. we do a slight right bank and the denver reveals her inner workings to our gaze.
 
-[photo]
+![Imgur](https://i.imgur.com/CEr5gxA.jpg)
 
 as we fly over, i saw the detail in the city structure. mostly, square blocks divided by rivers of deep yellows and uncomfortable, tungsten blues. millions of people (how big is the population of denver? i should know this) packed into this desert oasis. how did this happen? humans are fascinating, earth-dwelling creatures. 
 
-[photo]
+![Imgur](https://i.imgur.com/ulyhrAj.jpg)
 
 the city recedes. i can't seem to take enough photos. every time i go to pick up my (third) bag of pop corners, the scene has changed enough to want a new shot. i crunch, drop the bag, snap a photo, pick up the bag. repeat maybe five times. i (mindfully) notice the loop i'm stuck in even as it happens. fascinating. 
 
-[photo]
+![Imgur](https://i.imgur.com/nnD0bu9.jpg)
 
 the plane noses into darkness and the jellyfish that appear now are tiny. they are scattered far and wide and have only a few points of light in each. 
 
-i wonder if this is how patternists see...
 
+![Imgur](https://i.imgur.com/ttnTvtK.jpg)
+
+i wonder if this is how patternists see...
 
 <!-- hyperlink bank -->
 
