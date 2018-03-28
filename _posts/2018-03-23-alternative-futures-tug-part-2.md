@@ -17,17 +17,21 @@ in my excitement, i hadn't thought through how she might react. in what felt to 
 
 "xius albertus, do you *ever* think things through before you just throw your power around?" 
 
-quick, salty started to roll down my cheeks. 
+quick, salty tears started to roll down my cheeks. 
 
 "do you know what happened to the rest of your classmates after you did that?" 
 
 i shook my head slowly.
 
-e grabbed my hand to share her sight with me. as i felt myself seeing through her mind, she extended her gaze my teacher's computer. on the screen was email after email from parents asking about why their kid had come home feeling so sick. some of the emails even reported that kids had been throwing up all afternoon. 
+she grabbed my hand to share her sight with me. as i felt myself seeing through her mind, she extended her gaze my teacher's computer. on the screen was email after email from parents asking about why their kid had come home feeling so sick. some of the emails even reported that kids had been throwing up all afternoon. 
 
 i stammered. "i d...di....did that?"
 
 "yes, idiot. you did that. you need practice. and wisdom. gaia, help us ALL if we don't get you some wisdom..."
+
+---
+
+**new thought that came to me during my hour meditation on 28 march 2018**: xius thinks that he is learning to control time just like his elders but it turns out that they're all watching him because he's actually learning to do it differently. his ability to do it in small spaces is new and people aren't really sure what to do about it. some are afraid of his break from tradition; others think he's a savior. 
 
 <!-- hyperlink bank -->
 
