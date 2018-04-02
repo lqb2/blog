@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'leopold kohr, size cyclces, and the question of scale: maybe the country is just too damn big'
+title: 'leopold kohr, size cycles, and the question of scale: maybe the country is just too damn big'
 date: '2018-04-01T07:37:00-04:00'
 tags:
 - leopold kohr
