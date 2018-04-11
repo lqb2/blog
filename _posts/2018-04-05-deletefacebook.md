@@ -1,12 +1,12 @@
 ---
 layout: post
-title: '#deletefacebook'
+title: 'alternative futures: #deletefacebook'
 date: '2018-04-05T07:09:00-04:00'
 tags:
 - #deletefacebook
 - facebook
 - earthseed
-- 
+- alternative futures
 --- 
 
 > all that you touch,  

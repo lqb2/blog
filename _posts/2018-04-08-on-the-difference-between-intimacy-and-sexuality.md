@@ -25,7 +25,7 @@ all of this is interesting because it's quite ironic that closeness with  others
 
 there's so much more to unpack here but i'm going to leave it alone and end with this, one of my favorite, bell hooks quotes: 
 
-“The first act of violence that patriarchy demands of males is not violence toward women. Instead patriarchy demands of all males that they engage in acts of psychic self-mutilation, that they kill off the emotional parts of themselves. If an individual is not successful in emotionally crippling himself, he can count on patriarchal men to enact rituals of power that will assault his self-esteem.” — bell hooks, [all about love](https://www.goodreads.com/book/show/17607.All_About_Love)
+> “The first act of violence that patriarchy demands of males is not violence toward women. Instead patriarchy demands of all males that they engage in acts of psychic self-mutilation, that they kill off the emotional parts of themselves. If an individual is not successful in emotionally crippling himself, he can count on patriarchal men to enact rituals of power that will assault his self-esteem.” — bell hooks, [all about love](https://www.goodreads.com/book/show/17607.All_About_Love)
 
 <!-- hyperlink bank -->
 
