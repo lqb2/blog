@@ -3,7 +3,11 @@ layout: post
 title: 'lessons from the justice collective'
 date: '2018-04-11T07:20:00-04:00'
 tags:
-- 
+- the justice collective
+- reflection
+- lessons
+- learning
+- thinking out loud
 --- 
 
 a couple of weeks ago, my day job had a retreat facilitated by [the justice collective](http://www.thejusticecollective.org/). i learned a shitton and  wanted to put up here some of the things i learned. partly because i want to be able to give credit where credit is due, partly because i want to be able to remember where i got shit from, and partly because i'm an external processor and processing things out like (verbal or via writing) helps me integrate. this post is mostly going to be stream of consciousness and may or may not make much sense. &shrug; 
@@ -21,7 +25,7 @@ i'm gonna write these thoughts in 10 minute chunks so it'll probably take multip
 * [need to ask tjc about their equity vs equality graphic] 
 i like this graphic because it shows the inequality of the terrain too. i'm torn about the fact that it makes all the people all the same height. the pro is that it doesn't imply that some individual people have actual deficits. the con is that, in my mind, people are actually different and that should impact what equity looks like and how we achieve it. 
 
-to be continued...
+[to be continued...]({{ site.baseurl }}2018/04/12/lessons-from-the-justice-collective-part-2/)
 
 <!-- hyperlink bank -->
 
