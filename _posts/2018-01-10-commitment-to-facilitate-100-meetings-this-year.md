@@ -43,6 +43,9 @@ anyway, practice, right?
 4. communications committee. 13 march. 230-330p. 
 1. personal theory of practice development planning session. 21 march. 12-1p.
 1. alternative futures + the mit libraries. 23 march. 10-11a.
+2. [fill in]
+4. communications committee. 22 june 10a-12p.
+
 
 <!-- hyperlink bank -->
 
