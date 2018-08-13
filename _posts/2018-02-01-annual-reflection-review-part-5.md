@@ -7,7 +7,7 @@ tags:
 - reflection
 --- 
 
-<p class="message">continued from [yesterday]({{ site.baseurl }}2018/01/31/annual-reflection-review-part-4/)...</p>
+[part 1]({{ site.baseurl }}2018/01/23/annual-reflection-review-part-1/)|[part 2]({{ site.baseurl }}2018/01/24/annual-reflection-review-part-2/)|[part 3]({{ site.baseurl }}2018/01/30/annual-reflection-rebn ,view-part-3/)|[part 4]({{ site.baseurl }}2018/01/31/annual-reflection-review-part-4/)
 
 ## day 4
 

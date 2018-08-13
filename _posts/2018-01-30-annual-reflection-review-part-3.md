@@ -7,6 +7,8 @@ tags:
 - reflection
 --- 
 
+[part 1]({{ site.basurl }}2018/01/23/annual-reflection-review-part-1/)|[part 2]({{ site.baseurl }}2018/01/24/annual-reflection-review-part-2/)|[part 4]({{ site.baseurl }}2018/01/31/annual-reflection-review-part-4/)|[part 5]({{ site.baseurl }}2018/02/01/annual-reflection-review-part-5/)
+
 at this point, three weeks out, days 3 and 4 of [my 2018 annual reflection][annual reflection] sort of blend together for me. i definitely should have kept better record or written closer to the dates, but, alas, here we are. either way, two things i want to share about days 3 and 4 of the retreat are (a) the structure and (b) what i actually did. 
 
 ## the structure

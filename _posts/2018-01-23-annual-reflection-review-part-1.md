@@ -6,6 +6,8 @@ tags:
 - annual reflection
 --- 
 
+[part 2]({{ site.baseurl }}2018/01/24/annual-reflection-review-part-2/)|[part 3]({{ site.baseurl }}2018/01/30/annual-reflection-review-part-3/)|[part 4]({{ site.baseurl }}2018/01/31/annual-reflection-review-part-4/)|[part 5]({{ site.baseurl }}2018/02/01/annual-reflection-review-part-5/)
+
 so! it's been a few weeks and i'm feeling the urge to write this year's [annual reflection]({{ site.baseurl }}tags/#annual reflection-ref) process. in some ways, i'm sort of surprised it took me this long to write about it, but i've also been real busy, so i'm just gonna blame it on that. 
 
 anyways, this year, i reflected for four (really 4.5) days. it was absolutely luxurious (in a "this shouldn't be a luxury because everyone should have the opportunity to reflect on their lives but oppression is a thing so some people don't get that opportunity" so of way) and i am grateful to things that have aligned to make it possible for me to do it. 
