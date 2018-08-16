@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'the future of code isn't code'
+title: 'the future of code isn&#039;t code'
 date: '2018-08-13T07:44:00-04:00'
 tags:
 - oppression
