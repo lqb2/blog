@@ -30,4 +30,4 @@ thanks, freire!
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-361w / 11min / 
+361w / 13min / 6min
