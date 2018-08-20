@@ -6,7 +6,7 @@ tags:
 - 
 --- 
 
-<p class="message">this is a message from a new connection, liz, who is working to get some help for a friend of hers, geraldine. if you're interested, email me: [lqb [at] alum dot mit dot edu](mailto:lqb@alum.mit.edu).</p>
+<p class="message">this is a message from a new connection, liz, who is working to get some help for a friend of hers, geraldine. if you're interested, email me: lqb @ alum . mit . edu</p>
 
 Geraldine moved to the U.S. from Tanzania with a masters degree in education. She has 5 children and she's found that, in the immigrant and refugee communities she's a part of, a number of women will band together to watch each other’s children while they work. While caretaking for one another these children are not being educated. They are just getting care, which is good, but it is creating a gap in literacy, culture, integration, and education as they transition into local schools. When many of them enter school at age 5, it's the first time they're being exposed to English and English curriculums (most of the women staying home to watch the kids are illiterate themselves).
 
