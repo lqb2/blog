@@ -99,7 +99,17 @@ anyway, practice, right?
 6. discuss needs of the css training network. 17 july, 230-330p.
 4. pedagogy of the oppressed online book club. 19 july, 4-5p. 
 5. management retreat. 23 & 24 july, 9a-5p + 830-1p.
-6. 
+4. pedagogy of the oppressed online book club. 26 july, 4-5p. 
+3. life coaching. 27 july, 5-6a.
+6. retreat debrief. 31 july, 6-7p.
+2. self-determination narrative fellowship group meeting. 15 aug, 7-830a.
+4. pedagogy of the oppressed online book club. 16 aug, 4-5p. 
+7. mouse: [mapping our ecosystems of care](http://oldoakdojo.com/event/mapping-our-ecosystems-of-care/). 19 aug, 1230-4p. 
+2. self-determination narrative fellowship group meeting. 29 aug, 7-830a.
+3. life coaching. 29 aug, 1230-2p.
+8. personal storytelling for social change workshop prep meeting. 7 sept, 1-2p. 
+8. personal storytelling for social change workshop. 8 sept, 10a-1p.
+9. 
 
 
 
