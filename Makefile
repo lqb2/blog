@@ -2,9 +2,9 @@ shortserve:
 	jekyll serve --watch --limit_posts 2
 
 write:
-	sublime .
-	sublime _posts/post-template.md
-	open '../../../../../Applications/Hemingway Editor.app/'
+	subl.
+	subl _posts/post-template.md
+	open '../../../../Applications/Hemingway.app/'
 
 serve:
 	open http://127.0.0.1:4000/blog/
