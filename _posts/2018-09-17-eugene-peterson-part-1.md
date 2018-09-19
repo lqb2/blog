@@ -10,7 +10,11 @@ tags:
 - the prophets
 --- 
 
+
+
 [eugene peterson's interview on on being][eugene] was unreal. it's one of the only episodes i've listened to twice. the first time through was just to take it all in and the second time i took copious notes. here begins the download of all the thoughts that deeply resonated with me from his talk. each of these thoughts could be it's own entire post but let's see how it goes...
+
+<p class="message"><a href="{{ site.baseurl }}2018/09/19/eugene-peterson-part-2/">part 2</a></p>
 
 ---
 
