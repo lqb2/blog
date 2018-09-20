@@ -14,7 +14,7 @@ tags:
 
 --- 
 
-<p class="message"><a href="{{ site.baseurl }}2018/09/19/eugene-peterson-part-2/">part 1</a><a href="{{ site.baseurl }}2018/09/19/eugene-peterson-part-2/">part 2</a> of this series on eugene peterson's interview on on being.</p>
+<p class="message"><a href="{{ site.baseurl }}2018/09/19/eugene-peterson-part-2/">part 1</a>, <a href="{{ site.baseurl }}2018/09/19/eugene-peterson-part-2/">part 2</a> of this series on eugene peterson's interview on on being.</p>
 
 > “We cannot be too careful about the words we use. We start out using them, and they end up using us.” – Eugene Peterson
 
