@@ -30,9 +30,10 @@ tags:
 
 speak explicitly the ways that patriarchy harms men to men (and everyone).
 
-## How would I describe the book to a friend? 
+## How would I describe the book to a friend?
 
 a standard mindblowing bell hooks text, this book explains clearly, essay after essay, how patriarchy has harmed men in their search for love. she lays out some of the work that needs to be undertaken in order to heal men and, inspite of her critiques of how that work has been avoided, it is clear that she loves men, wants men to love themselves, and wants people to love men.
+
 ---
 
 reminder: **[book review structure]({{ site.baseurl }}2018/09/22/trying-out-a-new-book-review-structure/)**
