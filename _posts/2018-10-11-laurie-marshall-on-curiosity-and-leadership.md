@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'learning from nature with laurie marshall about curiosity and leadership'
-date: '2018-10-11T00:00:00-04:00'
+date: '2018-10-11T08:00:00-04:00'
 tags:
 - curiosity
 - leadership

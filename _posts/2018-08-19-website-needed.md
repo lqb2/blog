@@ -3,7 +3,7 @@ layout: post
 title: 'day care center for immigrant and refugee children needs website'
 date: '2018-08-19T11:27:00-04:00'
 tags:
-- 
+- opportunity
 --- 
 
 <p class="message">this is a message from a new connection, liz, who is working to get some help for a friend of hers, geraldine. if you're interested, email me: lqb @ alum . mit . edu</p>
