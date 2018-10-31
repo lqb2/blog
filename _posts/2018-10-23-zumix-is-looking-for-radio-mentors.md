@@ -6,7 +6,7 @@ tags:
 - opportunity
 --- 
 
-Zumix has three amazing young women who are starting new radio shows, and we are looking for community-oriented adults who might want to join up with them as volunteer mentors. 
+[Zumix](http://zumix.org/) has three amazing young women who are starting new radio shows, and we are looking for community-oriented adults who might want to join up with them as volunteer mentors. 
 
 The role involves accompanying one radio show for an hour and a half weekly (weekdays between the hours of 4 and 8pm), offering personal support, artistic feedback and long-term planning help.  We hope volunteers can make a commitment of at least one year, though we have many matches that have been going strong for multiple years.  We will be holding interviews in the end of October, when our young people can ask potential mentors some questions to see if it might be a good fit. 
 
