@@ -7,7 +7,7 @@ tags:
 - love languages
 --- 
 
-last week as i was doing more work to prep for the upcoming nine months of the formation project, i took a step i've been meaning to take for years: i finally took the love languages quiz! 
+last week as i was doing more work to prep for the upcoming nine months of the formation project, i took a step i've been meaning to take for years: i finally took [the love languages quiz](https://www.5lovelanguages.com/)! 
 
 i knew my top ones mostly because i try to be pretty observant of my habits and patterns, but it was nice to actually take the damn thing. 
 
