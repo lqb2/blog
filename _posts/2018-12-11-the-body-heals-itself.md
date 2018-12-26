@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'the body heals itself'
+title: 'the body wants to heal itself'
 date: '2018-12-11T07:56:00-04:00'
 tags:
 - healing

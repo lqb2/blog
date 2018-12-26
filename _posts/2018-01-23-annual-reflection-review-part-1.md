@@ -4,6 +4,7 @@ title: '2018 annual reflection review: part 1'
 date: '2018-01-23T07:24:00-04:00'
 tags:
 - annual reflection
+- annual reflection retreat
 --- 
 
 [part 2]({{ site.baseurl }}2018/01/24/annual-reflection-review-part-2/)|[part 3]({{ site.baseurl }}2018/01/30/annual-reflection-review-part-3/)|[part 4]({{ site.baseurl }}2018/01/31/annual-reflection-review-part-4/)|[part 5]({{ site.baseurl }}2018/02/01/annual-reflection-review-part-5/)

@@ -5,6 +5,7 @@ date: '2018-01-30T07:07:00-04:00'
 tags:
 - annual reflection retreat
 - reflection
+- annual reflection
 --- 
 
 [part 1]({{ site.basurl }}2018/01/23/annual-reflection-review-part-1/)|[part 2]({{ site.baseurl }}2018/01/24/annual-reflection-review-part-2/)|[part 4]({{ site.baseurl }}2018/01/31/annual-reflection-review-part-4/)|[part 5]({{ site.baseurl }}2018/02/01/annual-reflection-review-part-5/)
