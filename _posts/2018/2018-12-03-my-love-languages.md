@@ -5,6 +5,7 @@ date: '2018-12-03T07:38:00-04:00'
 tags:
 - personal development
 - love languages
+- self-mastery
 --- 
 
 last week as i was doing more work to prep for the upcoming nine months of the formation project, i took a step i've been meaning to take for years: i finally took [the love languages quiz](https://www.5lovelanguages.com/)! 

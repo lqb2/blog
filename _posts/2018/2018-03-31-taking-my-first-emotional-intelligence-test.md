@@ -6,6 +6,7 @@ tags:
 - emotional intelligence
 - the justice collective
 - personal development
+- self-mastery
 --- 
 
 earlier this week at a retreat facilitated by [the justice collective](http://www.thejusticecollective.org/), i took my first emotional intelligence (aka EQ) test. i knew about eq and the book, [emotional intelligence 2.0](https://www.goodreads.com/book/show/6486483-emotional-intelligence-2-0?) is currently on my reading list. but i haven't read it yet so this was a great opportunity to get into it!
