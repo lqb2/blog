@@ -26,6 +26,14 @@ regeneration makes that obsolete. now the task becomes: how can i improve things
 
 the shift in this direction won't happen without hard work, but if we can make that leap, we just might make it. 
 
+## random articles
+
+* https://www.jwtintelligence.com/2018/09/new-trend-report-the-new-sustainability-regeneration/
+* https://www.theguardian.com/sustainable-business/blog/sustainability-unhelpful-think-regeneration
+* https://medium.com/@designforsustainability/beyond-sustainability-we-are-living-in-the-century-of-regeneration-4f2b116a65d1
+* https://www.resilience.org/stories/2018-05-23/sustainability-is-not-enough-we-need-regenerative-cultures/
+* https://www.organicconsumers.org/essays/%E2%80%98sustainable%E2%80%99-%E2%80%98regenerative%E2%80%99%E2%80%94-future-food
+
 <!-- hyperlink bank -->
 
 
