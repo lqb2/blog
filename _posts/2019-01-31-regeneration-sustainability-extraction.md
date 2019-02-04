@@ -34,6 +34,13 @@ the shift in this direction won't happen without hard work, but if we can make t
 * https://www.resilience.org/stories/2018-05-23/sustainability-is-not-enough-we-need-regenerative-cultures/
 * https://www.organicconsumers.org/essays/%E2%80%98sustainable%E2%80%99-%E2%80%98regenerative%E2%80%99%E2%80%94-future-food
 
+---
+
+## updates
+
+* 3 feb 2019 - danya sherman shared this article with me, shared to her by, freedom farms 
+    * [regenerative organic agriculture](https://rodaleinstitute.org/why-organic/organic-basics/regenerative-organic-agriculture/)
+
 <!-- hyperlink bank -->
 
 

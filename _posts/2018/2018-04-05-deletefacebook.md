@@ -51,9 +51,9 @@ dear friend, cronebone sends me this: [#deletefacebook](https://techcrunch.com/2
 
 4 april 2018. reading jaron lanier's [you are not a gadget](https://www.goodreads.com/book/show/6683549-you-are-not-a-gadget). this section screams to me the answer. 
 
-> [coming as soon as i type up this quote from the afterword of the paperback version]
+> “Our willingness to suffer for the sake of the perception of freedom is remarkable.” 
 
-i decided to start telling people that i was going to delete my facebook. i told casper, katherine, a few others. 
+i decided to start telling people that i was going to delete my facebook. i told [casper](http://www.caspertk.com/), [katherine](https://kerclay.com/), a few others. 
 
 i started a list of things that kept me on the platform so i could think through how to live without it. 
 
@@ -64,7 +64,7 @@ i started a list of things that kept me on the platform so i could think through
 
 some of these things feel irreplacable. they aren't. we lived without facebook before. surely we can do it again. 
 
-can we? 
+...right? 
 
 i remember looking for scripts to download all my content. and then i realized, i probably just *need* my photos. it would be amazing to have all the posts and conversations as an archive of my life from 2006 to 2018... but i probably don't need them. 
 
@@ -74,15 +74,19 @@ and then i did it early.
 
 i wasn't the first. but i was on the early side. 
 
-and then, just like facebook started, it collapsed. my friends who worked there lost their jobs. it was ok, though. they'd were wealthier than anyone else in their lineages had ever been. 
+and then, just like facebook started, it started to collapse. my friends who worked there lost their jobs. it was ok, though. they were wealthier than anyone else in their lineages had ever been. 
 
-it was weird at first. telling people i didn't have facebook. but it gave me an excuse and a reason to build out my personal website and start giving it to more and more people. 
+but before the collapse began, it felt strange, telling people i didn't have facebook. but it gave me an excuse and a reason to build out [my website](http://www.lawrencebarrinerii.com/) and give it to more and more people. 
 
-jaron lanier was so right about this. giant platforms flatten creativity because we all start using the sum of provided checkboxes to differentiate ourselves from each other. 
+jaron lanier was so right. giant platforms flatten creativity because we all start using the sum of provided checkboxes to differentiate ourselves from each other. 
 
-but that's dumb. and also was only ever a partial picture. i was always more complex than my checkboxes (male, age, location, sexuality, religion, job). my custom-built website reminded me of that. myspace was more like that than facebook. i hope we continue to move in the direction of more flexibility and creativity. the benefits of facebook were nice.
+but that's doesn't make any sense. that was only ever a partial picture. i was always more complex than my checkboxes (gender, age, location, sexuality, religion, job). my custom-built website reminded me of that. myspace was more like that than facebook. 
 
-but not nice enough to let them get rich off my privacy and data. and also not nice enough to let them sway global power dynamics. 
+hopefully, we continue to move in the direction of more flexibility and creativity. 
+
+i don't mean to gloss over the upsides. the benefits of facebook were nice.
+
+but not nice enough to let them get rich off my privacy and data. and definitely not nice enough to let them sway global power dynamics. 
 
 and so i missed a lot of events. i didn't see as many new babies. but i got much closer to people in my community. and i spent more time with my nephews. i helped them learn to read and ride ripsticks and meditate and pop popcorn and grow tomatoes. 
 
