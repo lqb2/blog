@@ -37,4 +37,4 @@ the sunken slave ship was a dark figure in inky waters and today, i would sit on
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-3082 / 10min / 3min
+? / 10min / 3min
