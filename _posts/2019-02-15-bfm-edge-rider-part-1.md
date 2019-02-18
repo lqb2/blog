@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'black history/futures: edge rider'
+title: 'black history/futures: edge rider: part 1'
 date: '2019-02-15T07:23:00-04:00'
 tags:
 - black history/futures month
@@ -25,6 +25,10 @@ as he softly lowered himself to the ground, he threw on his coat, a gift from hi
 the nerves arose (as they always did) and he took a deep breath, thanked them for their information, and let them fade.
 
 "good morning, traveler. let me take your bag. i'll leave inside the door. we're going for a walk..."
+
+
+
+[_edge rider: part 2_]({{ site.baseurl }}2019/02/18/bfm-edge-rider-part-2/)
 
 <!-- hyperlink bank -->
 

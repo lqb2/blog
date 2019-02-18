@@ -10,6 +10,8 @@ tags:
 
 <p class="message">it's feb! that means it's black history/futures month. my goal is one flash fiction story every day. all stories from the month <a href="{{ site.baseurl }}tags/#black%20history/futures%20month-ref">here</a>.</p>
 
+_inspiration: tara roberts' slave wrecks project_
+
 i wish i knew why rubbing my eyes felt _so_ good. i think it must be because i'm tired. or maybe it's because my eyes were learning to acclimate to the deep sea saltwater i spent so much time in. 
 
 who knows. 
