@@ -6,7 +6,7 @@ tags:
 - vulnerability
 --- 
 
-last week in my formation call, our facilitator, djalóki, dropped some wisdom that i totally wasn't ready for. several members of the group were preparing to give upcoming talks and dealing with nerves. and then dja said this (paraphrased):
+last week in my formation call, our facilitator dropped some wisdom that i totally wasn't ready for. several members of the group were preparing to give upcoming talks and dealing with nerves. and then dja said this (paraphrased):
 
 _in the west, we are conditioned to believe that speakers who are confident and calm are better, more impactful, etc. but in actuality,  all of us are scared! maybe some people hide it better than others, but it's true at some level for all of us. so people are increasingly trusting and believing (and maybe always have) is people who have the courage to show their vulnerability. if that's how you're feeling when giving a talk, just be that. you'll connect._
 
