@@ -11,7 +11,7 @@ i've decided to start collecting/cataloging all the self-knowledge tools i take 
 
 so far i know my:
 
-* astrology natal chart (aries sun : virgo moon : aquarius rising)
+* [astrology natal chart]({{ site.baseurl }}2019/03/07/natal-chart/) (aries sun : virgo moon : aquarius rising)
 * enneagram: 2 with a 1 wing
 * [love languages: physical touch and quality time]({{ site.baseurl }}2018/12/03/my-love-languages/)
 * [emotional intelligence number: 80]({{ site.baseurl }}2018/03/31/taking-my-first-emotional-intelligence-test/)
