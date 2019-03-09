@@ -339,5 +339,3 @@ Disappointments are difficult to digest, the bitterness can last a long time bef
 <!-- &#042; = asterisk -->
 <!-- &#039; = single quote '-->
 
-**words / writing / post-processing**  
-330w / 10min / 
