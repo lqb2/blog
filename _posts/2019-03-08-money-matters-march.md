@@ -14,9 +14,13 @@ march is two things for me: women's history month and money matters month (aka m
 
 so. as a part of that, i am committing to writing and sharing one sentence every day that i've noticed as a result of my curious exploration of wealth and financial health. 
 
-6: felt intense relief when i found out my healthcare covered an outstanding $517 bill (which was on its third notice and about to be sent to a collection agency) i had from 2018.
-7: regret for not knowing i had a co-pay card that i could have used back in nov and saved me $380.
-8: the idea of saving enough money to live for six months feels literally impossible. 
+* 6: felt intense relief when i found out my healthcare covered an outstanding $517 bill (which was on its third notice and about to be sent to a collection agency) i had from 2018.
+* 7: regret for not knowing i had a co-pay card that i could have used back in nov and saved me $380.
+* 8: the idea of saving enough money to live for six months feels literally impossible. 
+* 9: maureen helped me see that one of my first reactions when i get paid is to spend (burn) some cash, often gifts for others or myself.
+* 10: the value of wealth is in its gifting, not its hoarding or stagnation.
+* 11: i have a huge amount of resistance to taking time to review my personal and business budgets monthly. 
+* 12: 
 
 <!-- hyperlink bank -->
 
