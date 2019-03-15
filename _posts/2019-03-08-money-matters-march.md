@@ -20,7 +20,10 @@ so. as a part of that, i am committing to writing and sharing one sentence every
 * 9: maureen helped me see that one of my first reactions when i get paid is to spend (burn) some cash, often gifts for others or myself.
 * 10: the value of wealth is in its gifting, not its hoarding or stagnation.
 * 11: i have a huge amount of resistance to taking time to review my personal and business budgets monthly. 
-* 12: 
+* 12: spending money on food with friends is a unique spending experience. it **never** feels burdensome.
+* 13: committing to 20min/week on my financial systems feels like a breakthrough (thanks, maureen!)
+* 14: my loan holder sold my debt to another company and i can't figure out how to log in to the new website to check my balance. i am disproportionately angry.
+* 15: 
 
 <!-- hyperlink bank -->
 
