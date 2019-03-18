@@ -25,7 +25,28 @@ i don't know if i'll end up writing five posts about it like i did [last year]({
 
 * the week before my retreat, i started to narrow down what things i felt **needed** to get done on retreat, what things would be **nice** to do, and what things just probably wouldn't happen.
 
-[stopping here for today; more tomorrow!]
+---[end writing 15 march]---
+
+---[begin writing 16 march]---
+
+* i packed up the day before just as if i was going on a trip. full suitcase and everything. i committed to not going home because that felt important to hold the container for myself. 
+
+content
+
+* i had a MASSIVE list of activities to choose from. i knew it couldn't possibly finish it all, but that wasn't the point. at the time of the retreat, i didn't have them categorized but in hindsight, i think the categories (each of which may have had 1-15 specific tasks that i did or didn't do) were:
+    * review time spent
+    * review money spent
+    * review my systems, tools, and frameworks (bullet journal, calendar systems, friend zones, etc)
+    * cleaning and maintenance of said systems
+    * plan for personal and professional development
+    * plan for community engagement 
+    * build my shadow calendar (which includes making phone calls to my zone 1 folks)
+    * ideate and launch projects i have been blocked on
+    * update protocols and practices based on everything implemented so far
+
+
+
+
 
 ## content 
 
