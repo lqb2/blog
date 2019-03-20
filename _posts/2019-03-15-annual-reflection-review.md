@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2019 annual reflection review: part 1'
+title: '2019 annual reflection review: part 1+2+3'
 date: '2019-03-15T07:38:00-04:00'
 tags:
 - reflection
@@ -33,7 +33,7 @@ i don't know if i'll end up writing five posts about it like i did [last year]({
 
 ## content
 
-* i had a MASSIVE list of activities to choose from. i knew it couldn't possibly finish it all, but that wasn't the point. at the time of the retreat, i didn't have them categorized but in hindsight, i think the categories (each of which may have had 1-15 specific tasks that i did or didn't do) were:
+* i had a MASSIVE list of activities to choose from. i knew it couldn't possibly finish it all, but that wasn't the point. at the time of the retreat, i didn't have them categorized but in hindsight, i think the categories (each of which may have had 1-15 specific tasks) were:
     * review time spent
     * review money spent
     * review my systems, tools, and frameworks (bullet journal, calendar systems, friend zones, etc)
@@ -44,11 +44,35 @@ i don't know if i'll end up writing five posts about it like i did [last year]({
     * ideate and launch projects i have been blocked on
     * update protocols and practices based on everything implemented so far
 
----[end writing mar 16]--
+---[end writing mar 16]---
 
+---[begin writing mar 17]---
 
+**what i actually did**
 
+so based on all the categories above and subtasks under each, here's a rundown of what i actually did. "did" in this context includes things i completed as well as tasks i started and didn't complete. i include time estimates because i think it's helpful info. but note they are actually estimates. 
 
+* reviewing
+    * review time spent
+        * my (at this point) standard calendar review process ([see "part 1: review and reflect" of this post](2016/12/23/my-personal-retreat-long-version/)) (8h)
+    * review money spent (3h)
+    * review systems, tools, and functional life frameworks (2h)
+
+* reflecting
+    * reflect on vision and values statement (where am i living into it? where am i not yet?) (2h + all over the place)
+
+* planning
+    * bullet journal (3h)
+    * update [friend zones](https://medium.com/@lqb2/planning-out-my-friend-ecosystem-95175246458d) (2h)
+    * create new [shadow calendar](https://medium.com/@lqb2/my-shadow-calendar-an-experiment-in-aligning-my-time-with-my-values-d31219621288) (4h)
+    * plan for community engagement (6h)
+        * ideate and launch new or previously blocked projects 
+    * personal and professional development (3h)
+        * scheduling two book editing weeks
+        * scoping meditation retreats and other retreats
+        * researching trainings
+    * update protocols and practices (1h)
+    * budget (1h)
 
 
 <!-- hyperlink bank -->
@@ -58,4 +82,4 @@ i don't know if i'll end up writing five posts about it like i did [last year]({
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-401w+128w / 11min+10min / 10min+4min
+401w+128w+151w / 11min+10min+12min / 10min+4min+8min
