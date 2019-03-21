@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2019 annual reflection review: part 1+2+3'
+title: '2019 annual reflection review: part 1,2,3,4'
 date: '2019-03-15T07:38:00-04:00'
 tags:
 - reflection
@@ -25,9 +25,9 @@ i don't know if i'll end up writing five posts about it like i did [last year]({
 
 * the week before my retreat, i started to narrow down what things i felt **needed** to get done on retreat, what things would be **nice** to do, and what things just probably wouldn't happen.
 
----[end writing 15 march]---
+*---[end writing 15 march]---*
 
----[begin writing 16 march]---
+*---[begin writing 16 march]---*
 
 * i packed up the day before just as if i was going on a trip. full suitcase and everything. i committed to not going home because that felt important to hold the container for myself. 
 
@@ -44,9 +44,9 @@ i don't know if i'll end up writing five posts about it like i did [last year]({
     * ideate and launch projects i have been blocked on
     * update protocols and practices based on everything implemented so far
 
----[end writing mar 16]---
+*---[end writing mar 16]---*
 
----[begin writing mar 17]---
+*---[begin writing mar 17]---*
 
 **what i actually did**
 
@@ -74,6 +74,49 @@ so based on all the categories above and subtasks under each, here's a rundown o
     * update protocols and practices (1h)
     * budget (1h)
 
+*---[end march 17 writing]---*
+
+*---[begin march 21 writing]---*
+
+and some just some reflections on the process as a whole this year. 
+
+### i like...
+
+* the amount of money i spent on housing for the retreat. the ratio of getting what i needed to what i spent felt great.
+* how many community engaging things i took some steps towards making happened. the list is actually quite epic:
+    * men’s circle (bell hooks six elements of love?) (lead)
+    * moon circles (lead)
+    * 1:1s w/ one teacher (participant)
+    * post-patriarchy futures (co-lead)
+    * big talk x msg (co-lead)
+    * queer movie night (co-lead)
+    * dusp ptop #2 (potential facilitator)
+* the insights i gain from spending an entire day thinking about how i used my time in 
+
+### i wish...
+
+* i had put more time and energy into my budgeting processes. 
+* i had put more time into nailing down my shadow calendar. 
+* i hadn't launched so many projects! i think i am too good at that.
+* i had spent more time reflecting on the tools and systems i use. 
+* i spent more time reviewing the goals i set in my august 2018 retreat and setting new goals for 2019.
+
+
+### therefore, next year...
+
+* i need to do more prep work for my budgets before retreat or i need to make more time and space for that chunk.
+* i would like start reflecting with my woes in december so that when we talk in january, we can nail things down for my shadow calendar during my retreat week. i would also like set a specific day that i'll call them so i can make sure we all connect and i can finish the whole thing. 
+* i will find way to narrow down the projects i will launch. maybe i'll plan to do half of what's in the potential set of ideas or something...
+* i will spend more time review my tool stack, fixing it up, and getting rid of tools i no longer need.
+* i will make setting goals a more explicit part of the process. and i mean identity based goals ([like james clear talks about](https://jamesclear.com/identity-based-habits)), not outcome-based goals. the outcomes follow from the identity shifts. 
+
+---
+
+phew! i guess i did end up writing ~4/5 posts about my retreat (just like last year, lol). this time i just kept adding to the same post instead of starting a new one each day. 
+
+anywho, given that this is the fourth, it means the next one i write will be the one that is parallel to my ["be a conduit" (and other phrases/mantras for 2018)]({{ site.baseurl }}2018/01/07/be-a-conduit-and-other-2018-phrases/) post. coming right up...
+
+*---[end march 21 writing]---*
 
 <!-- hyperlink bank -->
 
@@ -82,4 +125,4 @@ so based on all the categories above and subtasks under each, here's a rundown o
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-401w+128w+151w / 11min+10min+12min / 10min+4min+8min
+(401+128+151+404)w / (11+10+12+16)min / (10+4+8+8)min
