@@ -9,7 +9,7 @@ tags:
 - commitments
 --- 
 
-this post might take two days to put together, but it's going to be an important one. it'll be a combination post of the two posts i visited myself most often last year. [my 2018 mantra post]({{ site.baseurl }}2018/01/07/be-a-conduit-and-other-2018-phrases/) and my [2018 list of commitments]({{ site.baseurl }}2018/01/11/commitments-for-2018/). (sidenote: a great thing about making my thinking public is that whenever or wherever i want to look at something, i can just pull up a browser on anyone's phone or computer and go find them on my blog). 
+this post might take two days to put together, but it's going to be an important one. it'll be a combination post of the two posts i visited most often last year: [my 2018 mantra post]({{ site.baseurl }}2018/01/07/be-a-conduit-and-other-2018-phrases/) and my [2018 list of commitments]({{ site.baseurl }}2018/01/11/commitments-for-2018/). it's informed by my [latest annual reflection retreat]({{ site.baseurl }}2019/03/15/annual-reflection-review/) (sidenote: a great thing about making my thinking public is that whenever or wherever i want to look at something i know i've published here, i can just pull up a browser on anyone's phone or computer and go find them on my blog). 
 
 so here goes:
 
