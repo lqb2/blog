@@ -33,6 +33,26 @@ so. as a part of that, i am committing to writing and sharing one sentence every
 * 22: it feels great to spend money on good food and/or businesses i want to support.
 * 23:
 * 24: saving feels so easy when my checking accounts look full.
+* 25: spending money on tech and camera gear feels very easy. 
+* 26:
+* 27: 
+* 28: pay other people feels great (learning: so having $ to do that is important)
+* 29: it feels very easy to spend $ for amenities while traveling, especially things to share (like a 150 count bottle of vitamin c gummies for the css advanced training)
+* 30: i had no feelings aobut not spending $ today
+* 31: 
+* april 1: 
+* 2: the idea that wealth is about how much i can give away started to feel really true today (with vitamin c gummies, giving olivia my amethyst)
+* 3: when away in long retreat/training situations where i don't have to spend money on food and housing, i don't think about $ at all (because i don't have to)
+* 4:
+* 5: 
+* 6:
+* 7: this morning i rented a car to go to western mass for two days and felt great about it. the two hour train trip that the car will allow me to have feels better than the 6-8h bus trip i would have spent less money on but been more miserable about. plus the two-day trip wouldn't have made sense with 12-16h of travel, but it does with 4h. 
+* 8: 
+* 9: 
+* 10:
+* 11: 
+
+end of experiment
 
 <!-- hyperlink bank -->
 
