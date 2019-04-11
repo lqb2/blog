@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2019 annual reflection review: part 1,2,3,4'
+title: '2019 annual reflection review: part 1, 2, 3, 4'
 date: '2019-03-15T07:38:00-04:00'
 tags:
 - reflection

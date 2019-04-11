@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'is this bamboo toothbrush legit'
+title: 'is this bamboo toothbrush legit?'
 date: '2019-03-29T08:38:00-04:00'
 tags:
 - jonathan krones
+- sustainability
 --- 
 
 the other day i saw a bamboo toothbrush that i wanted. but i know oftentimes consumerism capitalism likes to suage things to make them appear environmentally friendly when they're really just wolves in sheeps clothing... (wow that sentence is a deeply accurate illustratation of the mood i'm in right now, ha!). anyway, i asked my friend and professor buddy, jonathan krones, for his thoughts. i'm sharing them here because i think they're super important and i want other folks to see them. also he said i could. 
