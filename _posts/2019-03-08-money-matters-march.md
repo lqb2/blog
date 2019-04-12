@@ -48,9 +48,9 @@ so. as a part of that, i am committing to writing and sharing one sentence every
 * 6:
 * 7: this morning i rented a car to go to western mass for two days and felt great about it. the two hour train trip that the car will allow me to have feels better than the 6-8h bus trip i would have spent less money on but been more miserable about. plus the two-day trip wouldn't have made sense with 12-16h of travel, but it does with 4h. 
 * 8: 
-* 9: 
-* 10:
-* 11: 
+* 9: offered to create abundance by paying for a dinner with a friend and he said no on moral grounds. it didn't feel good.
+* 10: it's difficult for me to feel/receive the generosity of others (which is funny because i know how great it feels to offer generosity and, from yesterday, how it hurts to have that generosity rejected).
+* 11: paying for clothes that are too expensive feels super bizarre, especially when i know i can get something equivalent for cheaper nearby... but sometimes i do it anyways because of the convenience factor... 
 
 end of experiment
 
