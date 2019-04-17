@@ -4,6 +4,7 @@ title: 'jp queer movie night'
 date: '2019-03-06T08:56:00-04:00'
 tags:
 - jp queer movie night
+- jp queer everything
 --- 
 
 ## upcoming
