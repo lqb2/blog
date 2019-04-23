@@ -8,8 +8,8 @@ tags:
 --- 
 
 ## upcoming
-* 27 april 2019 @ 7p - movie: TBD @ location: TBD
-    - RSVP by emailing lawrence.barriner.ii@gmail.com
+* 27 april 2019 @ 7p - movie: TBD @ location: lawrence's
+    - RSVP by emailing lawrence.barriner.ii@gmail.com or texting lawrence or kevin
 
 ## past 
 
