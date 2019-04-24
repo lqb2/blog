@@ -30,7 +30,7 @@ by Adrienne Maree Brown](https://images.gr-assets.com/books/1529250616l/40549668
 
 **How would I describe the book to a friend?**
 
-this book is the upgrade to emergent strategy that we didn't even know we needed. even if we just organized ourselves and did the hot and heavy homework, we'd all be free WAY faster than all the other "social justice" ~shit~ stuff we're doing. 
+this book is the upgrade to emergent strategy that we didn't even know we needed. even if we just organized ourselves and did the hot and heavy homework, we'd all be free WAY faster than all the other "social justice" ~~shit~~ stuff we're doing. 
 
 
 ---

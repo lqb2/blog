@@ -8,7 +8,7 @@ tags:
 --- 
 
 ## upcoming
-* 27 april 2019 @ 7p - movie: TBD @ location: lawrence's
+* 27 april 2019 @ 7p - movie: esteros @ location: lawrence's
     - RSVP by emailing lawrence.barriner.ii@gmail.com or texting lawrence or kevin
 
 ## past 
