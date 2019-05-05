@@ -12,6 +12,7 @@ earlier this year (feb), my alternative futures accomplice (grant williams) and 
 
 ---
 
+```
 is time linear?
 maybe it is circular
 either way, we’re now
@@ -61,6 +62,7 @@ Best days yet to come
 begin with the mind 
 manifest with the body 
 confirm with the heart
+```
 
 
 <!-- hyperlink bank -->

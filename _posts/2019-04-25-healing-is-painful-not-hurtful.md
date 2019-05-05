@@ -30,6 +30,13 @@ maybe there's some flash fiction story in there... anyway, i'll leave you with t
 
 "Growth is betrayal. There is no other route. There is no arriving somewhere without leaving somewhere." — john updike, rabbit redux
 
+---
+
+update: after sharing this with djalóki, he wrote this back: 
+
+```That being said, I also believe that the line between pain and hurt may be blurry in some places. I have been thinking that, from the perspective of the creative source of the universe, if what we call the Big Bang was the manifestation of the initial fragmentation of The One into The Multiple, which is what our dimension is, before Fiat Lux, the Word of the Beginning might have been, Ouch!...
+```
+
 <!-- hyperlink bank -->
 
 
