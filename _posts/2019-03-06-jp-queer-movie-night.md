@@ -8,11 +8,12 @@ tags:
 --- 
 
 ## upcoming
-* 27 april 2019 @ 7p - movie: esteros @ location: lawrence's
+* 5 june 2019 @ 7p - movie: TBD @ location: TBD
     - RSVP by emailing lawrence.barriner.ii@gmail.com or texting lawrence or kevin
 
 ## past 
 
+* 27 april 2019 - [esteros] @ lawrence’s
 * 23 feb 2019 - [bessie] @ kevin's
 * 1 dec 2018 - [paris is burning] @ lawrence's
 
