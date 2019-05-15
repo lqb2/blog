@@ -9,7 +9,7 @@ tags:
 
 ## overview
 
-* montly space for queer men or queer male-bodied folx who are in the journey of unpacking toxic masculinity & seeking ways to connect with their emotional & spiritual selves. 
+* monthly space for queer men or queer male-bodied folx who are in the journey of unpacking toxic masculinity & seeking ways to connect with their emotional & spiritual selves. 
 * location: [old oak dojo](https://oldoakdojo.com)
 * rsvp: please email lawrence.barriner.ii@gmail.com if you'd like to come!
 
@@ -29,7 +29,10 @@ tags:
 
 ## past 
 
-...
+* apr
+* mar
+* feb
+* jan
 
 <!-- hyperlink bank -->
 

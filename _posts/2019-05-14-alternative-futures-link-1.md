@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sci-fi generator (af28): link - part 1'
+title: 'sci-fi generator (af28): Link - part 1'
 date: '2019-05-14T08:23:00-04:00'
 tags:
 - alternative futures
@@ -11,7 +11,7 @@ tags:
 
 ---
 
-August 24th, 7:24am
+24 August 2028, 7:24am
 
 It’s the morning of August 24th; I turn 17 tomorrow and I’ll finally be able to Link while conscious. I feel like I've been waiting for this moment for my whole life...
 
@@ -40,6 +40,8 @@ Shai winced.
 "Yea, I remember. I was so shocked," she responded.
 
 "I was, too. I couldn't believe he lied to both of us, in front of us! He knew he only had one hour of TV time and he played us against each other. Now... can you imagine...? He's three times older and is about to get access to as much pleasure as his body can handle. Can you imagine what he's going to be able to do?"
+
+[see part 2]({{ site.baseurl }}2019/05/15/alternative-futures-link-2/)
 
 <!-- hyperlink bank -->
 
