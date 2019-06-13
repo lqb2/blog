@@ -12,7 +12,14 @@ adding my astrological natal birth chart to my [self-mastery archive]({{ site.ba
 
 also need to do some cleaning up of the formatting of this page, but that'll come later i think.
 
-from: <https://astro.cafeastrology.com/natal.php>
+in depth detailed chart done by constance of astrostory club
+
+![Imgur](https://i.imgur.com/S1izbHc.jpg)
+
+
+---
+
+natal chart from: <https://astro.cafeastrology.com/natal.php>
 
 Natal Chart Report
 Birth Chart
