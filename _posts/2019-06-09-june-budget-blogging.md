@@ -13,8 +13,9 @@ so i'm trying to build a new habit: looking at my finances for 5mins/day. i'll w
 
 * june 9: 1 min. i downloaded the YNAB app (at joanna miller's suggestion). i opened it and tried to sign up but it was too complicated on my phone so i stopped. 
 * june 10: 0 min. "i was busy today"? weak. 
-* 11: 
-* 12: 
+* 11: 0 min. spent the evening working and with my new boo. 
+* 12: 0 min. i was tired? 
+* 13: 
 <!-- hyperlink bank -->
 
 
