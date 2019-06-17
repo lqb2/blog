@@ -31,7 +31,7 @@ She took a deep breath. "Ok, fine. I'm listening now. What's your big worry?"
 
 I leaned forward, wringing my hands a bit. 
 
-"We both know his dad. And we know his dad's inability to hold even his own boundaries. In some ways, that's how Jayden is here."
+"We both know his dad. And we know his dad's inability to hold even his own boundaries. In some ways, that's how Gey is here."
 
 Shai winced. 
 

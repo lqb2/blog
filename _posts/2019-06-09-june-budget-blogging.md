@@ -15,7 +15,11 @@ so i'm trying to build a new habit: looking at my finances for 5mins/day. i'll w
 * june 10: 0 min. "i was busy today"? weak. 
 * 11: 0 min. spent the evening working and with my new boo. 
 * 12: 0 min. i was tired? 
-* 13: 
+* 13: 5 min. got my YNAB account set up on my phone. 
+* 14: 0 min. 
+* 15: 10 min. read 
+* 16: 0 min.
+* 17: 5 min. added simple account to ynab!
 <!-- hyperlink bank -->
 
 
