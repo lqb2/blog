@@ -20,6 +20,7 @@ so i'm trying to build a new habit: looking at my finances for 5mins/day. i'll w
 * 15: 10 min. read 
 * 16: 0 min.
 * 17: 5 min. added simple account to ynab!
+* 18: 9 min. tried to add a new bank account to ynab but was doing it while so tired that i accidently added my jetblue account again. =\
 <!-- hyperlink bank -->
 
 
