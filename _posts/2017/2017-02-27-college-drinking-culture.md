@@ -3,7 +3,6 @@ layout: post
 title: 'on college drinking culture: alcoholism, toxic masculinity, sexual repression, homoeroticism, numbing, and more!'
 date: '2017-02-27T07:17:00-05:00'
 tags:
-- ambroise nahas
 - alcoholism
 - culture
 - sexual repression

@@ -21,8 +21,8 @@ so i'm trying to build a new habit: looking at my finances for 5mins/day. i'll w
 * 16: 0 min.
 * 17: 5 min. added simple account to ynab!
 * 18: 9 min. tried to add a new bank account to ynab but was doing it while so tired that i accidently added my jetblue account again. =\
-* 19:
-* 20: 
+* 19: ?
+* 20: ?
 * 21: 20 min. managing credit card and business account balances.
 * 22: 5 min. trying to figure out how to move money around for rent.
 * 23: 5 min. managing rent money and credit card. troubleshooting mitfcu login account info.
@@ -30,9 +30,9 @@ so i'm trying to build a new habit: looking at my finances for 5mins/day. i'll w
 * june 25-30: travel to west coast for work and pride. did some journaling but nothing consistently.
 * july 1: 5 min. forgot on what, though.
 * july 2: traveled and forgot.
-* july 3: 
-* 4: holiday and mostly not on phone
-* 5: holiday and mostly not on phone
+* july 3: ?
+* 4: 0 min. holiday and mostly not on phone
+* 5: 0 min. holiday and mostly not on phone
 * 6: 5 min. reviewing ynab transactions
 * 7: 5 min. reviewing ynab transactions and paying student loans.
 * 8: 5 min. paying credit card bills and moving money around. 
