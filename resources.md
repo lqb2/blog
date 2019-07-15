@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Productivity Resources
+title: Resources
 ---
+
+# productivity resources
 
 ## Commonly shared resources
 
@@ -64,3 +66,28 @@ title: Productivity Resources
 * [how to make the most of the startup that is your life]({{ site.baseurl }}2016/08/18/how-to-make-the-most-of-the-startup-that-is-your/)
 * [Forget About Setting Goals. Focus on This Instead.](http://jamesclear.com/goals-systems)
 * [Basic GTD: Deal with your agreements](https://facilethings.com/blog/en/basics-agreements)
+
+---
+
+# network resources
+
+
+## Barr Fellows
+
+* http://leadershiplearning.org/blog/claire-reinelt/2011-06-23/barr-fellowship-network-case-study
+* https://vimeo.com/124663351
+* [Only Connect: How an Investment in Relationships Among Social Change Leaders Is Changing Them, Their Organizations, and Their City](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1006&context=tfr)
+
+## System Shifting Networks
+
+* https://networkweaver.com/collective-impact-system-shifting-network-approach/
+* https://networkweaver.com/system-shifting-networks/
+
+## Network Culture Practices
+
+* https://www.nextgenlearning.org/articles/25-behaviors-that-support-strong-network-culture
+* [Network-ing Does Not Equal Network WEAVING](https://medium.com/virtual-teams-for-systemic-change/network-ing-does-not-equal-network-weaving-abf1978e79c)
+
+## Network Leadership Roles (2.0)
+
+* http://interactioninstitute.org/network-leadership-roles-2-0/
