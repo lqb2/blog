@@ -12,9 +12,13 @@ adding my astrological natal birth chart to my [self-mastery archive]({{ site.ba
 
 also need to do some cleaning up of the formatting of this page, but that'll come later i think.
 
+---
+
 in depth detailed chart done by constance of astrostory club
 
 ![Imgur](https://i.imgur.com/S1izbHc.jpg)
+
+the theme from my chart is capricorn.
 
 
 ---
