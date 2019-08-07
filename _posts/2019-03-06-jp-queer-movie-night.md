@@ -7,12 +7,15 @@ tags:
 - jp queer everything
 --- 
 
+queer only movie space. generally the first saturday of the month, but flexy.
+
 ## upcoming
-* 25 july 2019 @ 6-9. movie: TBD @ location: lawrence's.
+* 7 sept 2019 @ 6-9. movie: TBD @ location: TBD.
     - RSVP by emailing lawrence.barriner.ii@gmail.com or texting lawrence or kevin.
 
 ## past 
 
+* 25 july 2019 - [la negrada] @ lawrence's
 * 5 june 2019 - dinner @ parish cafe
 * 27 april 2019 - [esteros] @ lawrence’s
 * 23 feb 2019 - [bessie] @ kevin's
