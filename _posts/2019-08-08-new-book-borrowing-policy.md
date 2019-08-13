@@ -3,7 +3,7 @@ layout: post
 title: 'new book borrowing policy'
 date: '2019-08-08T10:21:00-04:00'
 tags:
-- 
+- books
 --- 
 
 earlier this week, i was with kalia, marty, and their child, iona, and a funny moment happened that i think is worth sharing. 
