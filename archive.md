@@ -3,23 +3,24 @@ layout: page
 title: Archive
 ---
 
-<p class="message">
+<!-- <p class="message">
   Hey! This is my archive. It's a work in progress... like everything else on this site, heh. My bullets aren't grouping properly right now so... ¯\_(ツ)_/¯
-</p>
+</p> -->
 
 <div class="posts">
 
   <ul class="posts">
     {% for mypost in site.posts %}
-      <li>
+      
         {% assign fdate = mypost.date | date: '%b %Y' %}
         {% if cur_date != fdate %}
           {% assign cur_date = fdate %}
-          <h2>{{ mypost.date | date: '%b of %Y' }}</h2>
+          <h2>{{ mypost.date | date: '%b %Y' }}</h2>
         {% endif %}
-        <span class="post-meta">{{ mypost.date | date: "%b %-d, %Y" }} | </span>
-        <!--<a href="{{ mypost.url | prepend: site.baseurl }}">--><a href="{{ site.baseurl }}&#47;{{ mypost.url }}">{{ mypost.title }}</a>
-      </li>
+        <li>
+          <span class="post-meta">{{ mypost.date | date: "%b %-d, %Y" }} | </span>
+          <!--<a href="{{ mypost.url | prepend: site.baseurl }}">--><a href="{{ site.baseurl }}&#47;{{ mypost.url }}">{{ mypost.title }}</a>
+        </li>
     {% endfor %}
   </ul>
 

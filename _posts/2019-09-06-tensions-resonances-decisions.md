@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'pay attention to: tension, resonance, decisions'
+title: 'pay attention to tension, resonance, decisions'
 date: '2019-09-06T09:23:00-04:00'
 tags:
 - note taking
