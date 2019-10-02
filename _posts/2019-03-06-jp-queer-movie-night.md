@@ -10,8 +10,8 @@ tags:
 queer only movie space. generally the first saturday of the month, but flexy.
 
 ## upcoming
-* 5 oct 2019 @ 6-9. movie: TBD but maybe something haunted? @ location: TBD.
-    - RSVP by emailing lawrence.barriner.ii@gmail.com or texting lawrence or kevin.
+* 5 oct 2019 @ 7-10p. movie: TBD but nothing scary (because i get nightmares real easy) @ location: kevin's.
+    - RSVP by texting lawrence or kevin becerra (you can email lawrence if you don't have one of our cell numbers: lawrence.barriner.ii@gmail.com).
 
 ## past 
 
