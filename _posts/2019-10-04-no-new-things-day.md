@@ -12,11 +12,11 @@ last year, i started a new practice: "[no more meetings this year" day]({{ site.
 
 but i've also been on a multi-year journey to align my life more with the earth and seasons. it started with seasonal eating but has expanded to all sorts of life places. 
 
-a few weeks ago, i was on one of our transformative networks calls and alexis flanagan shared that she doesn't plan any new work after the autumnal/fall equinox! i had two strong reactions. first, i felt deeply validated because someone as dope as alexis had a practice that resonated with something i found to be useful. then, i realized that the equinox was a planetary date and oct 1 (my "no more meetings this year" day) was gregorian and, therefore, somewhat arbitrary. 
+a few weeks ago, i was on one of our transformative networks calls and alexis flanagan shared that she doesn't plan any new work after the autumnal/fall equinox. i had two strong reactions. first, i felt deeply validated! someone as dope as alexis had a practice that resonated with something i found to be useful? i must be on to something! then, i realized that the equinox was a planetary date and oct 1 (my "no more meetings this year" day) was gregorian and, therefore, somewhat arbitrary. _(sidenote: [here's a beautiful image of just how arbitrary the equinox isn't](https://www.instagram.com/p/B2MPs6zhjQB/))_
 
-_(sidenote: [here's a beautiful image of just how arbitrary the equinox isn't](https://www.instagram.com/p/B2MPs6zhjQB/))_
+and so, just like that, i have switched! thank you, alexis. 
 
-and so i have switched! thank you, alexis. and now the phrase "no more meetings this year" feels clunky and flat so i need a new frame... i'm not yet really settled on anything but here's what i've got for now (and done is better than perfect):
+and now that i sit and think about it, the phrase "no more meetings this year" feels clunky and flat. i need a new frame... i'm not yet really settled on anything but here's what i've got for now (and done is better than perfect):
 
 the fall equinox is now my "no new things" day. this is the day where i will begin saying no to (almost) everything i am invited to for the rest of the calendar year. my reasoning for this is inspired by alexis flanagan, my own experience, and farmers everywhere for all time (yes, i know you can grow some things in the winter...). at a certain point each year, i have learned, it is not useful to start new work/projects. the fall is full of holidays from all traditions and people's travel and ritual plans make it hard to schedule group meetings and work. i have learned that it *is* useful to focus energy on finishing the things i have started. it is also useful to begin clearing space to reflect on the past year and planning into the next one. so! if you invite me to something after sept 23, know that the "no" you receive isn't you, it's me. ;) 
 
