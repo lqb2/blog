@@ -10,6 +10,8 @@ tags:
 - intimacy
 --- 
 
+an archive of all our black sci-fi book club chats.
+
 ## broken earth trilogy by n.k. jemisin
 
 * stone sky (coming dec 2019)

@@ -10,11 +10,13 @@ tags:
 queer only movie space. generally the first saturday of the month, but flexy.
 
 ## upcoming
-* 5 oct 2019 @ 7-10p. movie: TBD but nothing scary (because i get nightmares real easy) @ location: kevin's.
+* 1 dec 2019 @ 7-10p. movie: TBD. location: TBD. 
     - RSVP by texting lawrence or kevin becerra (you can email lawrence if you don't have one of our cell numbers: lawrence.barriner.ii@gmail.com).
 
 ## past 
 
+* 5 oct 2019 - [southern comfort](https://en.wikipedia.org/wiki/Southern_Comfort_(2001_film)) @ kevin's
+* [summer break]
 * 25 july 2019 - [la negrada] @ lawrence's
 * 5 june 2019 - dinner @ parish cafe
 * 27 april 2019 - [esteros] @ lawrence’s

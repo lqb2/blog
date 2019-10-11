@@ -17,7 +17,7 @@ anyway, this post is to give folks who have been asking the overview of what i'l
 * day 2: morning: update and review 2018 finances (personal and business). afternoon: begin summarizing 2018 in words noting time and other resources. evening: new years eve (early to bed, though). 
 * day 3: morning: update vision and values statement. project vision & commitments for 2019. afternoon: begin drafting [shadow calendar](https://medium.com/@lqb2/my-shadow-calendar-an-experiment-in-aligning-my-time-with-my-values-d31219621288) for 2019. 
 * day 4: connect with woes about shadow calendar and build budget goals. begin project kick-offs and infrastructure. 
-* day 5: finalize commitments for 2019 (ex: 2018 commitments). finish project kick-offs. 
+* day 5: finalize commitments for 2019 (ex: [2018 commitments]({{ site.baseurl }}2018/01/11/commitments-for-2018/)). finish project kick-offs. 
 
 and here's a partial list of things i'm going to weave into this time:
 
