@@ -15,10 +15,11 @@ of Multnomah County Health Department](https://www.orpca.org/OEW%20Training/PE_M
 * [Facilitative Leadership for Social Change - How to plan a successful meeting](../../../assets/files/FL4SC–PlanningASuccessfulMeeting.pdf)
 * [the cycle of liberation — Bobbie Harro](https://geography.washington.edu/sites/geography/files/documents/harro-cycle-of-liberation.pdf)
 
+
 ## group agreements
 
 * [circle of trust touchstones](http://www.couragerenewal.org/touchstones/)
-* emergent strategy groundrules
+* [emergent strategy group agreements]({{ site.baseurl }}2019/01/02/emergent-strategy-group-agreements/)
 * [sister corita's (and john cage's) 10 classroom rules](https://www.brainpickings.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/)
 
 ## check in questions 
@@ -83,8 +84,13 @@ via the [youth development network](https://www.ydnetwork.org/). they have tons 
     - source material: <http://adriennemareebrown.net/2013/12/14/principles-of-emergent-processes-in-facilitation/>
     - image created by Chelsea Matilda Robinson. found via: <https://explorationsinthedivinefeminine.com/2018/04/21/sitting-in-a-cauldron-of-magic/>
 
-## retributive, restorative, and transformative justice questions
+## retributive, restorative, and transformative justice 
 
 ![Imgur](https://i.imgur.com/adAylHG.jpg)
 
 source: eroc
+
+* [adrienne maree brown: What is/isn’t transformative justice?](http://adriennemareebrown.net/2015/07/09/what-isisnt-transformative-justice/)
+* [TransformHarm.org](https://transformharm.org)
+    - a resource hub about ending violence. It offers an introduction to transformative justice. Created by Mariame Kaba and designed by Joseph Lublink, the site includes selected articles, audio-visual resources, curricula, and more.
+* [white supremacy culture by Tema Okun](http://www.dismantlingracism.org/uploads/4/3/5/7/43579015/whitesupcul13.pdf)
