@@ -1,14 +1,18 @@
 ---
 layout: post
-title: 'book list for bj'
+title: 'books for bj'
 date: '2019-09-09T09:41:00-04:00'
 tags:
 - 
 --- 
 
-**gofundme campaign**
+**[gofundme campaign](https://www.gofundme.com/f/books-for-bj)**
 
-[books for BJ](https://www.gofundme.com/f/books-for-bj)
+[![letter photo](https://d2g8igdw686xgo.cloudfront.net/42946678_1572017589250815_r.jpeg)](https://www.gofundme.com/f/books-for-bj)
+
+[donate $$ here](https://www.gofundme.com/f/books-for-bj)
+
+---
 
 **book list**
 
@@ -18,19 +22,19 @@ tags:
 | jan 2020 | post-traumatic slave syndrome | 20 |
 | feb | my grandmother's hands | 12 |
 | mar | leadership and the new science | 14 |
-| apr | parable series | 20 |
+| apr | parable series - octavia butler | 20 |
 | may | the body is not an apology | 12 |
 | jun | the will to change | 16 |
 | jul | care work | 12 |
 | aug | between the world and me | 15 |
-| sep | nk jemisin broken earth trilogy | 23 |
+| sep | broken earth trilogy - nk jemisin | 23 |
 | oct | sex, economy, freedom, & community | 13 |
 | nov | ??? | ??? |
 | dec | ??? | ??? |
 | jan | ??? | ??? |
 | feb | ??? | ??? |
 | mar | ??? | ??? |
-| | | $186 |
+| **total** | | **$186** |
 
 
 shipping is an additional ~7$/book. books have to be purchased new and sent from the publisher... federal prison rules. 
@@ -40,6 +44,3 @@ shipping is an additional ~7$/book. books have to be purchased new and sent from
 
 <!-- &#042; = asterisk -->
 <!-- &#039; = single quote '-->
-
-**words / writing / post-processing**  
-XXXw / XXmin / XXmin
