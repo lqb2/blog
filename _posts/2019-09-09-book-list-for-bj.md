@@ -39,6 +39,10 @@ tags:
 
 shipping is an additional ~7$/book. books have to be purchased new and sent from the publisher... federal prison rules. 
 
+---
+
+[black and pink penpal sign up](https://www.blackandpink.org/penpal-sign-up)
+
 <!-- hyperlink bank -->
 
 
