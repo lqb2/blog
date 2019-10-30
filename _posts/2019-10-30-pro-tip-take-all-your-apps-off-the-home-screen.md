@@ -7,7 +7,7 @@ tags:
 - maureen white
 --- 
 
-team. this is HOT off the presses. yesterday, [maureen](https://www.maureenwhiteconsulting.com) and i were working on [2020 vision](https://2020vision.space) and she showed me the best hack since i learned [how to turn my screen to black and white](: you can take all the apps off your home screen. 
+team. this is HOT off the presses. yesterday, [maureen](https://www.maureenwhiteconsulting.com) and i were working on [2020 vision](https://2020vision.space) and she showed me the best hack since i learned [how to turn my screen to black and white](https://medium.com/better-humans/how-to-make-your-iphone-black-and-white-and-why-you-should-42e70deb92c7): you can take all the apps off your home screen. 
 
 ![i am willing to change iphone 7 background](https://i.imgur.com/fxh5VeI.png)
 
