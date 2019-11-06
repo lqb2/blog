@@ -21,8 +21,6 @@ what freedom.
 
 thanks, maureen. 
 
-and you're welcome, world. 
-
 ---
 
 ps - if you're thinking about registering for [2020 vision](https://2020vision.space), we have 4 or 5 slots left and tomorrow is the last day to get the early bird discount ($100 off!). 
