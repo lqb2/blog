@@ -15,6 +15,7 @@ of Multnomah County Health Department](https://www.orpca.org/OEW%20Training/PE_M
 * [Facilitative Leadership for Social Change - How to plan a successful meeting](../../../assets/files/FL4SC–PlanningASuccessfulMeeting.pdf)
 * [the cycle of liberation — Bobbie Harro](https://geography.washington.edu/sites/geography/files/documents/harro-cycle-of-liberation.pdf)
 * [matrix of domination/oppression - patricia hill collins](https://4.bp.blogspot.com/-5HWg7yiUXpQ/UfSsqGqSFJI/AAAAAAACN4M/3APN1r3fBAM/s1600/Matrix-of-Oppression.JPG)
+* [culture shift: from blame to accountability – the systems thinker](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
 
 
 ## group agreements
