@@ -16,10 +16,10 @@ tags:
 
 **book list**
 
-| month | **book title** | **$** |
-| nov 2019| your story sets you free | 13 |
-| dec | indigenous people's history of the united states | 16 |
-| jan 2020 | post-traumatic slave syndrome | 20 |
+| month | **book title** | **$** | purchased |
+| nov 2019| your story sets you free | 13 | 18 nov | 
+| dec | indigenous people's history of the united states | 16 | |
+| jan 2020 | post-traumatic slave syndrome | 20 | 18 nov |
 | feb | my grandmother's hands | 12 |
 | mar | leadership and the new science | 14 |
 | apr | parable series - octavia butler | 20 |
@@ -38,6 +38,18 @@ tags:
 
 
 shipping is an additional ~7$/book. books have to be purchased new and sent from the publisher... federal prison rules. 
+
+---
+
+
+books purchased
+
+* 18 nov: your story sets you free, post traumatic slave syndrome - $28.55
+
+book bank money left: 
+
+* ~~52.50~~
+* 23.95
 
 ---
 
