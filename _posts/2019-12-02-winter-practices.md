@@ -13,7 +13,7 @@ slowing ramping up to these right now as fall comes to a close. will be in full 
 * be explicit (as in say it, out loud, when i'm with people) about my energy dropping after sundown 
 * after sundown, the only place i will travel next is to the place i'll be sleeping
 * wake up with the sun
-* eat more soup 
+* eat and make lots of soup 
 * eat more food that my body takes a long time to digest (especially root veggies)
 * spend as much time with babies as possible
 * use candles instead of lightbulbs when possible
