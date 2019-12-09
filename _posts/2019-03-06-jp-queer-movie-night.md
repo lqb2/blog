@@ -10,7 +10,7 @@ tags:
 queer only movie space. generally the first saturday of the month, but flexy.
 
 ## upcoming
-* 1 dec 2019 @ 7-10p. movie: TBD. location: TBD. 
+* 15 dec 2019 @ 7-10p. movie: TBD. location: lawrence's. 
     - RSVP by texting lawrence or kevin becerra (you can email lawrence if you don't have one of our cell numbers: lawrence.barriner.ii@gmail.com).
 
 ## past 
