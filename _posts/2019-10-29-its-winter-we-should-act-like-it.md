@@ -12,11 +12,11 @@ as the leaves change/fall/die and the light lessens each day, a major pivot is s
 
 i wanted to take a few minutes to share something i have been thinking about a lot these past 4/5 years. 
 
-back when i worked at iisc with my friend and teacher[danielle coates-connor](https://www.coatesconnor.com), we actually implemented a department-wide policy (her idea) to start the work day an hour later (to be specific, i think what we decided was that we would do ours [rays of light](http://interactioninstitute.org/15-min-practice-rays-of-light/) meeting one hour later than during the summer). it felt borderline impossible to have the light each day be so different and hold the same working hours. 
+back when i worked at iisc with my friend and teacher [danielle coates-connor](https://www.coatesconnor.com), we actually implemented a department-wide policy (her idea) to start the work day an hour later (to be specific, i think what we decided was that we would do ours [rays of light](http://interactioninstitute.org/15-min-practice-rays-of-light/) meeting one hour later than during the summer). it felt borderline impossible to have the light each day be so different and hold the same working hours. 
 
-i drop that example to lead into the point i'm here to make: *it's fucking nuts that winter comes and we pretend like nothing about our (work) lives should shift.* 
+all of this is to say: *it's fucking nuts that winter comes and we pretend like nothing about our (work) lives should shift.* 
 
-as there's literally less light and warmth each day, people's energy drops. that's a natural thing. but in addition to that natural thing, there are lots of people who deal with seasonal affective disorder and/or season depression. 
+as there's literally less light and warmth each day, people's energy drops; that's natural. but in addition to that natural thing, there are lots of people who deal with seasonal affective disorder and/or season depression. 
 
 and you know what? i think that's totally fine! i mean, depression sucks and isn't itself good, but what *is* good is being present for what is. what isn't good is pretending that people's depression doesn't impact their work. like... do we think being in meetings with rooms full of people, many of whom are struggling to even show up? what do we think that does for the quality of the meeting and the work we're doing together? do we even think about that at all? 
 

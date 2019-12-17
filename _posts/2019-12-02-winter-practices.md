@@ -7,10 +7,10 @@ tags:
 - seasons
 --- 
 
-slowing ramping up to these right now as fall comes to a close. will be in full effect winter solstice (21 dec) to spring equinox (20 mar). of course, there will be exceptions, but generally speaking i am committing to these practices/behaviors:
+i'm slowly ramping up to these as fall comes to a close. these will be in full effect winter solstice (21 dec) to spring equinox (20 mar). of course, there will be exceptions, but generally speaking, to survive *and* thrive [this winter]({{ site.baseurl }}2019/10/29/its-winter-we-should-act-like-it/), i am committing to these practices/behaviors:
 
 * maximum one non-work/unpaid social engagement per day
-* be explicit (as in say it, out loud, when i'm with people) about my energy dropping after sundown 
+* be explicit (as in say it, out loud, when i'm with people) about my energy dropping after sundown (ex: "oh look, the sun is going down. just so y'all know, my energy fades pretty fast in the winter once they sun goes down."")
 * after sundown, the only place i will travel next is to the place i'll be sleeping
 * wake up with the sun
 * eat and make lots of soup 
