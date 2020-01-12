@@ -20,6 +20,7 @@ tags:
 | nov 2019| your story sets you free | 13 | 18 nov | 
 | dec | indigenous people's history of the united states | 16 | |
 | jan 2020 | post-traumatic slave syndrome | 20 | 18 nov |
+| ??? | full catastrophe living | $16.29 + $5.99 | 30 dec 2019 |
 | feb | my grandmother's hands | 12 |
 | mar | leadership and the new science | 14 |
 | apr | parable series - octavia butler | 20 |
@@ -29,7 +30,7 @@ tags:
 | aug | between the world and me | 15 |
 | sep | broken earth trilogy - nk jemisin | 23 |
 | oct | sex, economy, freedom, & community | 13 |
-| nov | ??? | ??? |
+| nov | of water and the spirit | ??? |
 | dec | ??? | ??? |
 | jan | ??? | ??? |
 | feb | ??? | ??? |
