@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2019/2020 winter pracrtices'
+title: '2019/2020 winter practices'
 date: '2019-12-02T09:39:00-04:00'
 tags:
 - living seasonally
