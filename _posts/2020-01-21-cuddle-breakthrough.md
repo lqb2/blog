@@ -23,6 +23,7 @@ well, i think one solution is cuddle parties! this isn't a new idea ([link](http
 cuddle sleepovers, here we come!
 
 ps - there's something to explore here about the role of homophobia, but i'm outta time for today!
+pps - s/o to all the folx who have explored and will explore this with me in the future. special s/o to mike casey (we found it... together) and also eroc and owen. 
 
 <!-- hyperlink bank -->
 
