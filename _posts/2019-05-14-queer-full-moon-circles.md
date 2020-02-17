@@ -7,6 +7,10 @@ tags:
 - full moon circle
 --- 
 
+## 2020 circles
+
+[see here]({{ site.baseurl }}2020/02/17/2020-queer-full-moon-circles/).
+
 ## overview
 
 * monthly space for queer men or queer male-bodied folx who are in the journey of unpacking toxic masculinity & seeking ways to connect with their emotional & spiritual selves. 
@@ -16,27 +20,14 @@ tags:
 
 ## upcoming
 
+* February, 17, 2019 at 6:00 pm ([altar](https://imgur.com/a/OiVt3HS))
+* March 20, 2019 at 8:00 pm
+* April 18, 2019 at 8:30 pm
 * [May 18, 2019 at 6:00 pm](https://oldoakdojo.com/event/full-moon-circle-for-queer-men-male-bodied-folx/2019-05-18/)
-* June 16, 2019 at 6:00 pm
-* July 16, 2019 at 6:00 pm
+* ~~June 16, 2019 at 6:00 pm~~ (cancelled due to summer, lol)
+* July 16, 2019 at 6:00 pm ([altar](https://imgur.com/a/wqr249D))
 * August 11, 2019 at 8:00 pm
 * October 13, 2019 at 8:00 pm
 * September 14, 2019 at 6:00 pm
 * November 11, 2019 at 8:30 pm
 * December 13, 2019 at 6:30 pm
-
-
-
-## past 
-
-* apr
-* mar
-* feb
-* jan
-
-<!-- hyperlink bank -->
-
-
-<!-- &#042; = asterisk -->
-<!-- &#039; = single quote '-->
-

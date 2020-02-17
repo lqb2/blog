@@ -79,6 +79,7 @@ via the [youth development network](https://www.ydnetwork.org/). they have tons 
 ## games
 
 1. 4x4 (groups of four finding four things in common)
+2. [youth development network: icebreakers & energizers](https://www.ydnetwork.org/icebreakers-and-energizers). make sure to look at the backpocket guide, too. 
 
 ## emergent strategy principles
 
@@ -96,3 +97,9 @@ source: eroc
 * [TransformHarm.org](https://transformharm.org)
     - a resource hub about ending violence. It offers an introduction to transformative justice. Created by Mariame Kaba and designed by Joseph Lublink, the site includes selected articles, audio-visual resources, curricula, and more.
 * [white supremacy culture by Tema Okun](http://www.dismantlingracism.org/uploads/4/3/5/7/43579015/whitesupcul13.pdf)
+
+## racial justice
+
+* [white accomplices](https://www.whiteaccomplices.org/)
+* [Racial Equity Tools: caucus and affinity groups](https://www.racialequitytools.org/act/strategies/caucus-affinity-groups)
+* [seeds for change: affinity groups](https://www.seedsforchange.org.uk/affinitygroups.pdf)
