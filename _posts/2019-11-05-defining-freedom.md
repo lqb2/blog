@@ -14,9 +14,9 @@ i've been in several conversations over the past few weeks about freedom, each o
 
 1. nina simone's definition of freedom: no fear ([source](https://www.youtube.com/watch?v=nPD8f2m8WGI))
 1. "freedom is commitment." - a definition i learned from some nuns many years ago
-1. "knowing who you belong to and how." — me
+1. "knowing who you belong to and how." — me (inspired by paulo coelho)
 
-that last one is the one i've been developing personally. it resonates so deeply because it rejects the warped definition of freedom i think is dominant in american culture. 
+that last one is the one i've been working with the most lately. it resonates so deeply because it rejects the warped definition of freedom i think is dominant in american culture. it comes from [the zahir](https://www.goodreads.com/book/show/1427.The_Zahir) by paulo coelho: “Freedom is not the absence of commitments, but the ability to choose - and commit myself to - what is best for me.”
 
 i think undeveloped definitions of freedom lean towards "ability to do whatever one wants, whenever one wants to." a few weeks ago i was chatting with someone who shared that she didn't believe freedom existed. by her definition, "action without consequence," was impossible. and i wholeheartedly agreed! but my definition of freedom counters that other definition in a way that i think makes freedom possible. 
 
@@ -27,6 +27,14 @@ i don't much about riverside presbyterian church, but i like [this blog post](ht
 love that. 
 
 ciao.
+
+---
+
+some of my previous thoughts about freedom:
+
+“Freedom is not the absence of commitments, but the ability to choose - and commit myself to - what is best for me.” Paulo Coelho. The Zahir.
+
+Personal definition of freedom: knowledge of whom I belong to (those who have come before, those have yet to come, and those who are here now) and how.
 
 <!-- hyperlink bank -->
 

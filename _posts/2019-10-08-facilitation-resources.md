@@ -103,3 +103,21 @@ source: eroc
 * [white accomplices](https://www.whiteaccomplices.org/)
 * [Racial Equity Tools: caucus and affinity groups](https://www.racialequitytools.org/act/strategies/caucus-affinity-groups)
 * [seeds for change: affinity groups](https://www.seedsforchange.org.uk/affinitygroups.pdf)
+
+## difficult conversations resources
+
+* [We Have to Talk: A Step-By-Step Checklist for Difficult Conversations By Judy Ringer](http://www.judyringer.com/perch/resources/we-have-to-talk-with-checklist-for-powerful-conversations-and-openings.pdf)
+* 
+Difficult Conversations 
+Difficult Conversations, by Douglas Stone, Bruce Patton, and Sheila Heen
+Handout: Pages 1-5
+
+slide deck
+Ladder of Inference
+Toolshero - Ladder of Inference, 7 steps during a decision making process: https://www.toolshero.com/decision-making/ladder-of-inference/
+Using the Ladder of Inference – https://personalmasterycoaching.wordpress.com/2016/01/18/rethinking-thinking-using-the-ladder-of-inference/
+The systems Thinker: https://thesystemsthinker.com/the-ladder-of-inference/
+Mindtools: https://www.mindtools.com/pages/article/newTMC_91.htm 
+Constructive Discord / Functional Conflict
+https://www.isixsigma.com/implementation/teams/constructive-discord-the-role-of-conflict-in-building-high-performance-teams/
+https://www.bates-communications.com/bates-blog/bid/96486/Functional-Conflict-The-Secret-Ingredient-of-High-Performing-Teams
