@@ -24,13 +24,13 @@ tags:
 
 **when**: (an evolution from [the 2019 circles]({{ site.baseurl }}2019/05/14/queer-full-moon-circles/)), these circles are offered in the spring and fall seasons. there are three circles per season.
 
-*spring*
+*spring* - touch
 
 * tuesday 7 april
 * friday 8 may
 * sunday 7 june
 
-*fall*
+*fall* - grief
 
 * wednesday 30 sept
 * friday 30 october
