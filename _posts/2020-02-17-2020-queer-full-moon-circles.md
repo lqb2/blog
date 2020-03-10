@@ -50,7 +50,7 @@ RSVPing is required. to do so, please email lawrence.barriner.ii@gmail.com, and 
 
 ---
 
-thanks to brandon sloan, for the conversation that lead to spring being about touch. thanks to eroc arroyo-montano & gibrán rivera for the fall being about grief. thanks to jordan mudd for conversation about the desire to go deeper with these circles.
+thanks to brandon sloan, for the conversation that lead to the spring circles being about touch. thanks to eroc arroyo-montano & gibrán rivera for the fall circles being about grief. thanks to eroc and jordan mudd for conversation about the desire to go deeper with these circles.
 
 
 <!-- hyperlink bank -->
