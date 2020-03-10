@@ -48,7 +48,9 @@ RSVPing is required. to do so, please email lawrence.barriner.ii@gmail.com, and 
 * which dates during that/those season(s) you can and can't attend
 * how you racially identify (each circle will be majority POC)
 
+---
 
+thanks to brandon sloan, for the conversation that lead to spring being about touch. thanks to eroc arroyo-montano & gibrán rivera for the fall being about grief. 
 
 
 <!-- hyperlink bank -->
