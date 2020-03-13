@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'alternative futures: living after the days of covid-19'
-date: '2020-03-12T11:22:00-04:00'
+date: '2020-03-11T11:22:00-04:00'
 tags:
 - apocalypse
 - covid-19
