@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'guided meditation on thursday 19 march 2020: spring teachers'
+title: 'guided meditation on thursday 19 march 2020: finding spring teachers'
 date: '2020-03-19T09:29:00-04:00'
 tags:
 - meditation
