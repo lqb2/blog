@@ -12,9 +12,14 @@ tags:
 
 an archive of all our black sci-fi book club chats.
 
+## legacy of orïsha
+
+* [children of blood of bone] (coming spring 2020)
+* [children of virtue and vengeance] (coming at some point)
+
 ## broken earth trilogy by n.k. jemisin
 
-* stone sky (coming dec 2019)
+* [stone sky](https://www.youtube.com/watch?v=mPatOeeYO8s)
 * [obelisk gate](https://www.youtube.com/watch?v=0j2ILWDH4VE)
 * [the fifth season](https://www.youtube.com/watch?v=WWe1yWo63Rw)
 
