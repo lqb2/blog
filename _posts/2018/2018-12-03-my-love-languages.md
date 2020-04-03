@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'my love languages'
+title: 'self-mastery: my love languages'
 date: '2018-12-03T07:38:00-04:00'
 tags:
 - personal development

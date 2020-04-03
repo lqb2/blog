@@ -14,6 +14,10 @@ and a lot more like this.
 
 ![img](https://i.imgur.com/fTDFTqd.png)
 
+but actually probably like this
+
+![waves gif](https://media1.giphy.com/media/l4hLyOGRJWNSR8QQ8/giphy.gif)
+
 i realized this on friday, 27 march, as the second wave of folks i know started to experience an increased intensity of symptoms (fever, shortness of breath, fatigue, coughing, loss of taste/smell/appetite). 
 
 i was gonna preface this next sentence by saying it's weird... but i think it's actually just the truth and i'm learning to hold multiple truths at once: i am grateful for having been on the early wave of folks to experience symptoms. 
