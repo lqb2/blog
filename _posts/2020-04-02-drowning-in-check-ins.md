@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dreaming of right-size and right-relationship during a pandemic '
+title: 'thoughts on wrong- and right-relationship during a pandemic'
 date: '2020-04-02T23:51:00-04:00'
 tags:
 - covid-19
@@ -27,7 +27,7 @@ i have been thinking about the use of [pods](https://batjc.wordpress.com/pods-an
 
 of course it doesn't mean i won't answer some other folks but i wonder if people farther away from me (physically, socially) know that i am well checked-in-on, they won't worry about me... it also might allow us to make sure everyone has a full pod of people checking in on them. if i'm all set, who isn't and where might that attention and care be most usefully directed?
 
-ok so those are my personal thoughts on this. that said, i've been in convo with lots of folks in my boston community about these dynamics. andrea a. has explored how requests for health info can actually be extractive, luana m. opened up how asking for information can attempt to imitate a closeness that doesn’t exist (i.e. if you have never actually be in a care relationship with me, are you asking now because you are genuinely interested in supporting me? or is something else motivating that ask?). danielle c-c has explored the reality that with some folks it doesn't feel like work to update them; with other folks it does. how does obligation show up in our asks for health updates and what does that mean for who we do and don't update? 
+ok so those are my personal thoughts on this. that said, i've been in convo with lots of folks in my boston community about these dynamics. andrea a. (of [one square world](https://www.onesquareworld.org/)) has explored how requests for health info can actually be extractive, luana m. (of [hands of gaia reiki & lunation life cycle support](https://www.handsofgaiareiki.com/)) opened up how asking for information can attempt to imitate a closeness that doesn’t exist (i.e. if you have never actually be in a care relationship with me, are you asking now because you are genuinely interested in supporting me? or is something else motivating that ask?). danielle c-c (of [infinite growth](http://infinitegrowth.rocks/)) has explored the reality that with some folks it doesn't feel like work to update them; with other folks it does. how does obligation show up in our asks for health updates and what does that mean for who we do and don't update? 
 
 andrea, luana, danielle, this post is open for any edits or words you want to add! 
 
