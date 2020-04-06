@@ -11,7 +11,7 @@ in the last week, two thoughts re: covid-19 have been really sitting with me fro
 
 the first is from [d. farai williams](https://www.dynamizingequity.com/about): we are experiencing a collective, global trauma. 
 
-when farai said this my brain just oozed out of my ear. that is EXACTLY what's happening. so much is happening so fast and the amount of control most of us have is *so* small. which segues to the next second thought... from lj amsterdam: how much trauma sticks with someone in a hard moment is directly linked to how much agency they felt in that moment. 
+when farai said this my brain just oozed out of my ear. that is EXACTLY what's happening. so much is happening so fast and the amount of control most of us have is *so* small. which segues to the next second thought... from [lj amsterdam](https://maydayspace.org/people/): how much trauma sticks with someone in a hard moment is directly linked to how much agency they felt in that moment. 
 
 idk if that's like common knowledge in the trauma discourse but it totally blew my mind. it aligns with all the other things i've learned about trauma but opens up a space of possibility: more agency = less trauma. 
 
