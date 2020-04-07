@@ -26,7 +26,7 @@ It will take you 5 minutes on the chat to make all your future Amazon orders pla
 
 I hope you will find this helpful, part of my practice it's just to spread the word, always keeping the loving-kidness.
 
-~[img](https://i.imgur.com/53ycFt6.png)
+![img](https://i.imgur.com/53ycFt6.png)
 
 
 <!-- hyperlink bank -->
