@@ -12,6 +12,7 @@ note: will be adding books here as i read them or as VA types them up. forever t
 
 
 
+* [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear](https://docs.google.com/document/d/1BXNjEWNht46wTHFlymfWy00b15RJYk2Kl0dGqUBVCRo/edit?usp=sharing)
 * [Conflict Is Not Abuse - Overstating Harm, Community Responsibility, and the Duty of Repair by Sarah Schulman](https://docs.google.com/document/d/1OFB88c6CzWG5kGXaccuTLzJV2MUjjH0lrA53lpcU8Uw/edit#heading=h.4krziu3nbdml)
 * [Power-Curve Society: The Future of Innovation, Opportunity and Social Equity in the Emerging Networked Economy by David Bollier, Raporteur](https://docs.google.com/document/d/174kniuH2Y60yt0-pjfuAK-JAtSBXUJQ1kPhJkiTdqM0/edit#heading=h.n69fg0cdulli)
 * [Deep Work: Rules for Focused Success in a Distracted World
