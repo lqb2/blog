@@ -6,6 +6,12 @@ tags:
 - 
 --- 
 
+# update (11 april 2020)
+
+ray has been found. thanks for supporting the search!
+
+---
+
 please leave your name and email [here](https://forms.gle/ZAg9jhBKkdtRLeVE8) if you're willing to help laura rockman find her son.
 
 the messages below are from my penpal, bj.
