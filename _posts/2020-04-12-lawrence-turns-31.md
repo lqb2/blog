@@ -6,6 +6,9 @@ tags:
 - 
 --- 
 
+
+![img](https://i.imgur.com/8PaYFS2.jpg)
+
 you know, just celebrating my birthday in the time of a global pandemic. 
 
 ## birthday video office hours
