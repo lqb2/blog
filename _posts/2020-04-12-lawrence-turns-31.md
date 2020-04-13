@@ -9,7 +9,10 @@ tags:
 
 ![img](https://i.imgur.com/8PaYFS2.jpg)
 
-you know, just celebrating my birthday in the time of a global pandemic. 
+you know, just celebrating my birthday in the time of a global pandemic. but, as always, in every challenge is an opportunity:
+
+* **i am grieving**: hugs, in person grinding
+* **i am gaining**: a space for my friends from all over the country to meet each other with minimal carbon impact, simultaneous solo dancing all over turtle island, an opportunity to take a luxurious bath while still connecting with my friends (actually, i did that last year too LOL)
 
 ## birthday video office hours
 
