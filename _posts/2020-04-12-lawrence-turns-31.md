@@ -9,9 +9,9 @@ tags:
 
 ![img](https://i.imgur.com/8PaYFS2.jpg)
 
-you know, just celebrating my birthday in the time of a global pandemic. but, as always, in every challenge is an opportunity:
+you know, just celebrating my birthday in the time of a global pandemic. but, as always, in every challenge is an opportunity. 
 
-* **i am grieving**: hugs; in person, sweaty dancing 
+* **i am losing (grieving)**: hugs; in person, sweaty dancing
 * **i am gaining**: a space for my friends from all over the country to meet each other with minimal carbon impact; simultaneous solo dancing all over turtle island; an opportunity to take a luxurious bath while still connecting with my friends (actually, i did that last year too LOL)
 
 ## birthday video office hours
@@ -26,7 +26,7 @@ inspired by matt taylor. drop in anytime, including just for literally one minut
 
 ## wish list
 
-[here](https://docs.google.com/spreadsheets/d/1G2ve18VOrN9B5QAdpzY4h-_c0qco_VJDhOMJCypZP3s/edit#gid=0). has some gifts for me and some places to donate money, too. because sharing is caring. 
+[here](https://docs.google.com/spreadsheets/d/1G2ve18VOrN9B5QAdpzY4h-_c0qco_VJDhOMJCypZP3s/edit#gid=0). has some gifts for me (some of which are gifts for other friends, hehe) and some places to donate money, too. sharing is caring. 
 
 <!-- hyperlink bank -->
 
