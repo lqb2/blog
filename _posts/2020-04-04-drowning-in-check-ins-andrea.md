@@ -7,7 +7,7 @@ tags:
 - pods
 --- 
 
-<p class="message">this is a response to my post: <a href="{{ site.baseurl }}2020/04/02/drowning-in-check-ins/">"thoughts on wrong- and right-relationship during a pandemic"</a>.</p>
+<p class="message">this is a response to my post: <a href="{{ site.baseurl }}2020/04/03/drowning-in-check-ins/">"thoughts on wrong- and right-relationship during a pandemic"</a>.</p>
 
 as a person who generally is overwhelmed by personal interaction (and even more so by 1 on 1 digital interaction), your post resonates. i am the person who doesn't respond. i am a person who is intensely present to the moment, it's really hard for me to be pulled away from an interaction in person, i am ALL IN when I am with you. i also am a person who has moved multiple times so when i am not in your world, i am not in your world. my closest friends get this about me. They love me even when i disappear. i hope i do not cause them pain. we resume conversations from months in the past, without judgement, and just from where we left off. the relationships that end have been those convos that start with - why didn't you call me? respond? donde te perdiste? 
 
@@ -54,4 +54,4 @@ There are two ends of the spectrum for interactions -  extractive and regenerati
 
 re: backlash - no, i think it may encourage folks to check in differently. I think A LOT of people will resonate with this. 
 
-Re cold/impersonal - yes, some folks will think this but i can imagine that those folks are caught in some really transactional relationships. It will hopefully open some minds. I love the signature line that Jessica T has about practicing presence with email ("I am practicing presence. I am practicing letting go of urgency and the never-ending to-do list. If I don't respond, it's not personal; it's simply an act of self care. — jessica ~~taubner~~ ridge) - something like that can soften this if you want it softened. 
+Re cold/impersonal - yes, some folks will think this but i can imagine that those folks are caught in some really transactional relationships. It will hopefully open some minds. I love the signature line that Jessica T has about practicing presence with email ("I am practicing presence. I am practicing letting go of urgency and the never-ending to-do list. If I don't respond, it's not personal; it's simply an act of self care." — jessica ~~taubner~~ ridge) - something like that can soften this if you want it softened. 

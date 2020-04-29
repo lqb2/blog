@@ -7,7 +7,7 @@ tags:
 - pods
 --- 
 
-<p class="message">this is a response by <a href="http://infinitegrowth.rocks/">danielle coates-connor</a> to <a href="{{ site.baseurl }}2020/04/04/drowning-in-check-ins-andrea/">andrea atkinson's thoughts</a>to my <a href="{{ site.baseurl }}2020/04/02/drowning-in-check-ins/">thoughts on wrong- and right-relationship during a pandemic</a>.</p>
+<p class="message">this is a response by <a href="http://infinitegrowth.rocks/">danielle coates-connor</a> to <a href="{{ site.baseurl }}2020/04/04/drowning-in-check-ins-andrea/">andrea atkinson's thoughts</a>to my <a href="{{ site.baseurl }}2020/04/03/drowning-in-check-ins/">thoughts on wrong- and right-relationship during a pandemic</a>.</p>
 
 My family, especially the women, taught me to do the work of communicating for one another at different times of need. When I get sick I know the updates I give my mom will make their way to anyone in the family asking about me. It is a tremendous relief that when I do interact with family, I don't need to recap start to finish health updates every time and can instead connect about other things - which right now for us looks like funny COVID-19 toilet paper scarcity memes and other jokes. 
 
