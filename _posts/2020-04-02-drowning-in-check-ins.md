@@ -33,7 +33,7 @@ andrea, luana, danielle, this post is open for any edits or words you want to ad
 
 gotta go answer some more check in texts lol...
 
-<p class="message">update: here are responses to this post from [andrea]({{ site.baseurl }}) and [danielle](). they are best read in that order. </p>
+<p class="message">update: here are responses to this post from <a href="{{ site.baseurl }}2020/04/04/drowning-in-check-ins-andrea/">andrea</a> and <a href="{{ site.baseurl }}2020/04/04/drowning-in-check-ins-danielle/">danielle</a>. they are best read in that order. </p>
 
 ps - i am definitely worried about a backlash / pendulum swing in the opposite direction by writing this post. will talking about being overwhelmed by check-in texts/calls make people stop checking in on me (and others)?
 
