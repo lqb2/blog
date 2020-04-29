@@ -38,4 +38,4 @@ ps - this, like many insights arriving in pandemic, is not new or news. it just 
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-XXXw / XXmin / XXmin
+175w / 10min / 

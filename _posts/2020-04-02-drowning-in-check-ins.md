@@ -31,6 +31,11 @@ ok so those are my personal thoughts on this. that said, i've been in convo with
 
 andrea, luana, danielle, this post is open for any edits or words you want to add! 
 
+update: here are responses to this post from [andrea]() and [danielle](). they are best read in that order. 
+
+I am practicing presence. I am practicing letting go of urgency and the never-ending to-do list. If I don't respond, it's not personal; it's simply an act of self care. 
+
+
 gotta go answer some more check in texts lol...
 
 ps - i am definitely worried about a backlash / pendulum swing in the opposite direction by writing this post. will talking about being overwhelmed by check-in texts/calls make people stop checking in on me (and others)?
