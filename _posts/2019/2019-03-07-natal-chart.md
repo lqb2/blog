@@ -14,6 +14,10 @@ also need to do some cleaning up of the formatting of this page, but that'll com
 
 ---
 
+[whole sign chart PDF from chani nicholas](https://drive.google.com/open?id=1pYKZQtPoCszj_GO1UPnbDkjYjVxo8d9k)
+
+---
+
 in depth detailed chart done by constance of astrostory club
 
 ![Imgur](https://i.imgur.com/S1izbHc.jpg)
