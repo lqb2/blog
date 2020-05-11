@@ -1,0 +1,28 @@
+---
+layout: post
+title: 'Covid, Public Health + City Planning? It&#039;s Really About Building a Different Urban Economy Centering a Right to the City'
+date: '2020-05-04T01:30:30-04:00'
+tags:
+- covid-19
+- city planning
+--- 
+
+guest piece here from my friend, jason spicer! i asked if i could post it here because it's great thinking and i wanted to be able to share it without having to forward the email every time lol. thanks, jspice!
+
+---
+
+<p class="message">Hi Friends/Colleagues - I wrote this up rather quickly. it's too long for twitter and I can't be bothered to send to the NYT to pitch it as an editorial response to their article, but sending to you b/c might appreciate it or find it useful. Hope you are well! - Jason
+</p>
+
+## Covid, Public Health + City Planning? It’s Really About Building a Different Urban Economy Centering a Right to the City 
+
+[**Streets Should Be Car-Free During Lockdown. And After.** — Cholera changed the face of Paris. Will Covid-19 change the streets of New York?](https://www.nytimes.com/2020/05/01/nyregion/coronavirus-streets-closed-nyc.html?searchResultPosition=1&fbclid=IwAR2pYMgYkdMlctWsUyjnFc2s6rclk-w4goBn2O6O_QRmo9s7BAuexFcLeos){:target="_blank"}
+
+This NYT article (link above) on pandemics’ meaning for NYC + city-building in general draws lessons from Paris after its 19th century cholera outbreaks. The article is not without merit. But to claim cholera alone led to Haussmann’s transformation of Paris is to miss the heart of the story of city planning, as any good student of the field knows. Lost in mundane questions of street closures is the first-order point: in the long run, responses to pandemics often reveal governments’ desire to control cities. Unless forced to do otherwise by an organized public, that will often mean defending the economic status quo.
+It is true, as Berkeley planning’s Jason Corburn has shown, modern city planning + public health have a long intertwined history, dating back at least to John Snow + the epidemiology of London’s cholera outbreak. But Hausmann’s efforts to build a new Paris were motivated by more than cholera. David Harvey showed Haussmann’s plan was also part of a new capitalist brand of urban renewal, in which new spaces in existing cities were created to invest surplus capital, + to increase the city’s future physical capacity to circulate capital between the city and the world. It was also motivated by a desire to remove dark spaces that might engender more political-economic revolutions in the city, thereby preventing future Paris communes. This is not unique to Paris, but reflects government’s desire to control space to make society more manageable, or “legible” (as James C. Scott, in “Seeing Like a State”, so elegantly put it).
+
+After Haussmann, governments’ control of space to advance profit-making opportunities came to dominate how, why and for whom many cities are built and planned. The article notes that a housing specialist was on the original board of the American Public Health Association (APHA). And yet, given the constraints of “planning the capitalist city”, as scholar Foglesong called it, the profit motive meant that urban housing conditions remained abysmal. Some two decades after APHA put a houser on its initial board, Jacob Riis’s disturbing photography of “how the other half lives” affirmed terrible slum-like housing conditions still prevailed in New York. The article also mentions Le Corbusier’s “clean” modernist models, but these, too, ultimately failed to solve "the housing problem". Many of his towers in the park, without sustained public investment or transformative economic policies to wrap around them, became islands of poverty. Physical interventions in the same economic system solve nothing. This is why, again as noted in puzzlement in this article, after 9-11 and Sandy, NYC continues to build more elite shopping malls and environmentally unsustainable towers: because despite crises, the economic system hasn’t changed. Cities are still about maximizing profit from private spaces, and making as many public spaces into private profit machines as is possible.
+
+Less than a decade ago, many of us attempted to occupy public spaces in New York, and around the world, in what was ultimately the opening salvo of a renewed effort to create a different kind of society and a different city, one that centers peoples’ right to the city over profit, as Marcuse argued a decade ago, as did Lefebvre a generation before that. Good city planning, as Marcuse reminded us, is about exposing problems, proposing solutions, and politicizing them to implementation. A generation before Occupy, urban social movements and crisis similarly resulted in demands for a new type of city and new economy. Today’s crisis will likely bring its own version of these prior upheavals.
+
+And so the article misses the point that to truly plan for a healthy city, we will need to build one by and for the people, owned and controlled either directly by them, or indirectly on their behalf. This will likely require different socio-economic models, of precisely the type that Parisians once dreamed from the dark corners Haussmann bulldozed, the type of economically democratic models inspired in part by those self-same Paris communes and associated revolutions, models centered around public and community owned housing, a real public health service, and municipal, worker, and community owned enterprises. In the last economic downturn of this magnitude – the Great Depression – unions and public agencies funded and supported the development of housing and other public urban spaces for the common good. Let’s hope that an even more forceful response and result comes of today’s crisis. 
