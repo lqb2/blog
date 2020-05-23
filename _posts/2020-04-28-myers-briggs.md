@@ -11,6 +11,8 @@ adding my myers-briggs type to my [self-mastery archive]({{ site.baseurl }}tags/
 
 i have been avoiding taking myers-briggs for over a decade. mostly because i know [it's been debunked](https://www.vox.com/2014/7/15/5881947/myers-briggs-personality-test-meaningless). still, when i read this, i feel seen. and, just like when i started with astrology, if i can gain some self-knowledge in a liberatory (as opposed to a constrictive, limiting) way, i'm here for it. 
 
+[here's my 16 personalities profile link.](https://www.16personalities.com/profiles/9732013614307)
+
 ps - shoutout to topher for making me take this.
 
 ---
