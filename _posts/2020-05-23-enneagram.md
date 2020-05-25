@@ -21,6 +21,3 @@ my instinct types are:
 
 <!-- &#042; = asterisk -->
 <!-- &#039; = single quote '-->
-
-**words / writing / post-processing**  
-XXXw / XXmin / XXmin
