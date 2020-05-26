@@ -18,10 +18,10 @@ tags:
 
 | month | **book title** | **$** | purchased |
 | nov 2019| your story sets you free | 13 | 18 nov | 
-| dec | indigenous people's history of the united states | 16 | |
+| dec | indigenous people's history of the united states | 16 | can't order as a gift from amazon??? |
 | jan 2020 | post-traumatic slave syndrome | 20 | 18 nov |
 | ??? | full catastrophe living | $16.29 + $5.99 | 30 dec 2019 |
-| feb | my grandmother's hands | 12 |
+| feb | my grandmother's hands | $ 11.79 + shipping | 28 may 2020 (ordered with lust, anger, love) total w/ tax and shipping $46.38 |
 | mar | leadership and the new science | 14 |
 | apr | parable series - octavia butler | 20 |
 | may | the body is not an apology | 12 |
@@ -31,8 +31,8 @@ tags:
 | sep | broken earth trilogy - nk jemisin | 23 |
 | oct | sex, economy, freedom, & community | 13 |
 | nov | of water and the spirit | ??? |
-| dec | ??? | ??? |
-| jan | ??? | ??? |
+| dec | Lust, Anger, Love: Understanding Sexual Addiction and the Road to Healthy Intimacy | $19.99 + shipping | 26 may 2020 | 
+| jan | The Drama of the Gifted Child: The Search for the True Self | $9.75 + $11.18 (shipping & tax) | 26 may 2020. sent to ray but for bj | 
 | feb | ??? | ??? |
 | mar | ??? | ??? |
 | **total** | | **$186** |
