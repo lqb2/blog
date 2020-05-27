@@ -50,7 +50,7 @@ books purchased
 book bank money left: 
 
 * ~~52.50~~
-* 23.95
+* ~~23.95~~
 
 ---
 
