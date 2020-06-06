@@ -28,11 +28,11 @@ weave yourself back together, little one. i have given you enough thread for you
 
 anansi vanished from my mind as the threads melted into each other and then my skin. 
 
-i looked down at my hands and turned them over. 
+i looked down at my hands and turned them over... 
 
-i threw up. 
+_a story spawned from the black imgntn study group_
 
-shit. 
+
 
 <!-- hyperlink bank -->
 
@@ -41,4 +41,4 @@ shit.
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-367w / 15m / 5min
+367w / 15min / 5min
