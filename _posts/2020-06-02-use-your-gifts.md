@@ -23,3 +23,6 @@ and so much more.
 
 if you are coming into movement this week, or bringing others in, my ask is that you get real clear about what your gifts are and find ways to use them. follow the leadership of black folks, absolutely. stretch yourself, yes. AND know that putting your body on the line is one of MANY MANY ways you can show up for black liberation (which is actually about liberation for all people). 
 
+UPDATE: my roommate drew this the same morning i wrote this. please share (or feel free to illustrate any of the other 198 methods of nonviolent action)
+
+[![cromebot](https://i.imgur.com/jc9AAhY.png)](https://www.instagram.com/p/CA8V80xhG5M/)
