@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'book list for lenard'
+title: 'book list for lanard'
 date: '2020-06-22T12:20:00-04:00'
 tags:
 - 
