@@ -37,9 +37,9 @@ my current dream is to be a steward for a home or retreat center that allows the
 
 is it a long-shot? maybe. am i willing to move into spaces that allow for some but not all of these things? of course. am i gonna work towards the whole package? you better believe it. 
 
-in the farthest reaches of my imagination, what i actually want is to be a part of a network of spaces, some in the city, some in rurality (is that a word?), where people have flexibile 
+in the farthest reaches of my imagination, what i actually want is to be a part of a network of spaces, some in the city, some in rurality (is that a word?), some on islands, in many different climates where people have flexible arrangements to flow and move as needed/desired/wanted. BIPOC-centered, for sure, but sooner or later we will eradicate whiteness as a concept and then... who knows... 
 
-have leads? wanna help me figure this out? [email me](mailto:lawrence.barriner.ii@gmail.com).
+EEEENYWAYS... have leads? wanna help me figure this out? [email me](mailto:lawrence.barriner.ii@gmail.com).
 
 <!-- hyperlink bank -->
 
