@@ -1,12 +1,12 @@
 ---
 layout: post
-title: ''
-date: '2020-06-2T00:00:00-04:00'
+title: ' '
+date: '2020-07-0T00:00:00-04:00'
 tags:
 - 
 --- 
 
-[post content]
+[post here]
 
 <!-- hyperlink bank -->
 
@@ -15,4 +15,4 @@ tags:
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-XXXw / XXmin / XXmin
+w / min / min
