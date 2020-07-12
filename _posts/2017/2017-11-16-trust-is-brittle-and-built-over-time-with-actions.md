@@ -9,9 +9,9 @@ tags:
 - better selves fellows
 --- 
 
-a couple of weeks ago, spencer and i were talking and someone he works with (maria, i believe, but i need to get her full name so i can cite her appropriately) said, among many things, this line that i thought was basically gold:
+a couple of weeks ago, spencer and i were talking and someone he works with (kelly, i believe, but i need to get her full name so i can cite her appropriately) said, among many things, this line that i thought was basically gold:
 
-> trust is a brittle thing that needs to be built, over time, mostly by actions. - maria
+> trust is a brittle thing that needs to be built, over time, mostly by actions. - kelly
 
 i was dumbfounded when i saw those words. i have shared them with at least three other people since he shared them with me. 
 
@@ -32,9 +32,9 @@ first thing that came up was glass and the process of blowing glass (sean recent
 
  #badpoetry maybe? whatevs.
 
-but anyways, that operative part of maria's line, for me, is that trust is built mostly by actions (echos of m. scott peck's definition of love here). words are necessary, for sure, but what builds (and erodes) trust is action, not words. words can be empty. actions cannot be disputed. well, maybe that's not totally true, but at least they're less easily disputed, heh. 
+but anyways, that operative part of kelly's line, for me, is that trust is built mostly by actions (echos of m. scott peck's definition of love here). words are necessary, for sure, but what builds (and erodes) trust is action, not words. words can be empty. actions cannot be disputed. well, maybe that's not totally true, but at least they're less easily disputed, heh. 
 
-thanks, maria... whoever you are. 
+thanks, kelly... whoever you are. 
 
 <!-- hyperlink bank -->
 
