@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'planning before and after pandemic'
+title: 'planning before and inside of pandemic'
 date: '2020-07-10T09:52:00-04:00'
 tags:
 - pandemic
