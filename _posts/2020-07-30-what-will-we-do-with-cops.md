@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'yes, we can play with cop gear... but can we play with ex-cops?'
-date: '2020-07-31T10:10:00-04:00'
+date: '2020-07-30T10:10:00-04:00'
 tags:
 - abolition
 - defund police
