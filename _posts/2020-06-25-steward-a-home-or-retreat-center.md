@@ -21,7 +21,7 @@ as i have continued to seek out this possibility, two things have become clear t
 
 for a bit, i was feeling pretty butthurt about the fact that many of my friends will either inherit their parents' homes or they have received money (because of the fact that their parents had wealth directly or indirectly supported via homeownership) that has allowed them to purchase their own home. 
 
-but now, informed by scholarship of people indigenous to turtle island, i have come to believe that the idea of private property is the root of most, if not all, of our societal ailments. therefore, i actually reject the idea of individual ownership of property and i don't actually want to own a home anymore. at least not by myself. 
+but now, [informed by scholarship of people indigenous to turtle island](https://www.theguardian.com/commentisfree/2017/mar/27/western-idea-private-property-flawed-indigenous-peoples-have-it-right){:target="_blank"}, i have come to believe that the idea of private property is the root of most, if not all, of our societal ailments. therefore, i actually reject the idea of individual ownership of property and i don't actually want to own a home anymore. at least not by myself. 
 
 so where am i now? 
 
