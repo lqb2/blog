@@ -23,7 +23,7 @@ we are reacting in all sorts of ways: writing articles, retweeting and reposting
 
 nothing is wrong with actions... once we have fully felt the hardness of this moment. but if we take those actions *before* feeling the moment, all of it is only partly informed. 
 
-in what ways are you running from just feeling the hardness of this moment? what practices do you have to be with the difficulty 
+in what ways are you running from just feeling the hardness of this moment? what practices do you have to be with the difficulty of these times? are y/our patterns of analyzing and acting (to the exclusion of holding the feelings) avoidance? 
 
 
 

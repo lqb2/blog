@@ -14,12 +14,14 @@ i have been excited about living alone for a long time and in a couple of differ
 * i want to have the capacity to let people sleepover (for up to three nights) if needed
 * i want to be able to have lots of physical space for my own morning and eventual rituals/practices
 
+so to be clear, the biggest reason i want to live alone is to be able to have space to be in service to my movement community. 
+
 as i have continued to seek out this possibility, two things have become clear to me:
 
-* white supremacy makes living alone possible for lots of white people because of systemic economic privilege
-* because of the economic and family situations of my parents and lineages, i will likely never inherit property
+* white supremacy makes living alone much easier for white people because of systemic economic privilege. 
+* (related to the above point) because of my economic and family/lineage realities, it is unlikely that i will ever inherit property or financial wealth.
 
-for a bit, i was feeling pretty butthurt about the fact that many of my friends will either inherit their parents' homes or they have received money (because of the fact that their parents had wealth directly or indirectly supported via homeownership) that has allowed them to purchase their own home. 
+for a bit, i was feeling pretty butthurt about the fact that many of my friends will (or already have) either inherit their parents' homes or they have received money (because of the fact that their parents had wealth directly or indirectly supported via homeownership) that has allowed them to purchase their own home. 
 
 but now, [informed by scholarship of people indigenous to turtle island](https://www.theguardian.com/commentisfree/2017/mar/27/western-idea-private-property-flawed-indigenous-peoples-have-it-right){:target="_blank"}, i have come to believe that the idea of private property is the root of most, if not all, of our societal ailments. therefore, i actually reject the idea of individual ownership of property and i don't actually want to own a home anymore. at least not by myself. 
 
