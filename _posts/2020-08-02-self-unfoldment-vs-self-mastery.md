@@ -30,7 +30,7 @@ anyway, i've got lots more thought about this but for now, this will have to do.
 
 ---
 
-
+* [rohr - becoming who you are](https://cac.org/becoming-who-you-are-2019-09-09/){:target="_blank"}
 
 <!-- {:target="_blank"} -->
 
