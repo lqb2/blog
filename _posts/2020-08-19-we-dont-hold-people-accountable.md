@@ -39,7 +39,7 @@ from there, all sorts of other things become possible. addressing the hurts or h
 
 ok i need to run but i'll say two more things:
 
-first, accountability processes are voluntary. if it is not voluntary, it is coercive. and idk about you, but i really like being coerced. but just because accountability is volunteer **does not mean that harm should be allowed to continue indefinitely.** if someone won't take accountability and stop causing harm of their own will, there are still PLENTY of things that can be done to protect people who are the targets of their harm. 
+first, accountability processes are voluntary. if it is not voluntary, it is coercive. and idk about you, but i really DISLIKE being coerced. but just because accountability is volunteer **does not mean that harm should be allowed to continue indefinitely.** if someone won't take accountability and stop causing harm of their own will, there are still PLENTY of things that can be done to protect people who are the targets of their harm. 
 
 second, we cannot hold people accountable who don't hold our values to our values. a pattern i keep seeing is that people are trying to get leadership to be accountable to values of the collective but the leadership doesn't actually hold the same values. it is one thing (i dare call it love) to show someone that they are acting out of alignment with their own values. it is an entirely different thing to try to get someone to change their values (i believe that work happens on the scale of years and decades).
 
@@ -47,7 +47,7 @@ OMG THIS IS SO MUCH LONGER THAN I INTENDED WOW BYE. <3
 
 ---
 
-
+EDIT (20 aug 2020): thank you, sol, for catching the error in this original sentence: "if it is not voluntary, it is coercive. and idk about you, but i really like being coerced." i definitely, **definitely** don't like being coerced.
 
 <!-- {:target="_blank"} -->
 
