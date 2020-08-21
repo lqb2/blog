@@ -28,14 +28,14 @@ then we get to the "respond to what?" question. to me, it is responding to the c
 
 and in practice, what i see this most often looking like is this: 
 
-* person 1 did something that hurt or harmed person 2 ([the difference between hurt and harm](http://www.petewilson.tv/2012/03/29/the-difference-between-hurt-and-harm/){:target="_blank"}).
+* person 1 did something (intentionally or unintentionally, directly or indirectly) that hurt or harmed person 2 ([the difference between hurt and harm](http://www.petewilson.tv/2012/03/29/the-difference-between-hurt-and-harm/){:target="_blank"}).
 * person 2 wants person 1 to listen and respond to the fact that they hurt or harmed person 2. 
 * person 1 denies, underplays, or ignores person 2's claims. 
 
 
-accountability is the work of person 1 sitting with an acknowledging (a) that the hurt or harm DID in fact happen and (b) that they had some part in causing it. 
+accountability is the work of person 1 sitting with and acknowledging (a) that the hurt or harm DID in fact happen and (b) that they had some part in causing it. 
 
-from there, all sorts of other things become possible. addressing the hurts or harms (though hurt is not always something that can be tended to interpersonally) can happen through restorative or transformative processes and other things are possible, too. 
+from there, all sorts of other things become possible. addressing the hurt or harm (though hurt is not always something that can be tended to interpersonally) can happen through restorative or transformative processes and other things are possible, too. 
 
 ok i need to run but i'll say two more things:
 
@@ -47,8 +47,7 @@ OMG THIS IS SO MUCH LONGER THAN I INTENDED WOW BYE. <3
 
 ---
 
-EDIT (20 aug 2020): thank you, sol, for catching the error in this original sentence: "if it is not voluntary, it is coercive. and idk about you, but i really like being coerced." i definitely, **definitely** don't like being coerced.
-
+_EDIT (20 aug 2020): thank you, sol, for catching the error in this original sentence: "if it is not voluntary, it is coercive. and idk about you, but i really like being coerced." i definitely, **definitely** don't like being coerced._
 <!-- {:target="_blank"} -->
 
 <!-- hyperlink bank -->
