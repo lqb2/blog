@@ -29,6 +29,8 @@ so anyways, these two reasons created in me the desire to experiment. what happe
 
 is it working? idk. but i'm enjoying it and for now, that feels important. also, rarely has someone told me that they don't understand me. if that changes, i'll shift. but until then, not capitalizing letters hasn't diminished by capacity to communicate and it save a helluva alotta keystrokes lol. 
 
+ps - s/o to jordan mudd, who asked the question that lead to this post. 
+
 ---
 
 

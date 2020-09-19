@@ -15,7 +15,7 @@ an archive of all our black sci-fi book club chats.
 ## legacy of orïsha
 
 * [children of blood of bone] (coming spring 2020)
-* [children of virtue and vengeance] (coming at some point)
+* [children of virtue and vengeance](https://youtu.be/VtJRXTWlVbc)
 
 ## broken earth trilogy by n.k. jemisin
 
