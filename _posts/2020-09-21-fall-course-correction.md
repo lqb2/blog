@@ -3,7 +3,10 @@ layout: post
 title: 'fall course correction'
 date: '2020-09-21T01:45:00-04:00'
 tags:
-- seasons
+- living seasonally
+- fall
+- autumn
+- fall equinox
 
 --- 
 
