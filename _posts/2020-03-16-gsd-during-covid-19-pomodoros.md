@@ -6,6 +6,13 @@ tags:
 - 
 --- 
 
+
+UPDATE:
+
+latest google hangout: <https://hangouts.google.com/call/fp-mezqHS8FjozGh1Pa-AEEE>
+
+---
+
 schedule (all times EST): 
 
 * **10-10:05**: check-in (list tasks/goals)
@@ -18,7 +25,7 @@ schedule (all times EST):
 * **11:35-12:00**: pomodoro flow
 * **12:00-12:10**: check-out, gratitudes
 
-google hangout: <https://hangouts.google.com/call/fp-mezqHS8FjozGh1Pa-AEEE>
+~~google hangout: <https://hangouts.google.com/call/fp-mezqHS8FjozGh1Pa-AEEE>~~
 
 <!-- hyperlink bank -->
 
