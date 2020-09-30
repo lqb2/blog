@@ -1,15 +1,18 @@
 ---
 layout: post
-title: 'getting shit done during covid-19: 10a-12p EST pomodoros'
+title: 'getting shit done during covid-19: pompod'
 date: '2020-03-16T09:56:00-04:00'
 tags:
 - 
 --- 
 
 
+
 UPDATE:
 
 latest google hangout: <https://hangouts.google.com/call/EuYYNj62gZMEfPQQmaRsACEE>
+
+pompod = pomodoro pod
 
 ---
 
