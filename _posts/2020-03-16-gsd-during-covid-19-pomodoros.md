@@ -9,7 +9,7 @@ tags:
 
 UPDATE:
 
-latest google hangout: <https://hangouts.google.com/call/fp-mezqHS8FjozGh1Pa-AEEE>
+latest google hangout: <https://hangouts.google.com/call/EuYYNj62gZMEfPQQmaRsACEE>
 
 ---
 
