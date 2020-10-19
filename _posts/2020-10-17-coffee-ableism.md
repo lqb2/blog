@@ -7,7 +7,7 @@ tags:
 - coffee
 ---  
 
-so i finished [care work: dreaming disability justice](){:target="_blank"} a couple weeks ago and the ripples are just... wow. i am learning SO much. my review of the book is over here on goodreads(){:target="_blank"} this one thought really felt like it needed some extra attention. 
+so i finished [care work: dreaming disability justice](https://www.goodreads.com/book/show/38402046-care-work){:target="_blank"} a couple weeks ago and the ripples are just... wow. i am learning SO much. while my review of the book is [over here]({{ site.baseurl}}2020/09/26/review-care-work/){:target="_blank"}, this one thought really felt like it needed some extra attention...
 
 i think my usage of coffee is ableist. 
 
@@ -41,5 +41,4 @@ what if instead of drinking coffee, i just slept more and worked less? what if w
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-w / min / min
-
+339w / 12min / 5min
