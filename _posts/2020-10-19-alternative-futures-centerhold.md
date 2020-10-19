@@ -6,7 +6,7 @@ tags:
 - alternative futures
 --- 
 
-morning pages - oct 19, 2025 @ 515a
+**morning pages - oct 19, 2025 @ 515a**
 
 jayden, the eldest youth on the land right now and next to go through initiation, woke me up last night at 3am. he shook me from my sleep and told me something had gone wrong with the fire from ceremony. we got it all squared away, but it was jarring for sure. next time, i need to make clearer instructions for visitors who are going to stay up past lights out. 
 
@@ -38,4 +38,4 @@ thank you, Spirit and ancestors and all beings, for the gift of this day. may i 
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-w / min / min
+559w / 25min / 2min
