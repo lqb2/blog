@@ -13,9 +13,9 @@ tags:
 
 
 
-[![Fumbling Towards Repair: A Workbook for Community Accountability Practicioners](https://images.squarespace-cdn.com/content/v1/5271afebe4b0f3e367a38941/1562887175822-Z0GRAH5NU04KTWHEE48P/ke17ZwdGBToddI8pDm48kFQQgP34qnCpeHaeAOzTt7pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PICHnXC1b9smDvYLPdL-DS7U1pkhCtl83kemXd5r3C5ngKMshLAGzx4R3EDFOm1kBS/IMG_49431.jpg)](https://just-practice.org/fumbling-towards-repair){:target="_blank"}
+[![Fumbling Towards Repair: A Workbook for Community Accountability Practicioners by Mariame Kaba and Shira Hassan](https://images.squarespace-cdn.com/content/v1/5271afebe4b0f3e367a38941/1562887175822-Z0GRAH5NU04KTWHEE48P/ke17ZwdGBToddI8pDm48kFQQgP34qnCpeHaeAOzTt7pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PICHnXC1b9smDvYLPdL-DS7U1pkhCtl83kemXd5r3C5ngKMshLAGzx4R3EDFOm1kBS/IMG_49431.jpg)](https://just-practice.org/fumbling-towards-repair){:target="_blank"}
 
-[Fumbling Towards Repair: A Workbook for Community Accountability Practicioners
+[Fumbling Towards Repair: A Workbook for Community Accountability Practicioners Mariame Kaba and Shira Hassan
 ](https://just-practice.org/fumbling-towards-repair){:target="_blank"}
 
 i'm including these paragraphs from the book's website on ak press because the authors clearly believe people should read these words before purchasing the book: 
