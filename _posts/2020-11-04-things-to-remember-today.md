@@ -54,7 +54,7 @@ some reminders for working with specific feelings that might be relevant today:
 
 ## notice if you are spiraling
 
-(emotional) spiraling can looks all sorts of ways. know thy self (ht andy short). as a reminder, spiraling may look like:
+(emotional) spiraling can looks all sorts of ways. know thy self (ht andy s). as a reminder, spiraling may look like:
 
 * tripping on things (because i am not walking mindfully)
 * dropping things
@@ -125,6 +125,33 @@ every end contains at least one new beginning. take time to honor everything tha
 
 ---
 
+[11:13a ET update here](https://docs.google.com/document/d/1u_SDBLamPxTZdSo7OoDgCJu8YeVzi-cWCulo5bb7Hi4/edit#){:target="_blank"}
+
+--- 
+
+<!-- 
+thanks to anyone and everyone who has shared this around. as it has gotten wings, i want to share three more things (because #organizealways):
+
+1. participate in local action _if you are feeling grounded and resourced_: [protect the results](https://protecttheresults.com/) is one place to look but there are many.
+2. whether or not you are feeling resourced, engage in pod-mapping and 
+3. **CELEBRATE**! in the midst of uncertainty, there is a **lot** to celebrate. a partial list (from nadav d.):
+
+* [mississippi got a new state flag and it's beautiful](https://people.com/politics/election-2020-mississippi-votes-new-flag-after-dropping-confederate-emblem/)
+* [oregon decriminalizes drug possession (for small amounts - because addiction support should look like more than just throwing people in jail)](https://www.opb.org/article/2020/11/04/oregon-measure-110-decriminalize-drugs/)
+* [FL voted to (incrementally) increase the min. wage to $15](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-florida-amendment-2-raise-minimum-wage.html)
+* [california voted to re-enfranchise parolees](https://www.latimes.com/california/story/2020-11-03/2020-california-election-prop-17-results)
+
+there is so much more to celebrate! notice the victories and keep organizing. the pushback is so hard because we are winning. 
+
+<!-- celebrate victories: 
+* NJ and other states legalized weed
+* CA re-enfrancished folks on parole (prop 17)
+* first trans state legislator 
+* FL passed min wage increase (but also voted for trump)
+* WFP kept their ballot line - stayed on after gov 
+* SONG (GA) won campaign to defeat republican sheriff and ended some ICE program locally
+* first non-binary state rep
+* many DSA candidates won (TX and beyond) --> 
 
 <!-- hyperlink bank -->
 
@@ -133,4 +160,4 @@ every end contains at least one new beginning. take time to honor everything tha
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-595w / 20min / 30min
+595w / 20min / 30min+20min
