@@ -70,6 +70,8 @@ if you are spiraling, slow down. there are likely feelings that are having you. 
 
 ## other things to remember
 
+ideally, feel your feelings before moving to action. when you do otherwise, you are acting on only partial information. 
+
 wherever you find yourself unprepared, find and follow the leadership of people who have been preparing. some people have been preparing for this day for days, weeks, or months. others have been preparing for days like today for centuries. finding either or both is good. 
 
 everything that gets big starts small. join/do small things before joining/doing big things. small things today might include: eating, drinking water (aiming for the clear pee), checking in on a finite number of people who you can actually provide care for and celebrating when that number of check-ins has been achieved, meditating, cancelling meetings (meetings for today and the rest of the week). 
