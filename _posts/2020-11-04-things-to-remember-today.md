@@ -56,7 +56,7 @@ some reminders for working with specific feelings that might be relevant today:
 
 (emotional) spiraling can looks all sorts of ways. know thy self (ht andy s). as a reminder, spiraling may look like:
 
-* tripping on things (because i am not walking mindfully)
+* tripping on things (because you are not walking mindfully)
 * dropping things
 * acting without intention
 * scrolling on social media
@@ -81,7 +81,7 @@ mourn everything.
 get to a body of natural water if possible. the charles river is less than 15 minutes away. brave the cold. it'll be worth it.
 
 
-[remember that there is life beyond this election. "stress is a tactic of the ruling class to breakdown our bodies and movements."](https://www.instagram.com/p/CHF50QnA91-/){:target="_blank"}.  
+[remember that there is life beyond this election. "stress is a tactic of the ruling class to breakdown our bodies and movements."](https://www.instagram.com/p/CHF50QnA91-/){:target="_blank"}
 
 remember that there are both healthy and unhealthy reasons and methods of dissociation. do what you need to do; just be aware of what you're doing and why. it will make later course correction easier. 
 

@@ -30,7 +30,7 @@ tags:
 
 ## podcasts
 
-* [State of Emergence: Letting Grief Open Us to Grace](https://newrepublicoftheheart.org/podcast/030-francis-weller-letting-grief-open-us-to-grace/)
+* [State of Emergence: Letting Grief Open Us to Grace](https://newrepublicoftheheart.org/podcast/030-francis-weller-letting-grief-open-us-to-grace/){:target="_blank"}
 * [5 podcasts about grief](https://blog.frontrunnerpro.com/grief-podcasts-for-coping-with-loss/){:target="_blank"}
 
 ## books
