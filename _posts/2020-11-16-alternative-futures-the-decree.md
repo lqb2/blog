@@ -33,7 +33,7 @@ starting on 3 nov 2020, we each sprang into deep contemplation. and we didn't re
 
 as we started to meet and sit and talk and plan, we surfaced that intuiting our way forward was the only option. there was too much information to gather it all (VUCA). there were too many decisions to make to talk to everyone needed to make it all feel "safe." we were beyond safety and it was what it was. 
 
-as i read this morning's paper, i have seen, yet again, that our intuitions have led us down the path towards Life, towards futures of abundance. our decisions to join the regional seed swap, build out the spiritual formation project as a part of our new retreat center's first offering, and purchase all we needed from within the watershsed were paying off. and each of them we'd made intuitively when they seemed nuts...
+as i read this morning's paper, i have seen, yet again, that our intuitions have led us down the path towards Life, towards futures of abundance. our decisions to join the regional seed swap, build out the spiritual formation project as a part of our new retreat center's first offering, and purchase all we needed from within the watershed were paying off. and each of them we'd made intuitively when they seemed nuts...
 
 ---
 

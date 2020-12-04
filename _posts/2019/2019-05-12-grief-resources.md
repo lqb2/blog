@@ -6,7 +6,7 @@ tags:
 - grief
 --- 
 
-
+note: this post is no longer being updated. see the resources page for an up to date list.
 
 
 ## videos
@@ -38,6 +38,7 @@ tags:
 * [Being Mortal: Medicine and What Matters in the End by Atul Gawande](https://www.goodreads.com/book/show/20696006-being-mortal){:target="_blank"}
 * [The Smell of Rain on Dust: Grief and Praise by Martin Prechtel](https://www.goodreads.com/book/show/22748016-the-smell-of-rain-on-dust?ac=1&from_search=true){:target="_blank"}
 * [The Wild Edge of Sorrow: Rituals of Renewal and the Sacred Work of Grief by Francis Weller](https://www.goodreads.com/book/show/23995457-the-wild-edge-of-sorrow){:target="_blank"}
+* [goodreads listopia grief book list](https://www.goodreads.com/list/show/122890.Grief_List){:target="_blank"}
 
 <!-- hyperlink bank -->
 

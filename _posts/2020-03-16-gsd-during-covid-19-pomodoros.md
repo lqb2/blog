@@ -8,9 +8,10 @@ tags:
 
 
 
-UPDATE:
+UPDATE (4 dec 2020):
 
-latest google hangout: <https://hangouts.google.com/call/EuYYNj62gZMEfPQQmaRsACEE>
+latest link: <https://meet.google.com/ixz-rmco-bri>
+
 
 pompod = pomodoro pod
 
@@ -29,6 +30,7 @@ schedule (all times EST):
 * **12:00-12:10**: check-out, gratitudes
 
 ~~google hangout: <https://hangouts.google.com/call/fp-mezqHS8FjozGh1Pa-AEEE>~~
+~~latest google hangout: <https://hangouts.google.com/call/EuYYNj62gZMEfPQQmaRsACEE>~~
 
 <!-- hyperlink bank -->
 
