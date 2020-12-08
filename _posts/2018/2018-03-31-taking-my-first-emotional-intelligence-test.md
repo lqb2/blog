@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'taking my first emotional intelligence test'
+title: 'self-mastery: emotional intelligence'
 date: '2018-03-31T08:54:00-04:00'
 tags:
 - emotional intelligence
@@ -13,12 +13,10 @@ earlier this week at a retreat facilitated by [the justice collective](http://ww
 
 the four areas of eq are self-awareness, self-management, social awareness, and relationship management. (sidenote: it annoys me that relationship management isn't called social management to be consistent, but eeeenyways).
 
-[img][/img]
-
 ![emotional intelligence quadrant chart](https://i.imgur.com/tMuIqy8.png)
 _[source: What is Emotional Intelligence? Why Should I Care?](http://www.janeryanassociates.com/apps/blog/show/44008904-what-is-emotional-intelligence-and-why-should-i-care-)_
 
-it's a pretty excellent framework and it reminds me a lot of [the johari window](2016/07/15/why-relationships-matter-part-2-the-johari/). probably just because it's a quadrant model, but i could imagine some interesting overlap potentials... like, maybe the johari window should be overlayed on each quadrant of the eq grid. at some point, we discussed how it would also be good for people to take the eq in teams. my assessment of myself is probably different than how my teammates would assess me. and neither would be right or wrong; it would all just be more data to take into consideration when thinking about areas of growth. 
+it's a pretty excellent framework and it reminds me a lot of [the johari window]({{ site.baseurl }}2016/07/15/why-relationships-matter-part-2-the-johari/). probably just because it's a quadrant model, but i could imagine some interesting overlap potentials... like, maybe the johari window should be overlayed on each quadrant of the eq grid. at some point, we discussed how it would also be good for people to take the eq in teams. my assessment of myself is probably different than how my teammates would assess me. and neither would be right or wrong; it would all just be more data to take into consideration when thinking about areas of growth. 
 
 anyways, my scores:
 
