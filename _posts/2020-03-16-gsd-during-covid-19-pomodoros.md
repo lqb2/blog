@@ -8,9 +8,9 @@ tags:
 
 
 
-UPDATE (4 dec 2020):
+UPDATE (10 dec 2020):
 
-latest link: <https://meet.google.com/ixz-rmco-bri>
+latest link: <https://theonline.town/kfzl99zn95ZO8kvz/boston-pompod>
 
 
 pompod = pomodoro pod
