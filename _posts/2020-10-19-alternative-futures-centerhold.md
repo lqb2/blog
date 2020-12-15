@@ -4,6 +4,7 @@ title: 'alternative futures: centerhold'
 date: '2020-10-19T06:01:00-04:00'
 tags:
 - alternative futures
+- centerhold
 --- 
 
 **morning pages - oct 19, 2025 @ 515a**
