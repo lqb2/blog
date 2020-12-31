@@ -41,7 +41,7 @@ i read grace lee boggs' "next american revolution" back in 2020. the chapter on 
 
 > 
 
-combining my love of reading and the role of education revolution has been a real gamechanger. now my book notes, which started as just typed up digidocs() are now a full-on cross-referenced database that gets my notes uploaded to it as well as everyone else who comes here, reads, and takes notes [insert more description here eventually].
+combining my love of reading and the role of education revolution has been a real gamechanger. now my book notes, which started as just typed up [digidocs](http://lqb2.co/highlights){:target="_blank"} are now a full-on cross-referenced database (like [sawyer h's book highlights](https://highlights.sawyerh.com){:target="_blank"} but with links) that gets my notes uploaded to it as well as everyone else who comes here, reads, and takes notes.
 
 having the library here makes it so useful when we are running our education programs and people have questions they want to dive into deeper. we bring educators from all over the region to run their existing programs and be in space with other educators. that, of course, leads to the creation of new programming, all aimed at liberation for people in our watershed. 
 
