@@ -87,6 +87,7 @@ title: Resources
 
 * https://www.nextgenlearning.org/articles/25-behaviors-that-support-strong-network-culture
 * [Network-ing Does Not Equal Network WEAVING](https://medium.com/virtual-teams-for-systemic-change/network-ing-does-not-equal-network-weaving-abf1978e79c)
+* [THE TYRANNY of STRUCTURELESSNESS by Jo Freeman](https://www.jofreeman.com/joreen/tyranny.htm)
 
 ## Network Leadership Roles (2.0)
 
