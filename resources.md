@@ -125,3 +125,7 @@ title: Resources
 * [The Smell of Rain on Dust: Grief and Praise by Martin Prechtel](https://www.goodreads.com/book/show/22748016-the-smell-of-rain-on-dust?ac=1&from_search=true){:target="_blank"}
 * [The Wild Edge of Sorrow: Rituals of Renewal and the Sacred Work of Grief by Francis Weller](https://www.goodreads.com/book/show/23995457-the-wild-edge-of-sorrow){:target="_blank"}
 * [goodreads listopia grief book list](https://www.goodreads.com/list/show/122890.Grief_List){:target="_blank"}
+
+# accountability resources
+
+* [support ny: Our Accountability Process Curriculum](https://supportny.org/transformative-justice/curriculum/){:target="_blank"}
