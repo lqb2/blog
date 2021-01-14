@@ -10,6 +10,9 @@ tags:
 --- 
 
 
+[review under construction!!!]
+
+
 
 [![Race Talk and the Conspiracy of Silence: Understanding and Facilitating Difficult Dialogues on Race by Derald Wing Sue](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420786480l/22775522.jpg)](https://www.goodreads.com/book/show/22775522-race-talk-and-the-conspiracy-of-silence){:target="_blank"}
 
