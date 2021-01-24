@@ -129,3 +129,10 @@ title: Resources
 # accountability resources
 
 * [support ny: Our Accountability Process Curriculum](https://supportny.org/transformative-justice/curriculum/){:target="_blank"}
+* [support ny: accountability process agreement](https://supportnewyork.files.wordpress.com/2014/04/accountability-process-agreements.pdf){:target="_blank"}
+* [videos: barnard center for research on women: Transforming Harm: Experiments in Accountability: Mariame Kaba, Stas Schmiedt, and Lea Roth](https://bcrw.barnard.edu/event/transforming-harm-experiments-in-accountability/){:target="_blank"}
+
+
+# decision-making
+
+* [autumn brown on consensus decision-making](https://justhealing.wordpress.com/decision-making-process/){:target="_blank"}
