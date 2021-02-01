@@ -12,9 +12,9 @@ tags:
 
 
 
-[![The Next American Revolution: Sustainable Activism for the Twenty-First Century by Grace Lee Boggs](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348991658l/9674787.jpg)](https://www.goodreads.com/book/show/9674787-the-next-american-revolution){:target="_blank"}
+[![Beyond Survival: Strategies and Stories from the Transformative Justice Movement co-edited by Leah Lakshmi Piepzna-Samarasinha & Ejeris Dixon](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561136871l/51778952._SX318_SY475_.jpg)](https://www.goodreads.com/en/book/show/51778952){:target="_blank"}
 
-[The Next American Revolution: Sustainable Activism for the Twenty-First Century by Grace Lee Boggs](https://www.goodreads.com/book/show/9674787-the-next-american-revolution){:target="_blank"}
+[Beyond Survival: Strategies and Stories from the Transformative Justice Movement co-edited by Leah Lakshmi Piepzna-Samarasinha & Ejeris Dixon](https://www.goodreads.com/en/book/show/51778952){:target="_blank"}
 
 
 
