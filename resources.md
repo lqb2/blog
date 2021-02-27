@@ -113,6 +113,7 @@ title: Resources
 
 * [joanna macy: death meditation](https://workthatreconnects.org/death-meditation/){:target="_blank"}
 * [sitting shiva](https://www.shiva.com/learning-center/sitting-shiva/){:target="_blank"}
+* [artist's grief deck](https://www.artistsliteracies.org/artists-grief-deck/the-artists-grief-deck){:target="_blank"}
 
 ## podcasts
 

@@ -10,7 +10,6 @@ tags:
 
 me, reed jordan, and lafayette cruise discussing n.k. jemisin's [the city we became](https://youtu.be/Q8sjGDedXrw){:target="_blank"}
 
-[![me, reed jordan, and lafayette cruise discussing n.k. jemisin's the city we became](https://i.imgur.com/cWYWJxG.png)](https://youtu.be/Q8sjGDedXrw){:target="_blank"}
 
 ---
 
