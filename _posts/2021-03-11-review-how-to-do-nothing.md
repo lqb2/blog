@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'book review: how to do nothing by jenny o'dell
-date: '2021-03-07:46:00-04:00'
+title: 'book review: how to do nothing by jenny o&#039;dell'
+date: '2021-03-07T03:46:00-04:00'
 tags:
 - book reviews
 - non-fiction
