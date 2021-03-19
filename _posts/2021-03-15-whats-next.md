@@ -14,9 +14,9 @@ as always, i am committed to resisting perfectionism so here's a messy, relative
 
 first things first, i am leaving my staff position as network engagement manager at the center for story-based strategy. i have truly loved that work and i am excited for it to continue with a new person who can bring their vision, strategy, and energy to it. 
 
-i also just want to name that sometimes you leave a place because things aren't working for you. that's not me in this situation. if anything, i feel like css is in its come up. the vision is powerful, the different lanes of work are developing, and i think the org is positioned in the next 3-5 years to do really important work. 
+i also just want to name that sometimes you leave a place because things aren't working for you. that's not me in this situation. if anything, i feel like css is in its come up. the vision is powerful, the different lanes of work are developing really well, and i think the org is positioned in the next 5 years to do really important work. 
 
-i am leaving because i have been shown in a number of ways that it's time to pursue my own visions. 
+i am leaving because i **really** want to be more locally/regionally rooted and i have some visions of how my work life will be set up that would be pretty hard to do in any existing organization. 
 
 so what's next? well, things are still shaping up so i'm not going to dive too much into the details but i'll give some broad strokes. in my mind, what's next fits into four buckets (and in no particular priority or order)
 
