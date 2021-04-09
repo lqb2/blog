@@ -34,6 +34,7 @@ by Lama Rod Owens](https://www.goodreads.com/book/show/48509453-love-and-rage){:
 <b>How would I describe the book to a friend?</b>
 
 * a beautiful, wide-ranging set of essays (full of snark) describing how anger, love, meditation, and practice fit together to make anger & rage not only acceptable but necessary elements on the pathway to liberation.
+
 ---
 
 reminder: **[book review structure]({{ site.baseurl }}2018/09/22/trying-out-a-new-book-review-structure/)**
