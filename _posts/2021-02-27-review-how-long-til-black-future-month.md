@@ -33,7 +33,8 @@ i love how the short stories here are the root of some of her books. i would lov
 
 <b>How would I describe the book to a friend?</b>
 
-this book reminds me of how n.k. jemisin described her approach to sci-fi(). she didn't say it in these terms but what i heard was this: a world that has everything the same except for one or two re-imagined elements is a powerful conduit for deep lessons. she does this over and over again and it's approaches like this to sci-fi that have made me fall back in love with sci-fi. each story is wholly unique though there are themes that run across many. i suggest reading these slowly and letting each one sink into you. some sink in like heat from 92.068 million miles away, others sink into you like the bonechill of a house with a busted furnace. 
+this book reminds me of how [n.k. jemisin described her approach to sci-fi](https://radiopublic.com/Ezra/s1!8ed6a){:target="_blank"}. she didn't say it in these terms but what i heard was this: a world that has everything the same except for one or two re-imagined elements is a powerful conduit for deep lessons. she does this over and over again and it's approaches like this to sci-fi that have made me fall back in love with sci-fi. each story is wholly unique though there are themes that run across many. i suggest reading these slowly and letting each one sink into you. some sink in like heat from 92.068 million miles away, others sink into you like the bonechill of a house with a busted furnace. 
+
 ---
 
 reminder: **[book review structure]({{ site.baseurl }}2018/09/22/trying-out-a-new-book-review-structure/)**
