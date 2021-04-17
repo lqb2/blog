@@ -65,4 +65,4 @@ thank you, plant teachers!
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-396w / 15min / 10min
+396w / 15min / 15min
