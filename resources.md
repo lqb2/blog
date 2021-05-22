@@ -137,3 +137,7 @@ title: Resources
 # decision-making
 
 * [autumn brown on consensus decision-making](https://justhealing.wordpress.com/decision-making-process/){:target="_blank"}
+
+# caucusing
+
+## [Caucuses as a Racial Justice Strategy - JustLead Washington](https://justleadwa.org/wp-content/uploads/2019/07/Caucuses-as-a-Racial-Justice-Strategy-JustLead-WA.pdf){:target="_blank"}

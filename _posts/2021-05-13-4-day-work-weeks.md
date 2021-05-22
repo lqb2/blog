@@ -20,6 +20,7 @@ this list is in ongoing production and was initially and primarily by bernice sh
 ## articles in support of 4-day work weeks
 
 * [This Crisis Makes Clear: We Need a Four-Day Work Week, Now](https://inthesetimes.com/article/reduced-work-week-pandemic-relief?link_id=41&can_id=02f605fc2d8200dce4f82f96fbdaaabd&source=email-coopsvote-and-evict-the-landlords-mental-health&email_referrer=email_987628&email_subject=democracy-defense-public-banking-act-land-as-commons){:target="_blank"} - h/t new economy bi-weekly newsletter
+* [rockwood leadership institute: The Nonprofit Four-day Workweek: You Can Take Care Of Yourself And Still Change The World](https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/){:target="_blank"}
 
 ---
 
