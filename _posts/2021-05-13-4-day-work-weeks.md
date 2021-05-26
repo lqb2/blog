@@ -17,7 +17,7 @@ this list is in ongoing production and was initially and primarily by bernice sh
 * movement generation: everyone who is hired has the option of choosing either 4 or 5 day work weeks. 
 * WhyHunger - summer fridays for years
 * resource generation
-* 
+* Rainforest Action Network - summer fridays
 
 ## articles in support of 4-day work weeks
 

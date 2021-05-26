@@ -12,6 +12,10 @@ tags:
 
 an archive of all our black sci-fi book club chats.
 
+## samuel delany
+
+* [babel-17](https://youtu.be/XKTzRVhxDck){:target="_blank"}
+
 ## great cities trilogy by n.k. jemisin
 
 * [the city we became](https://youtu.be/Q8sjGDedXrw){:target="_blank"}
