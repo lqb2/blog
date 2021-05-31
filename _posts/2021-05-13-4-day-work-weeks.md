@@ -18,6 +18,7 @@ this list is in ongoing production and was initially and primarily by bernice sh
 * WhyHunger - summer fridays for years
 * resource generation
 * Rainforest Action Network - summer fridays
+* new economy coalition
 
 ## articles in support of 4-day work weeks
 
