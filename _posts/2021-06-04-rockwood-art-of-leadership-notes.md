@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'notes from the virtual art of leadership at the rockwood'
+title: 'notes from the virtual art of leadership at rockwood'
 date: '2021-06-04T10:06:00-04:00'
 tags:
 - leadership development
