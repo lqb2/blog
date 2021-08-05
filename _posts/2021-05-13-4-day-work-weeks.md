@@ -19,6 +19,7 @@ this list is in ongoing production and was initially and primarily by bernice sh
 * resource generation
 * Rainforest Action Network - summer fridays
 * new economy coalition
+* sacred design lab (informally)
 
 ## articles in support of 4-day work weeks
 
