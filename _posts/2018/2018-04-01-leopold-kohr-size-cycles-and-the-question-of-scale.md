@@ -31,7 +31,7 @@ it makes me want to read things like:
 * [overdeveloped nations](https://www.goodreads.com/book/show/3945650-overdeveloped-nations) also by leopold kohr (i love the framing of OVERdeveloped. we so often talk about underdeveloped or the more polite version, developing. but it's all wrong unless we look at what's happening with the countries that are setting up these systems to continually extract resources and keep (under)developing nations that way)
 * [dependency theory](http://udel.edu/~jdeiner/depend.html) by john t. deiner because he said things like "underdevelopment is not a natural state, but rather a condition that is caused. The fact is that developed nations are actively underdeveloping Third World countries as a result of the systems of interactions between them."
 * [small is beautiful: economics as if people mattered](https://www.goodreads.com/book/show/1117634.Small_Is_Beautiful) by ernst schumacher (who inspired several brilliant people i know, including [greg watson](http://www.centerforneweconomics.org/people/greg-watson))
-* [how europe underdevelopment africa](http://abahlali.org/files/3295358-walter-rodney.pdf) by walter rodney
+* [how europe underdeveloped africa](http://abahlali.org/files/3295358-walter-rodney.pdf) by walter rodney (1973)
 
 it makes me think about wendell berry's definitions of how community helps us solve all sorts of problems, include answering questions "what is the right scale?" and how dunbar's number supports thinking about how we really can only know (well) about 200 people before social relationships start to break down and do less good. 
 
