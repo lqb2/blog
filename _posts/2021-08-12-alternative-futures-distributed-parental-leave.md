@@ -31,7 +31,7 @@ shola elbowed him. "yea and my team wasn't so excited about it. they asked me a 
 
 "ha! amazing!" i signed. "i love that all this was foreshadowed at jayden and blue's wedding and you, so young, stepped into the circle with the adults, too. you committed yourself to helping out when the time came and, though we thought you were bold to do it, but none of us were *surprised.* that's always been who you were..."
 
-"ok uncle, enough, enough. now you know that we're cleared for the week to be here and support these three restructure their lives around each other, are you gonna show us how to clean these bottles or what? you know we only have 24 hours of transition day before you leave."
+"ok uncle, enough, enough. now you know that we're cleared for the week to be here and support these three as they restructure their lives around each other, are you gonna show us how to clean these bottles or what? you know we only have 24 hours of transition day before you leave."
 
 and just like clockwork the baby started screaming from the crib, three hours after having been put down to nap. 
 
