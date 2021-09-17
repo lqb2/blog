@@ -26,7 +26,7 @@ some examples:
 
 
 
-i've found a huge amount of relief in this practice for two primary reasons:
+i've found a huge amount of relief in this framing for two primary reasons:
 
 * these decisions happen all the time and my naming them, i get to illuminate to them all the labor i do to help their/our lives happen
 * they get share with me the moral weight of evaluating how dad decisions go over time. i *hope* that the outcome of this will be that learn via observation that my decision-making for them/us is mostly good AND I want them to have the right to expect real accountability from me for my unilateral decisions.
