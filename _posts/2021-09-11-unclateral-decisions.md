@@ -16,7 +16,7 @@ so i just got off the phone with one of my closer thought partners, abraham and 
 
 abraham: i have been really struggling as a single parent with all of the decisions i have to make on behalf of my two kids. in general, it's been a part of my parenting approach to bring my kids in to as many decisions as possible. *and* there are so many decisions where i can't. and i've been really stuck in the spot of how to involve them as much as possible knowing that ican't actually involve them in everything. it's actually exhausting, depressing even, to be holding so many decsions on their behalf without them seeing the labor i'm doing. plus, i really feel it from them when i *don't* involve them in a decision because they let me know in no uncertain terms. 
 
-recently, i had a breakthrough with this. i started naming decisions that i make unilaterally 'dad decisions' and giving my girls the opportunity to reflect with me in the future about how dad decisions go. 
+recently, i had a breakthrough with this. i started naming decisions that i make unilaterally 'dad decisions' and giving my kids the opportunity to reflect with me in the future about how dad decisions go. 
 
 some examples: 
 
