@@ -10,9 +10,9 @@ tags:
 --- 
 
 
-[![Undrowned: Black Feminist Lessons from Marine Mammals (Emergent Strategy) by Alexis Pauline Gumbs](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592892185l/53843459.jpg)](https://www.goodreads.com/book/show/53843459-undrowned){:target="_blank"}
+[![Impact Networks: Create Connection, Spark Collaboration, and Catalyze Systemic Change by David Ehrlichman](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616495212l/56753443.jpg)](https://www.goodreads.com/book/show/56753443-impact-networks){:target="_blank"}
 
-[Undrowned: Black Feminist Lessons from Marine Mammals (Emergent Strategy) by Alexis Pauline Gumbs](https://www.goodreads.com/book/show/53843459-undrowned){:target="_blank"}
+[Impact Networks: Create Connection, Spark Collaboration, and Catalyze Systemic Change by David Ehrlichman](https://www.goodreads.com/book/show/56753443-impact-networks){:target="_blank"}
 
 <b>What are the main ideas?</b> 
 
