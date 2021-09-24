@@ -14,10 +14,7 @@ tags:
 
 ---
 
-[![Imgur](https://i.imgur.com/BlaFrvw.png)](https://i.imgur.com/BlaFrvw.png){:target="_blank"}
-*feb 2019 circle altar, photo by eroc arroyo-montano*
-
-**who**: any queer person socialized as a boy**. circle is anchored by me (lawrence barriner ii). there may be other co-facilitators as desired/needed.
+**who**: any queer person socialized as a boy**. circle is anchored by me (lawrence barriner ii). there may be other co-facilitators as desired/needed. logistics are held by jordan mudd. 
 
 **what**: a series of healing-oriented gatherings where we will explore ways to connect with the emotional, physical, and spiritual parts of ourselves and each other. in circle we will use practices like dialogue, meditation, movement, writing, and somatic exercises.
 
@@ -33,11 +30,13 @@ tags:
 
 **food**: dinner for the october circle will be provided. dinner for the nov and december circles will be determined by the group (takeout or potluck). 
 
-**attendance**: due to the depth of the work and desire to build strong bonds, attendance is required at two of the three circles for each season. RSVPing is required. to do so, please email lawrence.barriner.ii@gmail.com and jordanmudd54@gmail.com,and confirm:
-which dates you can and can’t attend
-how you racially identify (each circle will be majority POC)
+**attendance**: due to the depth of the work and desire to build strong bonds, attendance is required at two of the three circles for each season. RSVPing is required. to do so, please email lawrence.barriner.ii@gmail.com and jordanmudd54@gmail.com, and confirm:
 
-see you soon. 
+- which dates you can and can’t attend
+- how you racially identify (each circle will be majority POC)
+
+[![Imgur](https://i.imgur.com/BlaFrvw.png)](https://i.imgur.com/BlaFrvw.png){:target="_blank"}
+*feb 2019 circle altar, photo by eroc arroyo-montano*
 
 ---
 
@@ -47,8 +46,14 @@ see you soon.
 
 archive: 
 
-* [2020 queer full moon circles](http://lqb2.co/blog///2020/02/17/2020-queer-full-moon-circles/){:target="_blank"}
-* 
+* [2020 circles]({{ site.baseurl }}2020/02/17/2020-queer-full-moon-circles/)
+* [2019 circles]({{ site.baseurl }}2019/05/14/queer-full-moon-circles/)
+
+---
+
+these circles are inspired by the moon circles held by [samantha tan](https://www.samanthajtan.com/bio){:target="_blank"} and [luana morales](https://www.handsofgaiareiki.com/){:target="_blank"}. 
+
+---
 
 <!-- hyperlink bank -->
 
