@@ -51,4 +51,4 @@ reminder: **[book review structure]({{ site.baseurl }}2018/09/22/trying-out-a-ne
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-305w / 19min / min
+305w / 19min / ?min

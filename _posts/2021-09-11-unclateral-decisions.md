@@ -23,9 +23,6 @@ some examples:
 * a “small” example: I decide what’s for dinner and present it to them without consulting
 * a “bigger” example: I decide that we are not going to the movies as planned, because we don’t have enough time today, because I need to go food shopping.
 
-
-
-
 i've found a huge amount of relief in this framing for two primary reasons:
 
 * these decisions happen all the time and my naming them, i get to illuminate to them all the labor i do to help their/our lives happen
