@@ -16,7 +16,7 @@ tags:
 
 **who**: any queer person socialized as a boy**. circle is anchored by me (lawrence barriner ii). there may be other co-facilitators as desired/needed. logistics are held by jordan mudd. 
 
-**what**: a series of healing-oriented gatherings where we will explore ways to connect with the emotional, physical, and spiritual parts of ourselves and each other. in circle we will use practices like dialogue, meditation, movement, writing, and somatic exercises.
+**what**: a series of healing-oriented gatherings where we will explore ways to connect with the emotional, physical, and spiritual parts of ourselves and each other. in circle, we will use practices like dialogue, meditation, movement, writing, and somatic exercises. the topic for the three fall circles is "boundaries."
 
 **when**: the circle meets seasonally, generally for three meetings in the spring, and three in the fall. the upcoming fall series will meet on the full moon on the following days, from 6 - 9pm (including dinner time):
 
