@@ -5,6 +5,7 @@ date: '2021-09-24T09:57:00-04:00'
 tags:
 - queer full moon circles
 - healing
+- men's work
 --- 
 
 “Challenge yourself to be a healer and activist for justice. Don't feel you have to choose one or the other. Be both. See activism as a form of social healing and interpersonal healing as a form of social justice. Transform and heal yourself as you transform and heal the world.”
