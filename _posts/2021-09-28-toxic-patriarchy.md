@@ -14,7 +14,7 @@ tags:
 
 after a conversation in mid-2021 with one of my teacher's on men's work, cal, i have started to use the term toxic patriarchy instead of just patriarchy. 
 
-cal helped me to see that patriarchy and matriarchy are just systems of organizing power. one of them awards power by default to men, the other to women. 
+cal helped me to see that patriarchy and matriarchy are just systems of organizing power. one of them awards power by default to men, the other to women. note: this is related to but distinct from matrilineal and patrilineal societies
 
 but in truth, neither is necessarily better than the other. it's possible to have a just matriarchal society in the same way that it's possible to have just patriarchal society. 
 
@@ -30,7 +30,7 @@ with this different identification of the problem, lots of solutions become poss
 
 i won't get into all of those reasons and hopes here, but i do believe that framing this problem as not a problem of who is in charge but *how* who is charge is in charge gives me lots of hope of what's possible as we move towards a more just world. 
 
-https://sciencestruck.com/matriarchy-vs-patriarchy#:~:text=While%20matriarchy%20refers%20to%20a,males%20play%20a%20dominant%20role.&text=In%20literal%20terms%2C%20matriarchy%20refers,by%20the%20father(s).
+
 
 ---
 
