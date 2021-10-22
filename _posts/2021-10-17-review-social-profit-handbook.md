@@ -23,7 +23,7 @@ tags:
 * rubrics are an excellent tool for formative (and i guess also summative) assessment. they are underused in the social profit sector. 
 * when developed collaborative, rubrics can help groups develop clear visions of success, failure, and mediocrity; all of which are helpful for assessing work in an ongoing way. 
 * one continually surprising benefit of rubric design (in the way david grant does it) is that a lot can be illuminated in the work to define the difference between "perfectly acceptable" success and "exemplary" success.
-* everyone should have a footlong bookshelf. 
+* everyone should have a footlong bookshelf (here's how grant talks about it: "If you had only a single, foot-long piece of bookshelf, and the books you put on it would be instantly known and well understood by the staff and board of your organization, what would you put on the shelf?"). here's [his old one](http://www.socialprofithandbook.com/new-blog){:target="_blank"} and his [new one](http://www.socialprofithandbook.com/new-blog){:target="_blank"}.
 
 <b>If I implemented one idea from this book right now, which one would it be?</b>
 
