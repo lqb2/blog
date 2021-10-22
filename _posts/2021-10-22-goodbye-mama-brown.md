@@ -11,6 +11,10 @@ tags:
 
 --- 
 
+[![me and mama brown, 2 dec 2019](https://i.imgur.com/d72r8Tt.jpg)](https://imgur.com/a/BHiJJ5h){:target="_blank"}
+
+> *“Grief expressed out loud for someone we have lost, or a country or home we have lost, is in itself the greatest praise we could ever give them. Grief is praise, because it is the natural way love honors what it misses.”* — Martin Prechtel, [The Smell of Rain on Dust: Grief and Praise](https://www.goodreads.com/work/quotes/42292893-the-smell-of-rain-on-dust-grief-and-praise){:target="_blank"}
+
 on wed, 20 oct, around 3a (311a so i heard), edna marie brown transitioned out of her earthly body. she died in a nursing home near jacksonville, florida at 86 (85?) years of age. 
 
 edna, known by me and my family as mama brown, has been my chosen grandma since i was 8 or so years old. my parents met her and her husband, james brown, popi, around 1980. she was the last grandma i have from my days in florida. she was a lovely little human and i spent more nights with her as grandma than any of my other grandparents. we visited her often when me and my brother were kids. and when i moved to gainesville for 2 years to take time away from undergrad, i visited her as often as i could (in hindsight, i certainly could have visited her more but i was young and didn't know what i had lol). 
