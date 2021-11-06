@@ -4,6 +4,9 @@ title: 'happy "no new things" day'
 date: '2019-10-04T09:48:00-04:00'
 tags:
 - productivity
+- no new things day
+- practices
+- fall equinox
 --- 
 
 team! we evolvin! 

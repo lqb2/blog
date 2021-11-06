@@ -13,7 +13,7 @@ tags:
 
 [I Feel Your Pain: A 7 Step Survival Guide for Empaths, Intuitives and Highly Sensitive People by Niki Elliott](https://www.goodreads.com/book/show/33099800-i-feel-your-pain){:target="_blank"}
 
- <b>What are the main ideas?</b> 
+<b>What are the main ideas?</b> 
 
 * our energy bodies are very real, as real as our physical bodies.
 * most of us don't learn how to work with energy, our own or that of other people. this lack creates a colossal amount of maladaptive behavior. 

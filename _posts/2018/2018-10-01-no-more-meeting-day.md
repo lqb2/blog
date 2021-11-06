@@ -7,6 +7,7 @@ tags:
 - practices
 - productivity
 - time management
+- no new things day
 --- 
 
 today is my "don't make any new commitments for the rest of 2018" day. i realized last year that october 1 is the date that two of my personal system practices intersect. 

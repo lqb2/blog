@@ -6,6 +6,7 @@ tags:
 - fall equinox
 - living seasonally
 - practices
+- no new things day
 
 --- 
 
