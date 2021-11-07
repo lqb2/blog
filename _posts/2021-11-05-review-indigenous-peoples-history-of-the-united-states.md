@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'book review: i feel your pain by niki elliot'
-date: '2021-11-04T11:03:00-04:00'
+title: 'book review: an indigenous peoples&#039; history of the united states by roxanne dunbar-ortiz'
+date: '2021-11-05T11:03:00-04:00'
 tags:
 - empathy
 - intuition
@@ -9,9 +9,9 @@ tags:
 --- 
 
 
-[![I Feel Your Pain: A 7 Step Survival Guide for Empaths, Intuitives and Highly Sensitive People by Niki Elliott](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479872123l/33099800._SY475_.jpg)](https://www.goodreads.com/book/show/33099800-i-feel-your-pain){:target="_blank"}
+[![An Indigenous Peoples' History of the United States by Roxanne Dunbar-Ortiz](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395003842l/20588662.jpg)](https://www.goodreads.com/book/show/20588662-an-indigenous-peoples-history-of-the-united-states){:target="_blank"}
 
-[I Feel Your Pain: A 7 Step Survival Guide for Empaths, Intuitives and Highly Sensitive People by Niki Elliott](https://www.goodreads.com/book/show/33099800-i-feel-your-pain){:target="_blank"}
+[An Indigenous Peoples' History of the United States by Roxanne Dunbar-Ortiz](https://www.goodreads.com/book/show/20588662-an-indigenous-peoples-history-of-the-united-states){:target="_blank"}
 
 <b>What are the main ideas?</b> 
 
@@ -20,7 +20,7 @@ tags:
 * the myths of settler colonialism are effective, pervasive, destructive, and genocidal. among many, a few that stick out to me: america was conquered from east to west; america was mostly settled under the initiative of aspiring, entrepid families looking for land to call home. 
 * it was the combination of u.s. military force, u.s. government policy, land speculation and the greed of its promulgators, narrative myths created by white supremacist writers, and settler immigrants that settled america over time, largely by cheating, warmongering, or forcing the hand of indigenous nations. a common pattern was: send violent settler rangers and land speculators, send the u.s. military when things didn't go well enough, claim that indigenous resistance is cause for more military force, then require complete submission or total destruction of the indigenous nation, even when the u.s. was losing. 
 * the transformation of sacred lands into real estate is one of the root causes of america's rise.
-* the "race to innocence" 
+* the "race to innocence" aptly captures the reaction style of the national conscious when in avoidance of the dark truths at the root of the countries founding.
 
 <b>If I implemented one idea from this book right now, which one would it be?</b>
 
@@ -42,4 +42,4 @@ reminder: **[book review structure]({{ site.baseurl }}2018/09/22/trying-out-a-ne
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-277w / 15min / 5min
+? / ? / ?
