@@ -15,7 +15,7 @@ tags:
 
 happy belated third(ish) "no new things" day! 
 
-[in 2018]({{ site.baseurl }}2018/10/01/no-more-meeting-day/){:target="_blank"}, i chose oct 1 as no new meetings day. [in 2019]({{ site.baseurl }}2019/10/04/no-new-things-day/){:target="_blank"}, i expanded the boundary beyond meetings to all new commitments. i also learned in 2019 that alexis flanagan has a similar practice except on the fall equinox. inspired, i updated my practice. [in 2020]({{ site.baseurl }}2020/09/22/fall-equinox-no-new-things-day/), i added in a reading schedule that ramped me up to a glorious 1h/day. 
+[in 2018]({{ site.baseurl }}2018/10/01/no-more-meeting-day/){:target="_blank"}, i chose oct 1 as no new meetings day. [in 2019]({{ site.baseurl }}2019/10/04/no-new-things-day/){:target="_blank"}, i expanded the boundary beyond meetings to all new commitments. i also learned in 2019 that alexis flanagan has a similar practice except on the fall equinox. inspired, i updated my practice. [in 2020]({{ site.baseurl }}2020/09/22/fall-equinox-no-new-things-day/){:target="_blank"}, i added in a reading schedule that ramped me up to a glorious 1h/day. 
 
 and here we are in 2021. i feel pretty excited about celebrating the third year of this and i've gotten so feedback (much positive and some negative) about this practice and that in and of itself feels useful. 
 
