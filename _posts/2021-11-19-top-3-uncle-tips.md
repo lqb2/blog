@@ -8,7 +8,7 @@ tags:
 
 
 
-a couple weekends ago i went on a hike in the blue hills with two friends of mine, jenny and grant. while chilling at the top of [great blue hill](https://www.summitpost.org/great-blue-hill/621790){:target="_blank"}, jenny asked for my top three uncle tips. i thought about it for a bit and came up with these. i'm sharing them here as a continued commitment to [working out loud](){:target="_blank"} but i want to name that these are not things i do perfectly. they're just things that i'd recommend any uncle start with on their uncling journey. 
+a couple weekends ago i went on a hike in the blue hills with two friends of mine, jenny and grant. while chilling at the top of [great blue hill](https://www.summitpost.org/great-blue-hill/621790){:target="_blank"}, jenny asked for my top three uncle tips. i thought about it for a bit and came up with these. i'm sharing them here as a continued commitment to [working out loud](https://jarche.com/2014/11/inspiration-for-working-out-loud/){:target="_blank"} but i want to name that these are not things i do perfectly. they're just things that i'd recommend any uncle start with on their uncling journey. 
 
 ## 1. learn how to hold babies
 
