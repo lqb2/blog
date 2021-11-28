@@ -4,6 +4,7 @@ title: 'revolutionary uncle manifesto (v1)'
 date: '2021-11-19T10:25:00-05:00'
 tags:
 - revolutionary uncle
+- uncling
 
 --- 
 
