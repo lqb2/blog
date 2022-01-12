@@ -12,7 +12,7 @@ tags:
 
 an archive of all our black sci-fi book club chats.
 
-## samuel delany
+## babel-17 by samuel delany
 
 * [babel-17](https://youtu.be/XKTzRVhxDck){:target="_blank"}
 
@@ -22,7 +22,7 @@ an archive of all our black sci-fi book club chats.
 
 ## legacy of orïsha trilogy
 
-* [children of blood of bone] (coming spring 2020 - jk video lost forever)
+* [children of blood of bone] (video lost forever)
 * [children of virtue and vengeance](https://youtu.be/VtJRXTWlVbc){:target="_blank"}
 
 ## broken earth trilogy by n.k. jemisin
