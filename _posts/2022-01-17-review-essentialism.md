@@ -6,6 +6,8 @@ tags:
 - greg mckeown
 - essentialism
 - self-mastery
+- book reviews
+- non-fiction
 
 
 --- 

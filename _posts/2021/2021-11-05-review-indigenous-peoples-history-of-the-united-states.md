@@ -5,6 +5,8 @@ date: '2021-11-05T11:03:00-04:00'
 tags:
 - empathy
 - intuition
+- book reviews
+- history
 
 --- 
 

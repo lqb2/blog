@@ -5,6 +5,7 @@ date: '2021-10-17T09:48:00-04:00'
 tags:
 - organizational development
 - assessment
+- book reviews
 
 --- 
 

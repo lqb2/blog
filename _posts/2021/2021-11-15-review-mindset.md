@@ -7,6 +7,8 @@ tags:
 - psychology
 - carol dweck
 - self-mastery
+- book reviews
+- non-fiction
 
 --- 
 

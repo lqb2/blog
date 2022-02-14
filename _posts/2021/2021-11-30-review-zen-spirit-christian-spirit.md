@@ -7,6 +7,8 @@ tags:
 - zen
 - buddhism
 - christianity
+- non-fiction
+- book reviews
 
 --- 
 
