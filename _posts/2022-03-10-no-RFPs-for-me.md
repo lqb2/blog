@@ -20,7 +20,7 @@ so here we are. enumerated below are the reasons i don't do (apply to) RFPs.
 
 for me as a black, queer solo consultant & small business, RFP processes typically reinforce uneven power dynamics. they reinscribe the "my labor is yours" dynamic with clients (which is something i've learned to push back against) by requiring that i produce things for you before we even have any agreements together. 
 
-but just because i am a consultant, doesn't mean i don't have a vision i'm trying to advance in the world. i want to be just as choosey about who i work with as people hosting RFPs want to be about who they hire. RFP processes set the power dynamic to look like the person most at choice is the client. (obvi if i don't want that particular work, i could just not apply, but still...)
+but just because i don't work for an organization full-time doesn't mean i don't have a vision i'm trying to advance in the world. i want to be just as choosey about who i work with as people hosting RFPs want to be about who they hire. RFP processes set the power dynamic to look like the person most at choice is the client. (obvi if i don't want that particular work, i could just not apply, but still...)
 
 RFPs also pit me against older, bigger orgs that have had more resources and time to invest in their work. that's bad for me because it reduces my chances of success. i think it's also bad for clients because it means they miss out on smaller, newer folks who have the capacity to be more nimble and are often bringing fresher approaches. 
 
