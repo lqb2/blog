@@ -10,7 +10,7 @@ tags:
 
 
 
-my first consulting gig was in 2014. looking back at it, i undercharged by approximately one million percent. :'D
+my first consulting gig was in 2014. (sidenote: looking back at it, i undercharged by approximately one million percent. :'D)
 
 over these past 7-8 years, i've developed a lot of stances in my work. they evolve, of course, but one that hasn't changed much is this: i don't do RFPs. i talk about this stance a few times a year but a recently email exchange made me realize i want to write it down. 
 

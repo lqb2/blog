@@ -30,7 +30,7 @@ with this different identification of the problem, lots of solutions become poss
 
 i won't get into all of those reasons and hopes here, but i do believe that framing this problem as not a problem of who is in charge but *how* who is charge is in charge gives me lots of hope of what's possible as we move towards a more just world. 
 
-
+update (13 march 2022): i'm reading kazu haga's healing resistance and in a footnote on pg 99 he also uses the phrase toxic patriarchy!... validation!
 
 ---
 
