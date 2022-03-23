@@ -141,3 +141,8 @@ title: Resources
 # caucusing
 
 ## [Caucuses as a Racial Justice Strategy - JustLead Washington](https://justleadwa.org/wp-content/uploads/2019/07/Caucuses-as-a-Racial-Justice-Strategy-JustLead-WA.pdf){:target="_blank"}
+
+# sabbatical resources
+
+* [original mind residency](https://www.original-mind-residency.com/){:target="_blank"} (ht brian stout)
+* [rest rail](https://therestrail.org/){:target="_blank"} 

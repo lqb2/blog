@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'book review: the nonprofit strategy revolution'
-date: '2022-02-25T07:41:00-04:00'
+date: '2022-02-25T07:41:00-05:00'
 tags:
 - book reviews
 - david la piana

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'book review: no bad parts by richard schwartz'
-date: '2022-02-28T07:41:00-04:00'
+date: '2022-02-28T07:41:00-05:00'
 tags:
 - book reviews
 - internal family systems

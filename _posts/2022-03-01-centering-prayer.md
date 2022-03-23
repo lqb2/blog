@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'book review: centering prayer by m. basil pennington'
-date: '2022-03-01T07:48:00-04:00'
+date: '2022-03-01T07:48:00-05:00'
 tags:
 - book reviews
 - non-fiction
