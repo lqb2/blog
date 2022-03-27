@@ -16,6 +16,8 @@ tags:
 
 edit: 19 feb 2020 - to date, this research (and a little nudging from me or friends i have armed with this research) has supported 5 jobs that were listed without a salary to be reposted with an explicit salary range. it's small but it's something!
 
+edit: 2 feb 2022 — 8+ jobs now have posted their salary ranges as a result of these resources. thanks yall for pushing!
+
 <!-- hyperlink bank -->
 
 
