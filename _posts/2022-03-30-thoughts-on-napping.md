@@ -11,7 +11,7 @@ tags:
 
 
 
-in the last 6 months i've 2 napping workshops and i've got at least one more coming up in april. here are some thoughts that i've had before or in them:
+in the last 6 months i've given 2 napping workshops and i've got at least one more coming up before summer. here are some thoughts that i've had before or in them:
 
 * many adults who don't nap believe they are bad at napping
 * we were all babies so we have all napped
@@ -24,9 +24,9 @@ in the last 6 months i've 2 napping workshops and i've got at least one more com
 ### from dave madan, my friend and original (adult) nap teacher:
 
 * 5-15 mins is a solid power nap. more than that is tough.
-* power napping is just a reboot. it's just unplugging and replugging your system. it's not meant to be a full sleep cycle or anything of that nature.
-* nap in a position that is not where and how you normally sleep. this can help your body be aware that it's rest time but not sleep time.
-* nap midday and then eat after you nap. eating is something you can do to help transition from post-nap energy into the rest of your day. 
+* power napping is just a reboot. it's just unplugging and replugging your system. it's not meant to be a full sleep cycle.
+* nap in a position that is not where and how you normally sleep. this can help your body know that it's not deep sleep time.
+* nap midday and then eat after you nap. eating can help transition from post-nap energy into the rest of your day. 
 
 ### from the nap bishop's (aka tricia hersey's), [instagram](https://www.instagram.com/thenapministry/){:target="_blank"} and/or [the perfect nap](https://podcasts.apple.com/us/podcast/40-practice-perfect-nap-tricia-hersey-nap-ministry/id1308078502?i=1000444020424){:target="_blank"}:
 
@@ -50,9 +50,11 @@ in the last 6 months i've 2 napping workshops and i've got at least one more com
 
 * the brain isn't a machine. more time focusing what needs to get done doesn't always mean more solutions or better work. remember the brain works even when you're not facing the problem. in fact, some problems are best solved this way. 
 * remember, when you die, your inbox will be full(https://files.eric.ed.gov/fulltext/EJ957018.pdf)
-* naps (just like mcmindfulness) could contribute to furthering capitalism. but in the praxis of tricia hersey, they can also be anti-capitalist. politically, i prefer the latter. if anything, i hope napping helps you/us discover what's most important and then prioritize what you/we can leave behind. 
+* naps (just like mcmindfulness) could contribute to furthering capitalism. but in the praxis of tricia hersey, rest, real rest, is anti-capitalist. politically, i prefer the latter. as she says, naps are not the point. but, imo, if naps are where you start, please start somewhere. and if napping helps you/us discover what's most important and then prioritize what you/we can leave behind, then lfg. 
 
 ---
+
+ps - i've donated to tricia and jaime for their work. if you dig their stuff, you should, too!
 
 
 <!-- hyperlink bank -->
