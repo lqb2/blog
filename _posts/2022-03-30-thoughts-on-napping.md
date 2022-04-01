@@ -42,14 +42,14 @@ in the last 6 months i've given 2 napping workshops and i've got at least one mo
 * it didn't take as long as i thought to get napping into a regular (2-4x/week) part of my days. 
 * in order to nap, i have to deal with my thoughts and emotions
 * in order to make space for naps, i've also had to subtly reshape parts of my life to make napping fit (aka doing less things per day, keeping more open space to fit naps in, getting clearer about how quickly i do/don't want to respond to emails & texts, etc.)
-* [jaime tan's 15min session via the insight timer](https://insighttimer.com/enlightenedspoon/guided-meditations/yoga-nidra-for-when-youre-dead-tired)https://insighttimer.com/enlightenedspoon/guided-meditations/yoga-nidra-for-when-youre-dead-tired is my fav nap support. i have listened to it so many times that i know most of it by heart. i can tell which naps i fall asleep in because i can't remember her saying certain things or doing certain parts of the body scan.
+* [jaime tan's 15min session via the insight timer](https://insighttimer.com/enlightenedspoon/guided-meditations/yoga-nidra-for-when-youre-dead-tired){:target="_blank"} is my fav nap support. i have listened to it so many times that i know most of it by heart. i can tell which naps i fall asleep in because i can't remember her saying certain things or doing certain parts of the body scan.
 
 
 
 ## some other thoughts
 
 * the brain isn't a machine. more time focusing what needs to get done doesn't always mean more solutions or better work. remember the brain works even when you're not facing the problem. in fact, some problems are best solved this way. 
-* remember, when you die, your inbox will be full(https://files.eric.ed.gov/fulltext/EJ957018.pdf)
+* remember, when you die, [your inbox will be full](https://files.eric.ed.gov/fulltext/EJ957018.pdf){:target="_blank"}
 * naps (just like mcmindfulness) could contribute to furthering capitalism. but in the praxis of tricia hersey, rest, real rest, is anti-capitalist. politically, i prefer the latter. as she says, naps are not the point. but, imo, if naps are where you start, please start somewhere. and if napping helps you/us discover what's most important and then prioritize what you/we can leave behind, then lfg. 
 
 ---
