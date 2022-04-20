@@ -7,7 +7,7 @@ tags:
 - inbox zero
 --- 
 
-_preface: this is quick and dirty write up of my current email practices. thanks to donna moodie for asking the question that inspired this post.__
+_preface: this is quick and dirty write up of my current email practices. thanks to donna moodie for asking the question that inspired this post._
 
 ---
 
