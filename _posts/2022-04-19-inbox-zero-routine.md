@@ -21,7 +21,7 @@ i keep my work inbox as separate as possible from my personal inbox. i forward a
 
 here is in my inbox zero cleanout practice. i engage in this once every 7-14 days:
 
-* turn on the lofi hip hop beats playlist
+* turn on the [lofi hip hop beats playlist](https://open.spotify.com/playlist/4zNxHXPwA3ld01UR4Pwss3?si=fccd8d22cf024e7e){:target="_blank"}
 * start this [1 minute interval timer](https://www.youtube.com/watch?v=Y-AYC3_DbpY){:target="_blank"} or use a 1 minute internal timer on the insight timer phone app
 * start a new "inbox zero [insert date]" section on my inbox zero page in my bullet journal
 * reverse sort my inbox by date so the oldest emails are first

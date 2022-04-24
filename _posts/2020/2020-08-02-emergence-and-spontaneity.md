@@ -9,12 +9,16 @@ tags:
 --- 
 
 
-i write this because i've been in convo with a few folks about an observed pattern in some movement spaces. there seems to be a conflating of the concepts of emergence and spontaneity. i write this because i hope that by us being clear about the difference between the two, we can practice emergence and let our spontaneous shit just be spontaneous, haha. 
+> “Complex systems have a process of emergence…Emergence is the way complex systems and patterns arise out of a multiplicity of relatively simple interactions.” — Nick Obolensky
+
+i write this because i've been in convo with a few folks about an observed pattern in some movement spaces: a conflation between the concepts of emergence and spontaneity. i write this because i hope that by us being clear about the difference between the two, we can practice emergence and let our spontaneous shit just be spontaneous, haha. 
 
 so first, some definitions:
 
 * [spontaneous](https://www.lexico.com/en/definition/spontaneous): performed or occurring as a result of a sudden inner impulse or inclination and without premeditation or external stimulus
 * [emergence](https://en.wikipedia.org/wiki/Emergence): when an entity is observed to have properties its parts do not have on their own. These properties or behaviors emerge only when the parts interact in a wider whole
+
+
 
 my favorite example of emergence is starling murmurations. 
 
