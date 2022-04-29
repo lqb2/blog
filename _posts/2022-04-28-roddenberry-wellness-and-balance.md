@@ -31,7 +31,7 @@ a couple additional thoughts:
 
 first, i chose to intentionally frame the course around individuals because i wanted to center the power of the individual leader (many fellows are at the top of their organizational hierarchies) to shift the ecosystem. but there is a whole other world of convo possible if you took wellness and balance to the collective/organizational level. 
 
-second, during our debrief convo, [russ](https://russfinkelstein.com/){:target="_blank"} and [meg](https://ssir.org/articles/entry/experimentation_a_shortcut_to_innovation#){:target="_blank"} asked if i were to teach a next level of depth of this course, what might i focus on. i thought for a minute and then landed on these four pathways to deepening:
+second, during our debrief convo, [russ](https://russfinkelstein.com/){:target="_blank"} and [meg](https://www.linkedin.com/in/megbusse/){:target="_blank"} asked if i were to teach a next level of depth of this course, what might i focus on. i thought for a minute and then landed on these four pathways to deepening:
 
 * family and lineage
 * systems

@@ -138,12 +138,17 @@ title: Resources
 
 * [autumn brown on consensus decision-making](https://justhealing.wordpress.com/decision-making-process/){:target="_blank"}
 
-# caucusing
+# caucusing/affinity groups
 
-## [Caucuses as a Racial Justice Strategy - JustLead Washington](https://justleadwa.org/wp-content/uploads/2019/07/Caucuses-as-a-Racial-Justice-Strategy-JustLead-WA.pdf){:target="_blank"}
+* [Caucuses as a Racial Justice Strategy - JustLead Washington](https://justleadwa.org/wp-content/uploads/2019/07/Caucuses-as-a-Racial-Justice-Strategy-JustLead-WA.pdf){:target="_blank"}
+* 
 
 # sabbatical resources
 
 * [original mind residency](https://www.original-mind-residency.com/){:target="_blank"} (ht brian stout)
 * [rest rail](https://therestrail.org/){:target="_blank"} 
 
+# check-ins / energizers
+
+* [group energizers from IISC](https://drive.google.com/file/d/0B_VvOEA19QgNT21uXzM1NWd6bE0/view?usp=sharing&resourcekey=0-hv0q10rlTxViuHqccCzHAg){:target="_blank"}
+* [css: checking in to prevent checking out](https://www.storybasedstrategy.org/blog-full/2019/9/18/checking-in-to-prevent-checking-out){:target="_blank"}
