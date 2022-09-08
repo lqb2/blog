@@ -30,7 +30,7 @@ here are some thoughts i'm having and questions i'm thinking about or already as
 * is taking a nibbling off my friends' hands for a night a win-win gift? 
 * what is the highest goal or purpose for an uncle in relationship to the nibbling? what about the parents?
 * just being present for my friends as they go through hard parenting moments is valuable
-* it's really stupid that "we" (as in lots of people parenting right now) fall prey to the dominant narrative that the only two adults who make substantive decisions in a child's upbringing are the biological or legal guardians
+* it's really ~~stupid~~ silly that "we" (as in lots of people parenting right now) fall prey to the dominant narrative that the only two adults who make substantive decisions in a child's upbringing are the biological or legal guardians
 * is there value in an uncle support group? 
 * what's the difference between a good uncle and a bad father? 
 * is there a meaningful difference between a family friend and an uncle? 
