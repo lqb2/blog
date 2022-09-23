@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'unleashing alternative futures: pre-existing conditions'
-date: '2022-06-18T012:24:00-04:00'
+date: '2022-06-18T12:24:00-04:00'
 tags:
 - unleashing alternative futures
 - alternative futures
