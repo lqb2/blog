@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'happy "no new things" day 2022!'
+title: 'happy "no new things" day 2021!'
 date: '2021-11-06T10:42:00-04:00'
 tags:
 - fall equinox
