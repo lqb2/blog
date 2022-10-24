@@ -9,7 +9,7 @@ tags:
 - no new things day
 --- 
 
-happy fourth belated equinox. aka happy no new things day! 
+happy fourth belated equinox. aka happy no new things day! (22 sept)
 
 it's been a glorious and full spring and summer but fall is here. i always don't like it upon arrival. and yet when i begin to settle into it, i'm like... the reason i don't like fall is because it's hard to slow dooooown. no new things day is a structure i commit to in order to prepare for winter, which i've found is even harder than fall *except for when i prepare for it well.* in those cases, it, too, can be glorious. 
 
