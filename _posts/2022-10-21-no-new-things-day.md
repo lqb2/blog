@@ -9,9 +9,12 @@ tags:
 - no new things day
 --- 
 
-happy belated equinox (22 sept). aka happy (fourth) no new things day!  
+> preface: if you're curious in the evolution of this experiment/thought/practice, here are the last 3 posts about it: [2021]({{ site.baseurl }}2021/11/06/fall-equinox-no-new-things-day/){:target="_blank"}, [2020]({{ site.baseurl }}2020/09/22/fall-equinox-no-new-things-day/){:target="_blank"}, [2019]({{ site.baseurl }}2019/10/04/no-new-things-day/){:target="_blank"}. 
 
-if you're curious in the evolution of this experiment/thought/practice, here are the last 3 posts about it: [2021]({{ site.baseurl }}2021/11/06/fall-equinox-no-new-things-day/){:target="_blank"}, [2020]({{ site.baseurl }}2020/09/22/fall-equinox-no-new-things-day/){:target="_blank"}, [2019]({{ site.baseurl }}2019/10/04/no-new-things-day/){:target="_blank"}. 
+
+---
+
+happy belated equinox (22 sept). aka happy (fourth) no new things day!  
 
 it's been a glorious and full spring and summer but fall is here. i always don't like it upon arrival. and yet when i begin to settle into it, i'm like... the reason i don't like fall is because it's hard to slow dooooown. no new things day is a structure i commit to in order to prepare for winter, which i've found is even harder than fall *except for when i prepare for it well.* in those cases, it, too, can be glorious. 
 
