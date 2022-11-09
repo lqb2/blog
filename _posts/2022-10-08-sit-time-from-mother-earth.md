@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sit time from other earth'
+title: 'sit time from mother earth'
 date: '2022-10-08T12:00:00-04:00'
 tags:
 - covid
