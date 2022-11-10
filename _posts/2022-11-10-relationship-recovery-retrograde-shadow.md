@@ -18,9 +18,8 @@ over the past few years as my astrological capacities have deepened, i've starte
 
 when a planet goes from being retrograde to direct, the space it covers between when it stopped being retrograde and where it started going retrograde is the shadow. that's the recovery time of a relationship. 
 
-![Retrograde Shadow](https://www.evolvingdoorastro.com/images/glossary/gl-rx-shadow_full.pngRetrograde)
 
-[![Retrograde Shadow](https://www.evolvingdoorastro.com/images/glossary/gl-rx-shadow_full.pngRetrograde)](https://www.evolvingdoorastro.com/glossary/terms/retrograde/retrograde-shadow)
+[![Retrograde Shadow](https://www.evolvingdoorastro.com/images/glossary/gl-rx-shadow_full.png)](https://www.evolvingdoorastro.com/glossary/terms/retrograde/retrograde-shadow)
 
 and, as i've learned, even though the planet may be moving direct, if it's still in its shadow, it's not in its normal state. and i just think that's so true in relationship. even though you may be out of the relationship, things are not as they usually are or will be once you're out of the shadow. 
 
