@@ -5,7 +5,8 @@ title: Codex Vitae
 
 # love
 
-- five stages of relationship
+- [five stages of relationship by bruce muzik](https://www.loveatfirstfight.com/relationship-advice/relationship-stages/){:target="_blank"}
+- [all about love by bell hooks](https://www.goodreads.com/book/show/17607.All_About_Love){:target="_blank"}
 
 # grief
 
