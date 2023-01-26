@@ -19,7 +19,7 @@ edit: 19 feb 2020 - to date, this research (and a little nudging from me or frie
 
 edit: 2 feb 2022 — 8+ jobs now have posted their salary ranges as a result of these resources. slow and steady wins the race i hear...
 
-update: 2 oct 2022
+update: 2 oct 2022 - added more articles. 
 
 <!-- hyperlink bank -->
 

@@ -1,3 +1,36 @@
+# 2023 friend connection plans
+
+# zone
+
+
+## miriam
+
+weeknights
+between 8-930
+every two weeks
+
+
+## annemarie
+
+monthly calls
+4th of july trip
+one other in-person hang (two if the 4th doesn't happen)
+ideally a cambridge visit 
+
+
+## james
+
+## ambroise
+
+- travel together possibly
+	+ want a nature trip in 2024
+- 2x/month would 
+- 11a ET/5p CET has been a good time
+
+
+--
+
+
 # 2022 friend connection plans
 
 # zone 1
