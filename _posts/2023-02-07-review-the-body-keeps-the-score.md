@@ -38,6 +38,13 @@ start doing a body-oriented type of therapy as well as talk therapy to help reso
 
 dang. i can't believe i waited ten years to read this book. this is a treasure trove of science and story that explains in vivid detail what trauma is, how it is created in the body and mind, explorations of what we can do to tend to it (individually and collectively), and the societal implications of doing (or not doing) that tending. it's a biggie, for sure, but absolutely worth its weight in gold. it also is pretty explicit and intense regarding the specific stories and examples of people's traumatic experiences. as i learned from the book, just hearing about someone else's trauma is actually *not* likely to be triggering (because triggers are about the sensory experiences the feel like the overwhelming experience that caused the trauma in the person being triggered), but it's still pretty intense and often upsetting stuff. handle with care and caution. 
 
+note: van der kolk was fired for allegations of misconduct in 2018. the situation was settled out of court so very little is publicly known about what happened. i don't quite know what to make of this but here's some articles in case you're curious and want to be informed:
+
+- https://www.bostonglobe.com/metro/2018/03/07/allegations-employee-mistreatment-roil-renowned-trauma-center/sWW13agQDY9B9A1rt9eqnK/story.html
+- [3 Things Bessel van der Kolk Did To Help Him Through His Recent Trauma - Smart Couple Podcast 191](https://www.youtube.com/watch?v=FqrC_h6n0YA){:target="_blank"} - interview where he describes his termination
+- https://www.uua.org/midamerica/news/blog/update-dismantling-systemic-white-supremacy-resources-and-work
+- https://www.theguardian.com/society/2021/sep/20/trauma-trust-and-triumph-psychiatrist-bessel-van-der-kolk-on-how-to-recover-from-our-deepest-pain
+
 ---
 
 reminder: **[book review structure]({{ site.baseurl }}2018/09/22/trying-out-a-new-book-review-structure/)**
@@ -47,4 +54,4 @@ reminder: **[book review structure]({{ site.baseurl }}2018/09/22/trying-out-a-ne
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-714w / 32min / 5min
+714w / 32min / 20min
