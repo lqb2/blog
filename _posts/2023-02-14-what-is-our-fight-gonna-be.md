@@ -1,20 +1,20 @@
 ---
 layout: post
 title: '"what&#039;s our first fight going to be about?"'
-date: '2023-02-12T09:03:00-04:00'
+date: '2023-02-20T09:03:00-04:00'
 tags:
 - relationship
 - practices
 --- 
 
 
-the other day my current obsession (who i will refer to as cutie or ds) and i were having lunch at life alive and everything was just lovely. then (maybe in classic aries fashion) i asked him what he thought our first fight was going to be about. and the conversation STAYED lovely. 😍
+<!-- the other day my current obsession (who i will refer to as cutie or ds) and i were having lunch at life alive and everything was just lovely. then (maybe in classic aries fashion) i asked him what he thought our first fight was going to be about. and the conversation STAYED lovely. 😍 -->
 
-for next 30+ minutes we actually had a really joyful conversation about all the things we imagined our first fight could be about. he shared first and totally nailed several very likely first potential blow outs. then he turned the question on me and i responded with something like "it's really hard for me to imagine both of us being so off our game that a fight breaks out." and, as he does, he pushed me to dig a little deeper. and then i came up with a bunch! and then we kept going back and forth and laughing and being real and it was wild and beautiful. 
+the other day was a in a really excellent conversation with a friend about all the things we imagined our first fight could be about. he shared first and totally nailed several very likely first potential blow outs. then he turned the question on me and i responded with something like "it's really hard for me to imagine both of us being so off our game that a fight breaks out." but with a little agitation from him i came up with a bunch! and then we kept going back and forth and laughing and being real and it was wild and beautiful. 
 
 some highlights:
 
-- we talked about the difference between a conflict and a fight. ds said he thinks it's about when each of us are feeling understood and angry and then double down on trying to make ourselves understood by the other but the presence of anger would probably make it spiral out of control rather than towards understanding. 
+- we talked about the difference between a conflict and a fight. he said thinks it's about when each of us are feeling understood and angry and then double down on trying to make ourselves understood by the other but the presence of anger would probably make it spiral out of control rather than towards understanding. 
 - we realized that we had backed our way into talking about the subterranean territory of issues that aren't yet problems but could emerge to be  
 - we put out the idea that maybe we'd come back to this emerging practice every 3-6 months and see what happens...
 
