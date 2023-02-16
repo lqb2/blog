@@ -3,7 +3,9 @@ layout: post
 title: 'charted territory: routines in times of change'
 date: '2023-02-14T09:18:00-04:00'
 tags:
-- 
+- routines
+- personal systems
+- habits
 --- 
 
 
