@@ -25,6 +25,10 @@ obviously, this is just the beginning of this discussion, but as we know, since 
 
 right? 
 
+---
+
+**update (14 feb 2023)**: [i charted some of this territory]({{ site.baseurl }}2023/02/14/charted-territory-habits-in-times-of-change/)!
+
 <!-- hyperlink bank -->
 
 

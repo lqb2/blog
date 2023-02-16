@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"what&#039;s our first fight going to be about?"'
-date: '2023-02-20T09:03:00-04:00'
+date: '2023-02-13T09:03:00-04:00'
 tags:
 - relationship
 - practices
