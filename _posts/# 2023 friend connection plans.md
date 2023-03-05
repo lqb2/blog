@@ -1,13 +1,87 @@
 # 2023 friend connection plans
 
-# zone
+# zone 1
 
+## ambroise
+
+- travel together possibly
+	+ want a nature trip in 2024
+- 2x/month would 
+- 11a ET/5p CET has been a good time
+	+ 2nd and 4th sundays
+	
+
+## jaco
+
+- 2x/month
+- ~~1st and 3rd tuesdays, 5-6p PST~~
+- changed to wednesdays due to tuesdays needing to be maya day
+- 
+
+## dave
+
+- moving back to boston spring 2024
+- looking to talk 1x/month 90min or more
+- want to try and do east africa trip early 2024
+- 10p preferably but 930p could work (because sports things happen and 10p is when i'm safely home)
+- bed time is 1am so wants to end things by 1230a
+- 
+
+## camilo
+
+- experiment with talking on wednesdays 9-930 weekly.
+- do once a month in person. 
+- try to find days to cowork when possible. 
+- camilo to visit florida next time lawrence goes.
+- start planning colombia trip for 2024. 
+
+
+## katherine KER
+
+- aiming for 2x/week
+- maybe sundays?
+
+final
+- 2nd and 4th mondays, 8-9p
 
 ## miriam
 
 weeknights
-between 8-930
+between 8-930p
 every two weeks
+
+- 1st and 3rd wed 830-9p
+
+## malcolm
+
+- april june july october
+- carla in boston: 2-3 weeks stretches, late march
+- july into mid-august will be travel heavy
+	+ last week of june is work trip
+- tryna do another dad's weekend
+- want to see brother and nieces more frequenly this year
+- every month this year has some travel
+- mondays and tuesdays are great days! tuesdays tryna hold for friend time
+- mondays tryna take dance class 7-8p
+- want to DO more things out in the world together
+
+- plan
+	+ 1st and 3rd mondays. in-peron in central (lawrence's plan or go out)
+	+ 8-10p 
+	+ hang with alma and malcolm 1st thursdays every other month: april june 
+- want to explore a weekend trip 
+
+
+# zone 2
+
+## nadav
+
+- in-person 
+- monthly hangs
+- fridays or sundays. maybe some saturdays
+- 4th sundays, 9-11a (or 830-1030a)
+
+
 
 
 ## annemarie
@@ -20,12 +94,35 @@ ideally a cambridge visit
 
 ## james
 
-## ambroise
+monthly in-person hang
+monday or fri
+try to do more art shit
+definitely try to find dance
 
-- travel together possibly
-	+ want a nature trip in 2024
-- 2x/month would 
-- 11a ET/5p CET has been a good time
+## dvj
+
+- monthly calls, 4th tuesday, 8-9a
+- monthly kickoff
+- workflows
+- maybe a maine trip
+
+
+
+# zone 3
+
+## owen
+
+- monday is solo day + book writing
+- 8a-4p 
+- can move around, can go to a third place
+- safest bet is to go to owen's
+- nap is midday 
+- 8a-10a window to go out or have guests
+- naps starting 10a-1230p (downtime in the house)
+- 1-4p go out again
+- best times: arrive during the nap 
+
+
 
 
 --

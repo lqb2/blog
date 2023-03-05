@@ -54,7 +54,7 @@ in the last 6 months i've given 2 napping workshops and i've got at least one mo
 
 ---
 
-ps - i've donated to tricia and jaime for their work. if you dig their stuff, you should, too!
+ps - i've donated to tricia (well i tried to with tricia but couldn't figure it out) and jaime for their work. if you dig their stuff, you should, too (if you can)!
 
 
 <!-- hyperlink bank -->
