@@ -12,6 +12,12 @@ title: Codex Vitae
 
 - eat. drink water. sleep. these things are surprising hard to do while grieving. get support on them. 
 - learning to grieve small things prepares us and teaches us how to grieve big things. 
+- definitions
+	+ grief is what living beings experience when what or whom they love dies or disappears — martín prechtel, the smell of rain on dust 
+	+ grief is praise of those we have lost. — martín prechtel, the smell of rain on dust 
+	+ "Grief is like the ocean; it comes on waves ebbing and flowing. Sometimes the water is calm, and sometimes it is overwhelming. All we can do is learn to swim.” — Vicki Harrison
+	+ grief is love looking for a home — susan david, phd
+
 
 # habits
 
