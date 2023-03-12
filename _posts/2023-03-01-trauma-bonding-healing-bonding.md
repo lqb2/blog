@@ -17,7 +17,6 @@ _A trauma bond is a close attachment formed between a perpetrator of abuse and t
 _As a result of this prolonged intense focus on their perpetrator, the trauma survivor risks eventually disconnecting from their own sense of self, needs, and values._
 
 
-
 i think sometimes people misuse this term and mean "a bond formed with someone with similar trauma(s)." i'm not sure if i think it's important enough to make a clear distinction b/w the more clinical definition and this additional colloquial definition, but either way, that's for another time. 
 
 'cause what i want to open up here is this new (to me) idea of healing bonding. based on the trauma bonding definition, i'll put this out there: 
@@ -34,7 +33,7 @@ so curious!!! thanks, phil, for this spark.
 
 ---
 
-update: definition does include the colloquial but it matters to differentiate
+update: i checked in with phil about this and to him, the clinical and colloquial definitions are both valid *and* it's important to be able to differentiate between the two. 
 
 
 <!-- hyperlink bank -->
