@@ -12,9 +12,9 @@ on jan 13, i was in my weekly therapy session with my therapist, philip, and he 
 
 first of all, what is trauma bonding? here's a quickly googled answer from [choosing therapy](https://www.choosingtherapy.com/trauma-bonding/){:target="_blank"}: 
 
-_A trauma bond is a close attachment formed between a perpetrator of abuse and the person they perpetrate against. The dramatic ups and downs of the relationship can result in a powerfully unhealthy bond. In order to survive, trauma survivors develop a keen awareness of everything their perpetrator does, says, and wants.
+_A trauma bond is a close attachment formed between a perpetrator of abuse and the person they perpetrate against. The dramatic ups and downs of the relationship can result in a powerfully unhealthy bond. In order to survive, trauma survivors develop a keen awareness of everything their perpetrator does, says, and wants._
 
-As a result of this prolonged intense focus on their perpetrator, the trauma survivor risks eventually disconnecting from their own sense of self, needs, and values._
+_As a result of this prolonged intense focus on their perpetrator, the trauma survivor risks eventually disconnecting from their own sense of self, needs, and values._
 
 
 
@@ -33,6 +33,8 @@ ok but to take it back to the positive for the end of this thought: i am really 
 so curious!!! thanks, phil, for this spark. 
 
 ---
+
+update: definition does include the colloquial but it matters to differentiate
 
 
 <!-- hyperlink bank -->

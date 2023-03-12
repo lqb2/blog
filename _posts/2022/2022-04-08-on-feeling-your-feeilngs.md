@@ -12,6 +12,7 @@ tags:
 * [lindsay braman: Emotion Sensation Feeling Wheel – Printable Feelings Wheel Resources for Adults and Kids](https://lindsaybraman.com/sensation-feelings-wheel/){:target="_blank"}
 * [plutchik wheel](https://www.healthline.com/health/emotion-wheel#plutchik-wheel){:target="_blank"}
 * [junto institute: A Visual Guide to Human Emotion](https://www.visualcapitalist.com/a-visual-guide-to-human-emotion/){:target="_blank"}
+* [calm](https://blog.calm.com/blog/the-feelings-wheel){:target="_blank"}
 
 ## feelings lists
 
