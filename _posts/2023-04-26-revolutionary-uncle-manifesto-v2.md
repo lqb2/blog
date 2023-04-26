@@ -18,7 +18,7 @@ revolutionary uncles:
 * cook
 * care for their bodies
 
-[postcards](https://imgur.com/a/alFWaea){:target="_blank"} by sam ho. funded and created as my final project as a part of [CHLJ01](https://www.healingjusticeliberation.org/cohort){:target="_blank"}
+[postcards](https://imgur.com/a/alFWaea){:target="_blank"} by [sam ho](https://www.samho.art/){:target="_blank"}. funded and created as my final project as a part of [CHLJ01](https://www.healingjusticeliberation.org/cohort){:target="_blank"}
 
 
 
