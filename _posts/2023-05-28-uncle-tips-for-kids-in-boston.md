@@ -26,6 +26,8 @@ i sometimes get asked this question when friends visit boston and so i'm writing
 * riding all the trains
 * allendale farms
 * visiting the top of the prudential
-* 
+* franklin park zoo
+* stone zoo (in stoneham, ma)
+
 
 will probably keep adding to this list over time...
