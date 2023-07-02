@@ -19,18 +19,10 @@ title: Archive
         {% endif %}
         <li>
           <span class="post-meta">{{ mypost.date | date: "%b %-d, %Y" }} | </span>
-          <!--<a href="{{ mypost.url | prepend: site.baseurl }}">--><a href="{{ site.baseurl }}&#47;{{ mypost.url }}">{{ mypost.title }}</a>
+
+
+          <a href="{{ site.baseurl }}{{ mypost.url }}">{{ mypost.title }}</a>
         </li>
     {% endfor %}
   </ul>
-
-<!-- old archive format, not grouped by month 
-<ul>
-  {% for post in site.posts %}
-    <li>{{ post.date | date_to_string }} – <a href="{{ site.baseurl }}/{{ post.url }}">
-        {{ post.title }}
-      </a></li>
-  {% endfor %}
-  </ul>
--->
 </div>
