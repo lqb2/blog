@@ -12,7 +12,7 @@ tags:
 
 my first consulting gig was in 2014. (sidenote: looking back at it, i undercharged by approximately one million percent. :'D)
 
-over these past 7-8 years, i've developed a lot of stances in my work. they evolve, of course, but one that hasn't changed much is this: i don't do RFPs. i talk about this stance a few times a year but a recently email exchange made me realize i want to write it down. 
+over these past 7-8 years, i've developed a lot of stances in my work. they evolve, of course, but one that hasn't changed much is this: i don't do RFPs. i talk about this stance a few times a year but a recent email exchange made me realize i want to write it down. 
 
 so here we are. enumerated below are the reasons i don't do (apply to) RFPs. 
 
@@ -22,13 +22,13 @@ for me as a black, queer solo consultant & small business, RFP processes typical
 
 but just because i don't work for an organization full-time doesn't mean i don't have a vision i'm trying to advance in the world. i want to be just as choosey about who i work with as people hosting RFPs want to be about who they hire. RFP processes set the power dynamic to look like the person most at choice is the client. (obvi if i don't want that particular work, i could just not apply, but still...)
 
-RFPs also pit me against older, bigger orgs that have had more resources and time to invest in their work. that's bad for me because it reduces my chances of success. i think it's also bad for clients because it means they miss out on smaller, newer folks who have the capacity to be more nimble and are often bringing fresher approaches. 
+RFPs also pit me against older, bigger orgs that have had more resources and time to invest in their work. that's bad for me because it reduces my chances of success. i think it's also bad for clients because it means they miss out on smaller, newer folks who have the capacity to be more nimble and often bring fresher approaches. 
 
 also, i have no idea how many other ppl are submitting. am i in a pool of 3 or 300 applicants? this privileges the client. it also means i can't adjust how much energy i put into my application. if i know i'm one of 3, i might put a lot more work in because my chances are better. but without that info, i'm just guessing. 
 
 ## they are free labor
 
-i have to do work to think out my approach (which i tend to customize based on client context and what’s happening in the world at the moment). then i give you that for free in exchange for the possibilty that you will hire me for it with no guarantee of compensation. 
+to submit an RFP, i have to do work to think out my approach (which i often customize based on client context and what’s happening in the world at the moment). then i give you that for free in exchange for the possibilty that you will hire me... but with no guarantee of compensation. 
 
 on its face, that is shitty. 
 
@@ -36,11 +36,11 @@ but it gets worse.
 
 underneath that, it's actually free client education. by gathering lots of different peoples approaches, the RFP host learns a ton about how other folks would approach the work. there is literally no way that all that information doesn't shape how the client is thinking about the work. 
 
-and the worst part is that i have heard multiple horror stories of firm A submitting an RFP, finding out firm B got it, and seeing firm B use elements of firm A's proposal with 0 acknowledgement. as a black queer person you better believe there's no way i'm gonna easily let that happen. 
+and the worst part is that i have heard multiple horror stories of firm A submitting an RFP, finding out firm B got it, and seeing firm B use elements of firm A's proposal (because the client had seen it and shared they "thought it was a good idea") with 0 acknowledgement. as a black, queer person you better believe there's no way i'm gonna easily let that happen. 
 
 ## they assume a static world
 
-most RFPs i've seen are for processes that are 6 months or longer. they assume that you can assess a problem from the front end and craft an appropriate approach. in the cynefin framework, that is imagining we live in the clear/obvious or complicated domains. but, in my opinion and the opinions of many others (ie. two of my teachers, [gibrán](https://interactioninstitute.org/resilience/){:target="_blank"} and [curtis](https://interactioninstitute.org/networks-collective-impact-and-the-place-of-expertise/){:target="_blank"} have been writing about our volatile, uncertain, complex and ambiguous (vuca) world since 2012/2015 and thinking about it since before), we are living in increasingly complex and sometimes chaotic times (see the [cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework){:target="_blank"}). the idea that someone could foresee an appropriate approach from the beginning of a project is just not realistic (if it ever was). 
+most RFPs i've seen are for processes that are 6 months or longer. they assume that you can assess a problem from the front end and craft an appropriate approach. in the cynefin framework, that is imagining we live in the clear/obvious or complicated domains. but, in my opinion and the opinions of many others who (ie. two of my teachers, [gibrán](https://interactioninstitute.org/resilience/){:target="_blank"} and [curtis](https://interactioninstitute.org/networks-collective-impact-and-the-place-of-expertise/){:target="_blank"} have been writing about our volatile, uncertain, complex and ambiguous (vuca) world since 2012/2015 and thinking about it since before), we are living in increasingly complex and sometimes chaotic times (see the [cynefin framework](https://en.wikipedia.org/wiki/Cynefin_framework){:target="_blank"}). the idea that someone could foresee an appropriate approach from the beginning of a project is just not realistic (if it ever was). 
 
 ## they prioritize the written word
 
@@ -48,9 +48,9 @@ i won't say much about this because tema okun has gone way deep on it via [the w
 
 ## they don’t give me enough info
 
-this analysis is actually maureen white's so i want to credit her with this thinking even as i'm the one to write it down. 
+i learned this next piece from [maureen white](https://maureenwhiteconsulting.com/){:target="_blank"} so i want to credit her with this thinking even as i'm the one to write it down. and in this moment i'm not sure if she learned it from somewhere else so if i find that out, i'll update this. 
 
-maureen once said in our consultant community of practice (paraphrased): "if you were in need of medical assistance, you would never look at your symptoms, write them all out, ask many doctors submit plans for how they would treat you and then pick one based on a comparative analysis." 
+maureen once said in our consultant community of practice (paraphrased): "if you were in need of medical assistance, you would never look at your symptoms, write them all out, ask many doctors to submit plans for how they would treat you, and then pick one based on a comparative analysis."
 
 doctors are the experts here. you go to the doctor to get a diagnosis based on your symptoms (and maybe your webmd research). you don’t go to your doc with a diagnosis.
 
