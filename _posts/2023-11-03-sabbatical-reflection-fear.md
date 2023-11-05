@@ -7,6 +7,7 @@ tags:
 - sabbatical
 - rest
 - reflection
+- fear
 --- 
 
 so what work did i get to with my fear? 
