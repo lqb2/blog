@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'unleashing alternative futures: letter to my grandma'
-date: '2023-07-02T11:05:00-04:00'
+date: '2023-06-30T11:05:00-04:00'
 tags:
 - unleashing alternative futures
 - alternative futures
