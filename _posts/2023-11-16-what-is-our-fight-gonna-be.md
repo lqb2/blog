@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"what&#039;s our first fight going to be about?"'
-date: '2023-12-30T09:03:00-04:00'
+date: '2023-11-16T09:03:00-04:00'
 tags:
 - relationship
 - practices
@@ -10,7 +10,7 @@ tags:
 
 <!-- the other day my current obsession (who i will refer to as cutie or ds) and i were having lunch at life alive and everything was just lovely. then (maybe in classic aries fashion) i asked him what he thought our first fight was going to be about. and the conversation STAYED lovely. 😍 -->
 
-the other day was a in a really excellent conversation with a friend about all the things we imagined our first fight could be about. he shared first and totally nailed several very likely first potential blow outs. then he turned the question on me and i responded with something like "it's really hard for me to imagine both of us being so off our game that a fight breaks out." but with a little agitation from him i came up with a bunch! and then we kept going back and forth and laughing and being real and it was wild and beautiful. 
+many months ago, i was in a really excellent conversation with my partner about all the things we imagined our first fight could be about. he shared first and totally nailed several very likely first potential blow outs. then he turned the question on me and i responded with something like "it's really hard for me to imagine both of us being so off our game that a fight breaks out. usually one of us has it together enough to hold the container for the other person..." but with a little agitation from him i came up with a bunch! and then we kept going back and forth and laughing and being real and it was wild and beautiful. 
 
 some highlights:
 

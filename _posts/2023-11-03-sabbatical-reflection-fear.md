@@ -10,7 +10,7 @@ tags:
 - fear
 --- 
 
-so what work did i get to with my fear? 
+what work did i get to with my fear while on sabbatical?
 
 when i think about the big picture, it was pretty beautiful work. the way it came about was utter terror, though. there were multiple nights where i would have a distant or close encounter with an animal. sometimes i could tell who it was and sometimes i couldn't. in either case, my body would have the *full on* fear response. you know like when a cat arches her back and all her hair stands on end? well... it me. 
 
