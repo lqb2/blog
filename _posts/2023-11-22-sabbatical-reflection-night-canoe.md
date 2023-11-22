@@ -33,6 +33,8 @@ anyone up for a night canoe on the quinobequin?
 
 ---
 
+none of these photos are of me actually night canoeing but you can get a sense of the size of the pond i canoed across and you can see the canoe i used and the overall voibe. 
+
 ![img](https://i.imgur.com/oIsWgl8.jpg)
 ![img](https://i.imgur.com/GkUCnEV.jpg)
 ![img](https://i.imgur.com/WfwE8rS.jpg)
@@ -47,4 +49,4 @@ anyone up for a night canoe on the quinobequin?
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-587w / 15min / min
+587w / 15min / 10min
