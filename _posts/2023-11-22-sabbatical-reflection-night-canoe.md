@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'sabbatical reflections: night canoeing'
-date: '2023-11-05T07:54:00-04:00'
+date: '2023-11-22T07:54:00-04:00'
 tags:
 - dickinson's reach
 - sabbatical
@@ -33,11 +33,8 @@ anyone up for a night canoe on the quinobequin?
 
 ---
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/oIsWgl8" data-context="false" ><a href="//imgur.com/a/oIsWgl8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/GkUCnEV" data-context="false" ><a href="//imgur.com/a/GkUCnEV"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-
+![img](https://i.imgur.com/oIsWgl8.jpg)
+![img](https://i.imgur.com/GkUCnEV.jpg)
 ![img](https://i.imgur.com/WfwE8rS.jpg)
 
 ---
