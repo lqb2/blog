@@ -22,10 +22,10 @@ for a couple weeks after the question surfaced, i was asking every one of my pas
 
 what did that mean about me? about our relationship? about our power dynamics? 
 
-i could go on and on about the insights that have come through related to this question but i like to keep these posts short. for now i'll just say these few things:
+i could go on and on about the insights that have come through related to this question but for now i'll just say these few things:
 
-1. my missing is forever changed having grappled with this question. 
-2. i believe you can tell a lot, but not everything, about the power dynamics in a pair by the answer to this question. 
+1. my kissing is forever changed having grappled with this question. 
+2. i am starting to think you can tell a lot, but not everything, about the power dynamics in a pair by the answer to this question. 
 3. having this conversation as a topic between two partners has the opportunity to create transformation. 
 
 so...when you kiss, whose mouth do YOU kiss in?
