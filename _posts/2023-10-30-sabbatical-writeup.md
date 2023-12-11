@@ -29,15 +29,17 @@ now, i worked through my fear of the dark (inherited at least from my mom, if no
 
 this maine time was a very different scene. i was in the woods, "by myself" (as explained above) in a very forested area with little knowledge of the animals around. of course, many folks have done this residency and no one has had any issues that i know of. but that doesn't shift my body's experience. walking in the woods alone, far enough from anyone that even if SOS i blew my emergency whistle, it could take 30-45 minutes for someone to come find me... being in a context like that was new and definitely scary to imagine an animal attacking and then being far from help. yikes!
 
-[insights about fear]({{ site.baseurl }}2023/11/03/sabbatical-reflection-fear/){:target="_blank"} 
+[more insights about fear over here]({{ site.baseurl }}2023/11/03/sabbatical-reflection-fear/){:target="_blank"} 
 
 ## wood stove
 
 ## night canoeing
 
+[see here]({{ site.baseurl }}2023/11/22/sabbatical-reflection-night-canoe/){:target="_blank"}
 
 
 ## reading
+
 
 ## my partner
 
