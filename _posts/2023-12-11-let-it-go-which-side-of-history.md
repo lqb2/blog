@@ -37,7 +37,7 @@ other phrases in this category for me:
 
 - we who believe in freedom cannot rest until it comes
 - speak truth to power
-- 
+- don't mourn, organize (ht sól)
 
 
 <!-- hyperlink bank -->
