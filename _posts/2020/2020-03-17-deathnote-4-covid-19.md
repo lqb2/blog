@@ -4,6 +4,8 @@ title: 'deathnote #4: covid-19'
 date: '2020-03-17T10:25:00-04:00'
 tags:
 - covid-19
+- deathnote
+- death
 --- 
 
 i write to you while on the phone with fenway health, my queer-friendly health center (where my pcp is and has been for the last six years). i have had a consistent dry cough since tuesday march 10th. it got a little worse in the evening of march 15th but got better again yesterday. this morning i woke up feeling pretty good and clear. and then i coughed up some phlegm that had blood in it. i sneezed once and that was pretty bloody, too. 
