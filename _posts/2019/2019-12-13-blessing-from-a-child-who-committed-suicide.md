@@ -16,7 +16,7 @@ please remember to be quiet sometimes. i may come to you in the silence. i may c
 
 look at where you are right now. i love you. i didn't deserve you. but you had me anyways and for that, i am forever grateful. 
 
-i can imagine that each of you would trade your lives for mine. i cannot imagine how it feels to bring a soul into the world and then watch it leave (i have never had children). i know there is no replacing me. know that i don't want you to. i was yours and you, mine. i am yours. you are mine. time and space are fiction. remember. 
+i can imagine that each of you would trade your lives for mine. i cannot imagine how it feels to bring a soul into the world and then watch it leave (i have never had children). i know there is no replacing me. know that i don't want you to. i was yours and you, mine. i am yours. you are mine. time and space are story. remember. 
 
 please hold each other. it how i came to you. it is how you will make it now that i have gone on ahead. everything has changed and nothing has changed. 
 
