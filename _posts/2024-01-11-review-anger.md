@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'book review: Anger: Wisdom for Cooling the Flames by Thich Nhat Hanh'
+title: 'book review: anger: wisdom for cooling the flames by thich nhat hanh'
 date: '2024-01-11T08:46:00-04:00'
 tags:
 - book reviews
