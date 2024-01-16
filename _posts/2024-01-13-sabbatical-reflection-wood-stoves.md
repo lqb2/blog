@@ -48,6 +48,9 @@ ok as often, there's more to say but i'm gonna wrap this post here.
 
 ![grandma ruth](https://i.imgur.com/KS89fhk.jpg)
 
+*<span class="caption">grandma ruth</span>*
+
+
 ---
 
 
