@@ -23,7 +23,9 @@ until i borrowed peter's camping stove, the only heat i had to cook with were th
 
 one of the wood stoves was a tiny one (with one cooking eye) and the other was huge (with six cooking eyes). it was a cool journey to learn how they worked similarly and differently. 
 
-[insert photos]
+![tiny wood stove](https://i.imgur.com/9LDx4hC.jpg){:target="_blank"}
+
+![big wood stove](https://i.imgur.com/tYB6PK3.jpg){:target="_blank"}
 
 by the time i left, i learned some other things like:
 
@@ -44,7 +46,7 @@ so me using these wood stoves on sabbatical, and definitely the larger one, beca
 
 ok as often, there's more to say but i'm gonna wrap this post here. 
 
-[insert photo of grandma ruth]
+![grandma ruth](https://i.imgur.com/KS89fhk.jpg)
 
 ---
 
@@ -56,4 +58,4 @@ ok as often, there's more to say but i'm gonna wrap this post here.
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-550w / 17min / min
+550w / 17min / 3min

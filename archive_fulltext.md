@@ -4,7 +4,7 @@ layout: page
 ---
 
 <p class="message">
-  Hey! This is my archive. It's a work in progress... like everything else on this site, heh. My bullets aren't grouping properly right now so... ¯\_(ツ)_/¯
+  This is is a fully searchable of all the blog posts on my site as in it has all the words of every post.
 </p>
 
 <div class="posts">
