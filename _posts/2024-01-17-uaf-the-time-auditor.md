@@ -41,11 +41,11 @@ he said with a mischievous twinkle in his eyes, "i see your shakiness. your firs
 
 "i need a few minutes to reset the office. i'll be with you 5 after the hour. do you prefer cedar or piñon for sacred smoke during our session?" 
 
-[to be continued...]
+[part 2]({{ site.baseurl }}2024/01/18/uaf-the-time-auditor/)
 
 ---
 
-*note: this story is based on [nadav david's time audits](http://lqb2.co/blog//2021/01/13/nadavs-calendar-time-audit/){:target="_blank"}. the impending evolution about time advisors as distinct came from david schwartz. i need to write out part 2 but time advisors help us see how much of our time needs to be given to the collective in order to keep our society functioning (like tax advisors help us figure out how our money needs to be given to the govt to keep collective systems functioning...). this story came to me during a moment of grief while me and my partner were mapping out our time for q1 of 2024.*
+*note: this story is based on [nadav david's time audits](http://lqb2.co/blog//2021/01/13/nadavs-calendar-time-audit/){:target="_blank"}. the idea of time advisors came from david schwartz. this story came to me during a moment of grief while me and my partner were mapping out our time for q1 of 2024.*
 
 <!-- hyperlink bank -->
 
