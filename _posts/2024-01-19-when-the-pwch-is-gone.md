@@ -37,4 +37,4 @@ there's for sure more to say and but i'm gonna leave this here for now and go do
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-535w / 30min / min
+535w / 30min / 4min
