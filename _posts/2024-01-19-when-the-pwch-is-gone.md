@@ -6,6 +6,7 @@ tags:
 - transformative justice
 - community accountability
 - harm
+- work
 --- 
 
 last year, i faciliated a two-day in-person BIPOC retreat and one of the topics that came up was (surprise surprise) harm. the particular type of harm this situation was emotional, psychological, and financial harm caused by one staff member to several other staffers. and the kicker was that the person who caused the harm (pwch) was no longer working at the organization. this raised the question in the room about what to do when the person who caused harm is no longer present. 
