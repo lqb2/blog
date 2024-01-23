@@ -9,7 +9,7 @@ tags:
 - reflection
 --- 
 
-_important preface!: i thought i was going to write this whole post at once and then realized i needed to write it in chunks in order to not be overwhelmed by. and then i realized it made the most sense to write it in separate pieces with separate titles rather than filling in the outline chunk by chunk. so what you're about to read is the first chunk with a little pre-amble and the outline. and then from here, i'll write the other separate pieces. it's disjointed but i'm a big fan of 'done is better than perfect.' here we go!_
+_important preface!: i thought i was going to write this whole post at once and then realized i needed to write it in chunks in order to not be overwhelmed by it. and then i realized it made the most sense to write it in separate pieces with separate titles rather than filling in the outline chunk by chunk. so what you're about to read is the first chunk with a little pre-amble and the outline. and then from here, i'll write the other separate pieces. it's disjointed but i'm a big fan of 'done is better than perfect.' here we go!_
 
 i did it! i did my first [sabbatical]({{ site.baseurl }}){:target="_blank"}!
 
@@ -18,6 +18,8 @@ overall: super amazing. worth every single ounce of work it took to make it happ
 as i've started to tell folks about my sabbatical, i'm getting clearer about what i want to share via writing about it. i'm also thinking i might do a recorded zoom or audio type call for folks who want to hear about it via voice and be in discussion about it. but first, some of the highlights:
 
 ## setting the scene
+
+[see here]({{ site.baseurl }}2023/11/05/sabbatical-reflection-setup/){:target="_blank"}
 
 ## fear
 
@@ -33,6 +35,8 @@ this maine time was a very different scene. i was in the woods, "by myself" (as 
 
 ## wood stove
 
+[see here]({{ site.baseurl }}2024/01/13/sabbatical-reflection-wood-stoves/){:target="_blank"}
+
 ## night canoeing
 
 [see here]({{ site.baseurl }}2023/11/22/sabbatical-reflection-night-canoe/){:target="_blank"}
@@ -40,6 +44,7 @@ this maine time was a very different scene. i was in the woods, "by myself" (as 
 
 ## reading
 
+[see here]({{site.baseurl}}2024/01/16/sabbatical-reflection-reading/){:target="_blank"}
 
 ## my partner
 
