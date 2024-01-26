@@ -9,7 +9,7 @@ tags:
 --- 
 
 
-back in decemeber, i came across a fast for gaza post on social media and i was struck immediately. i joined for the first one on thursday, dec XX and since then, i've done it 4 out of 5 times (i missed one week due to sheer negligence and forgetfulness, it happens!). i have gotten a small amount of pushback and mostly affirmation or curiosity about it. so here i am writing about my personal reasons and stance for fasting. 
+back in december, i came across a fast for gaza post on social media and i was struck immediately. i joined for the first one on thursday, dec XX and since then, i've done it 4 out of 5 times (i missed one week due to sheer negligence and forgetfulness, it happens!). i have gotten a small amount of pushback and mostly affirmation or curiosity about it. so here i am writing about my personal reasons and stance for fasting. 
 
 but before that, i just want to share the info from the crew of writers and artists (who i don't know) who started this. 
 
@@ -47,7 +47,7 @@ one last thing i want to share is practice for breaking fast. i have fasted for 
 * set an intention to have the 
 * and sometimes, i read a poem by palestinian poet. last week, at my friend malcolm's birthday dinner, i read "thing of others" by mahmoud darwish. 
 
-[![think of others](https://www.palestineadvocacyproject.org/wp-content/uploads/2017/07/Think-of-Others.jpg)](https://www.palestineadvocacyproject.org/poetry-campaign/think-of-others/){:target="_blank"}
+[![think of others](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fpoem-think-of-others-by-mahmoud-darwish-v0-2b3r33aprj2c1.jpg%3Fauto%3Dwebp%26s%3Dcb0083cb7cf813dd249ccfe886b8cff1657a6490)](https://www.palestineadvocacyproject.org/poetry-campaign/think-of-others/){:target="_blank"}
 
 
 ---
