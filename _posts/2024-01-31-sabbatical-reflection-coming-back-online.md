@@ -42,7 +42,7 @@ i didn't even make it past the first day when i noticed my hands start peeling a
 
 thankfully (or not), i chose to slow down my re-integration process and as i slowed down the peeling slowed down and eventually stopped. and, to this date, it has still not come back. 
 
-i hope this is because of some of the shifts i made which i guess takes me into my final blog post of this reflection series... re-integration!
+i hope this is because of some of the shifts i made which i guess takes me into my final blog post of this reflection series... [integration]({{site.baseurl}}2024/01/31/sabbatical-reflection-integration/)!
 
 
 ---
@@ -55,4 +55,4 @@ i hope this is because of some of the shifts i made which i guess takes me into 
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-821w / 29min / min
+821w / 29min / 3min
