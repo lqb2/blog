@@ -26,6 +26,9 @@ definitely the most rugged set up i've ever lived in and, still given that, it w
 
 ---
 
+[<- back to the full sabbatical reflection table of contents]({{site.baseurl}}2023/10/30/sabbatical-writeup/)
+
+---
 
 <!-- hyperlink bank -->
 

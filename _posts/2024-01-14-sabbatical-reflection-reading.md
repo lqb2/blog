@@ -54,6 +54,9 @@ ok there is definitely more to share about all the reading i did but, yet again,
 
 ---
 
+[<- back to the full sabbatical reflection table of contents]({{site.baseurl}}2023/10/30/sabbatical-writeup/)
+
+---
 
 <!-- hyperlink bank -->
 

@@ -53,6 +53,10 @@ ok as often, there's more to say but i'm gonna wrap this post here.
 
 ---
 
+[<- back to the full sabbatical reflection table of contents]({{site.baseurl}}2023/10/30/sabbatical-writeup/)
+
+---
+
 
 <!-- hyperlink bank -->
 

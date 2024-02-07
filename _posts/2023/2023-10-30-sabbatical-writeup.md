@@ -15,7 +15,7 @@ i did it! i did my first [sabbatical]({{site.baseurl}}2023/08/13/sabbatical/)!
 
 overall: super amazing. worth every single ounce of work it took to make it happen. i feel forever changed and wish everyone could take sabbatical-style breaks! (i am so jealous of the august-off tradition that exists in many parts of europe). 
 
-as i've started to tell folks about my sabbatical, i'm getting clearer about what i want to share via writing about it. i'm also thinking i might do a recorded zoom or audio type call for folks who want to hear about it via voice and be in discussion about it. but first, some of the highlights:
+as i've started to tell folks about my sabbatical, i'm getting clearer about what i want to share via writing about it. i'm also thinking i might do a recorded zoom or audio type call for folks who want to hear about it via voice and be in discussion about it. but for now, here's some extended thoughts in writing:
 
 ## setting the scene
 
@@ -23,23 +23,15 @@ as i've started to tell folks about my sabbatical, i'm getting clearer about wha
 
 ## fear
 
-one of the biggest things that happened for me while away was getting to work with my fear! 
-
-i remember it was a few days before heading out when i had the thought... "omg i'm going to be there at night." i don't know how it hadn't occurred to me until less than a week away that i was also going to be there in the **dark!** 
-
-now, i worked through my fear of the dark (inherited at least from my mom, if not other parts of my lineage) a few years ago when i had a solo late night conversation with a fire after everyone else i was with one weekend in upstate ny had gone to bed. 
-
-this maine time was a very different scene. i was in the woods, "by myself" (as explained above) in a very forested area with little knowledge of the animals around. of course, many folks have done this residency and no one has had any issues that i know of. but that doesn't shift my body's experience. walking in the woods alone, far enough from anyone that even if SOS i blew my emergency whistle, it could take 30-45 minutes for someone to come find me... being in a context like that was new and definitely scary to imagine an animal attacking and then being far from help. yikes!
-
-[more insights about fear over here]({{ site.baseurl }}2023/11/03/sabbatical-reflection-fear/){:target="_blank"} 
+[see here]({{site.baseurl}}2023/11/03/sabbatical-reflection-fear/){:target="_blank"} 
 
 ## wood stove
 
-[see here]({{ site.baseurl }}2024/01/13/sabbatical-reflection-wood-stoves/){:target="_blank"}
+[see here]({{site.baseurl}}2024/01/13/sabbatical-reflection-wood-stoves/){:target="_blank"}
 
 ## night canoeing
 
-[see here]({{ site.baseurl }}2023/11/22/sabbatical-reflection-night-canoe/){:target="_blank"}
+[see here]({{site.baseurl}}2023/11/22/sabbatical-reflection-night-canoe/){:target="_blank"}
 
 
 ## reading
@@ -57,21 +49,13 @@ this maine time was a very different scene. i was in the woods, "by myself" (as 
 
 ## coming back online
 
+[see here]({{site.baseurl}}2024/01/31/sabbatical-reflection-coming-back-online/){:target="_blank"}
+
 ## integration
+
+[see here]({{site.baseurl}}2024/01/31/sabbatical-reflection-integration/){:target="_blank"}
 
 ## what it looked like
 
 [see my top 50 photos here](https://imgur.com/a/tLFljPQ){:target="_blank"}
 
-
----
-
-
-<!-- hyperlink bank -->
-
-
-<!-- &#042; = asterisk -->
-<!-- &#039; = single quote '-->
-
-**words / writing / post-processing**  
-417w / 20min / 15min

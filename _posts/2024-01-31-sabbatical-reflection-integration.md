@@ -25,6 +25,9 @@ so each of these 3 things in some ways feel not so difficult to practice. but i 
 
 ---
 
+[<- back to the full sabbatical reflection table of contents]({{site.baseurl}}2023/10/30/sabbatical-writeup/)
+
+---
 
 <!-- hyperlink bank -->
 

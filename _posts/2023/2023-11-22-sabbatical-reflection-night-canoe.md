@@ -41,6 +41,9 @@ none of these photos are of me actually night canoeing but you can get a sense o
 
 ---
 
+[<- back to the full sabbatical reflection table of contents]({{site.baseurl}}2023/10/30/sabbatical-writeup/)
+
+---
 
 <!-- hyperlink bank -->
 

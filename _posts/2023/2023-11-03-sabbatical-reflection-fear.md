@@ -10,6 +10,16 @@ tags:
 - fear
 --- 
 
+one of the biggest things that happened for me while away was getting to work with my fear! 
+
+i remember it was a few days before heading out when i had the thought... "omg i'm going to be there at night." i don't know how it hadn't occurred to me until less than a week away that i was also going to be there in the **dark!** 
+
+now, i worked through my fear of the dark (inherited at least from my mom, if not other parts of my lineage) a few years ago when i had a solo late night conversation in upstate ny with a fire after everyone else i was with one weekend had gone to bed. 
+
+this maine time was a very different scene. i was in the woods, "by myself" (as explained [here]({{site.baseurl}}2023/11/05/sabbatical-reflection-setup/){:target="_blank"}) in a very forested area with little knowledge of the animals around. of course, many folks have done this residency and no one has had any issues that i know of. but that doesn't shift my body's experience. walking in the woods alone, far enough from anyone that even if SOS i blew my emergency whistle, it could take 30-45 minutes for someone to come find me... being in a context like that was new and definitely scary to imagine an animal attacking and then being far from help. yikes!
+
+---
+
 what work did i get to with my fear while on sabbatical?
 
 when i think about the big picture, it was pretty beautiful work. the way it came about was utter terror, though. there were multiple nights where i would have a distant or close encounter with an animal. sometimes i could tell who it was and sometimes i couldn't. in either case, my body would have the *full on* fear response. you know like when a cat arches her back and all her hair stands on end? well... it me. 
@@ -22,6 +32,9 @@ and, that was the beauty. because i had to practice with it repeatedly, i got to
 
 ---
 
+[<- back to the full sabbatical reflection table of contents]({{site.baseurl}}2023/10/30/sabbatical-writeup/)
+
+---
 
 <!-- hyperlink bank -->
 
@@ -30,4 +43,4 @@ and, that was the beauty. because i had to practice with it repeatedly, i got to
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-237w / 12 min / 5min
+237w / 12 min / 5min (note this is only for the 2nd half of this blog post, the first half i forgot to track)

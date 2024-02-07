@@ -47,6 +47,9 @@ i hope this is because of some of the shifts i made which i guess takes me into 
 
 ---
 
+[<- back to the full sabbatical reflection table of contents]({{site.baseurl}}2023/10/30/sabbatical-writeup/)
+
+---
 
 <!-- hyperlink bank -->
 

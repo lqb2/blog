@@ -39,7 +39,7 @@ in summary, through one type of lens, all of this stuff is like... super basic. 
 
 ---
 
-* [back to the sabbatical reflections meta-post]({{site.baseurl}}2023/10/30/sabbatical-writeup/)
+* [<- back to the sabbatical reflections meta-post]({{site.baseurl}}2023/10/30/sabbatical-writeup/)
 
 <!-- hyperlink bank -->
 

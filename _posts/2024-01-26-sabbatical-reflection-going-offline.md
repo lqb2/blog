@@ -30,7 +30,9 @@ the next time i take a break this size, hopefully i'll be feel ready and more ea
 
 ---
 
+[<- back to the full sabbatical reflection table of contents]({{site.baseurl}}2023/10/30/sabbatical-writeup/)
 
+---
 <!-- hyperlink bank -->
 
 
