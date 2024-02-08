@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'black history/futures: learning the family tree'
+title: 'black history/futures: mudras'
 date: '2019-02-07T1:13:00-04:00'
 tags:
 - black history/futures month
@@ -20,6 +20,11 @@ anyway, like i was saying before, most of the time i couldn't help it. which mad
 
 and i'd found that the stares were much, much better than impeding my own progress. i had too much work to do here to slow myself down. there were another other forces working on that for me to make it any easier for them.
 
+
+---
+
+_note: this post is about mudras because i recently met elandria williams and she is the first black person i saw working with mudras in public. until i saw her doing some during a UFE training and then talking about it in front of the group later, i had never seen a black person working with that spiritual technology. so thanks, elandria, for unblocking me on that. 🙏🏾_
+
 <!-- hyperlink bank -->
 
 
@@ -27,4 +32,4 @@ and i'd found that the stares were much, much better than impeding my own progre
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-248w / 10min / 4min
+248w / 10min / 5min

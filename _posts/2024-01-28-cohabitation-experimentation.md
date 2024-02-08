@@ -18,7 +18,7 @@ for a few months, we threw around a few different ideas:
 * multiple weeks, spaced apart, somewhere new (like a friend's house or something)
 * 1 month somewhere new
 
-i'm sure there were more ideas. but while he was visiting me on sabbatical(), we had a multi-hour hike and landed on our final experiment: a week his place, a week separate/off, a week my place, a week off. and we'd do that 4 times aka for 3 months. then take a break (hopefully during the summer), and, depending on how things were going, there are two path options: 1 is to spend a month together in one same house, hopefully a house that is neither of ours. then take a break before thinking about moving in together more permanently. 
+i'm sure there were more ideas. but while [he was visiting me on sabbatical]({{site.baseurl}}2024/01/25/sabbatical-reflection-partner/), we had a multi-hour hike and landed on our final experiment: a week his place, a week separate/off, a week my place, a week off. and we'd do that 4 times aka for 3 months. then take a break (hopefully during the summer), and, depending on how things were going, there are two path options: 1 is to spend a month together in one same house, hopefully a house that is neither of ours. then take a break before thinking about moving in together more permanently. 
 
 we landed where we landed for some pretty good reasons. a few of them include: 
 
