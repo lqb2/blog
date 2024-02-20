@@ -26,10 +26,10 @@ here is in my inbox zero cleanout practice. i engage in this once every 7-14 day
 * start a new "inbox zero [insert date]" section on my inbox zero page in my bullet journal
 * reverse sort my inbox by date so the oldest emails are first
 * for each email, take no more than 1 minute to: 
-** archive (after reading or skimming)
-** respond (if i can do so within a minute)
-** open it or the relevant resource in a new tab or add it to my pocket or diigo for browsing later
-** if the 1 minute timer goes off, i write down the subject line on my inbox zero task list and then archive the email and move on to the next email
+	* archive (after reading or skimming)
+	* respond (if i can do so within a minute)
+	* open it or the relevant resource in a new tab or add it to my pocket or diigo for browsing later
+	* if the 1 minute timer goes off, i write down the subject line on my inbox zero task list and then archive the email and move on to the next email
 
 this clean out practice keeps my personal inbox at under 150 emails (and usually in the 75-90 range) in two weeks and my work inbox under 30. 
 
@@ -37,7 +37,7 @@ three critical insights that help this work:
 
 * all the tools and technologies i use are in service of my vision (which includes me, my communities, and the planet). if at any point, a tool feels like it's using me, a change is needed
 * i do not expect to "stay on top of my inbox." i will miss things. those things might be new connections, money, or other valuable things. i will lean into the truth that i cannot have it all. missing things is the cost i pay for not being controlled by my inbox.
-* just because i have added something to my task list, doesn't mean i will absolutely do it. i honor the truth that my inbox (and task list) will be untended to (and will get increasingly so) [on the day i die](https://www.proquest.com/openview/82dc6597af294ea4dd187e3e6aa1b2a6/1?pq-origsite=gscholar&cbl=47847){:target="_blank"}
+* just because i have added something to my task list, doesn't mean i will absolutely do it. i honor the truth that my inbox (and task list) will almost definitely be full [on the day i die](https://files.eric.ed.gov/fulltext/EJ957018.pdf){:target="_blank"}.
 
 
 
