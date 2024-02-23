@@ -12,8 +12,6 @@ tags:
 
 _preface:  today's story is inspired by the episode of [how to survive the end of the world with adaku utah](https://endoftheworldshow.org/episodes/witch-school-chapter-19-adaku-utah){:target="_blank"}._
 
-allying with air:
-
 i took the deepest breath i could and held it. i really wondered what would happen this time. last time, day 99, of working with air, my first inhale after holding my breath had rattled my whole building. 
 
 it was such a funny experience to have taken 50 days to notice any connection with air at all. and by funny i mean hard. she's a fickle one, my teachers warned one. fickle and subtle. at first. 
