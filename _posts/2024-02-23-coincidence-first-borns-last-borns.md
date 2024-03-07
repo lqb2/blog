@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'coincidence or a strange pattern in couples: younger firstborns with older lastborns'
+title: 'couple coincidence: younger firstborns with older lastborns'
 date: '2024-02-21T08:21:00-04:00'
 tags:
 - 
