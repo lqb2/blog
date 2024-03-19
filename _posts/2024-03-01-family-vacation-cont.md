@@ -7,7 +7,7 @@ tags:
 --- 
 
 
-in the weeks after i sent out the newsletter edition that included my post on family vacation as an oxymoron, i got a significant amount of feedback pointing to the reality that it really resonated with some folks! i heard it got shared to at least one listserv, one big group text thread, discussed in a few households, and i got a few emails about it. 
+in the weeks after i sent out [lqb2weekly #191](https://lqb2weekly.substack.com/p/lqb2weekly-191-6-jan-2024){:target="_blank"} (which included my post on family vacation as an oxymoron), i got a significant amount of feedback pointing to the reality that it really resonated with some folks! i heard it got shared to at least one listserv, one big group text thread, discussed in a few households, and i got a few emails about it. 
 
 i wanted to share one anonymized email because it felt like such a good illuminating of the details of the complexity of the whole situation. here is what the person shared:
 
