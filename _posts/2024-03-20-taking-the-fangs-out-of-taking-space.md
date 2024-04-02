@@ -25,6 +25,15 @@ ok dang, i have to stop writing now to to get to the rest of my morning routine 
 
 ---
 
+links that include both reasonable and ridiculous ideas about this practice:
+
+- https://www.resetera.com/threads/sleeping-on-the-couch-as-a-punishment-in-adult-relationships.42497/
+- https://www.elitedaily.com/dating/partner-sleeps-on-couch
+- https://www.quora.com/Is-sleeping-on-the-couch-after-a-fight-still-a-thing
+- https://www.reddit.com/r/relationship_advice/comments/12exzgb/my29m_wife_26f_sleeps_on_the_couch_when_shes_upset/
+
+
+
 
 <!-- hyperlink bank -->
 
