@@ -26,6 +26,8 @@ anyways, that's my 7-year cycle schpeel and i'm sticking to it.
 
 ps - one of my spiritual elders, djalòki, created his own 7-year cycle framework. let me know if you're curious to see it and i'll see if he's open to sharing it. 
 
+UPDATE 25 april 2024 update: he's open to it being shared. [here's a link!](https://drive.google.com/file/d/1nqTahYiLv_r_WmIYRHrzh0X7xkFJqE1L/view?usp=drive_link){:target="_blank"}
+
 <!-- hyperlink bank -->
 
 
