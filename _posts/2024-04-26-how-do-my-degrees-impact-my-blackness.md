@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'how have these degrees made me relate differently to blackness? '
+title: 'how have these degrees made me relate differently to blackness?'
 date: '2024-04-26T16:47:00-04:00'
 tags:
 - blackness
@@ -21,7 +21,7 @@ but there's still a sense sometimes that i literally can't communicate in words 
 
 some of what i know about all of this is influenced by narrow definitions of blackness that come from places where people's experience of blackness is quite small (black people's experience of black people and non-black people's experience of black people). i know that being in a place with a wider range of black life shifts some of the narrowness that people understand blackness to be (ex: where being book smart is not the same as being white). and as more of society understands blackness as broader than silly dominant narrative depictions, this whole area of experience changes for me and hopefully everyone. but it still impacted me while growing up and getting these degrees.
 
-and then there's family dynamics...
+[and then there's family dynamics...]({{site.baseurl}}2024/04/27/how-do-my-degrees-impact-my-blackness-2/)
 
 
 

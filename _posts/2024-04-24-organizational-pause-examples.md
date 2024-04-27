@@ -9,10 +9,10 @@ tags:
 --- 
 
 
-* Our Organizational Pause: National Funeral Home Alliance - https://web.archive.org/web/20230922124241/https://www.homefuneralalliance.org/our-organizational-pause.html 
-* National Young Farmers Coalition: Young Farmers Organizational Pause https://www.youngfarmers.org/2021/06/organizational-pause/ - 3 week pause
-* allied media projects: a chrysalis year - https://alliedmedia.org/news/chrysalis-year
-* allied media projects: the chrysalis continues - https://alliedmedia.org/news/chrysalis-continues 
+* Our Organizational Pause: National Funeral Home Alliance - <https://web.archive.org/web/20230922124241/https://www.homefuneralalliance.org/our-organizational-pause.html> 
+* National Young Farmers Coalition: Young Farmers Organizational Pause (3 weeks) <https://www.youngfarmers.org/2021/06/organizational-pause/> 
+* allied media projects: a chrysalis year - <https://alliedmedia.org/news/chrysalis-year>
+* allied media projects: the chrysalis continues - <https://alliedmedia.org/news/chrysalis-continues> 
 
 
 
