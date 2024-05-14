@@ -9,7 +9,7 @@ tags:
 
 i am continually surprised by people's excitement about AI. 
 
-call me a luddite, but i'm not into it. the main reason? having read [amusing ourselves to death](https://www.goodreads.com/book/show/74034.Amusing_Ourselves_to_Death){:target="_blank"} by neil postman and having other media awareness and critique, i don't trust that we are collectively well-educated enough to not eventually be fooled at a catastrophic level by something fabricated by machines that most of us don't understand. 
+call me a luddite, but i'm not into it. the main reason? having read [amusing ourselves to death](https://www.goodreads.com/book/show/74034.Amusing_Ourselves_to_Death){:target="_blank"} by neil postman and having other media awareness and critique, i don't trust that we are collectively well-educated enough to not eventually be fooled at a catastrophic level by something fabricated by machines that most of us don't understand. said a little more simply: i believe that we are collectively under-educated enough to be fooled at a catastrophic level by something fabricated by machines that most of us don't understand. 
 
 that said, i didn't come here (today) to write about that. today i'm here to write about an insight i had in a conversation the other day that freaked me out: AI is primarily using english. 
 
