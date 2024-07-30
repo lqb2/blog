@@ -8,6 +8,9 @@ tags:
 
 --- 
 
+<p class="message">hi seth. your turn! :)</p>
+
+
 "ugh, babe! what the fuck!" 
 
 "what?"
