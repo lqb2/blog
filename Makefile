@@ -4,7 +4,7 @@ shortserve:
 write:
 	subl .
 	subl _posts/post-template.md
-	open '../../../../Applications/Hemingway Editor.app/'
+	open '../../../../../Applications/Hemingway Editor.app'
 
 serve:
 	open http://127.0.0.1:4000/blog/
