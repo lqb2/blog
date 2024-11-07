@@ -8,7 +8,7 @@ tags:
 --- 
 
 
-earlier this week i was having my regular friend convo with my friend [katherine](https://www.kerpsychotherapy.com/){:target="_blank"} and she said something that felt really powerful. i'm paraphrasing a bit (and i hope someday soon she'll write/audio about this so i can cite her instead of my paraphase 😜) but here goes:
+earlier this week i was having my regular friend convo with my friend [katherine](https://www.kerpsychotherapy.com/){:target='_blank'} and she said something that felt really powerful. i'm paraphrasing a bit (and i hope someday soon she'll write/audio about this so i can cite her instead of my paraphase 😜) but here goes:
 
 > what would it be like if we took the fangs out of taking space? what if we didn't see it as a failure that one partner chose to sleep on the couch? what if we saw it as a strategic use of the resource of making room so that we (each person) can get the space they need to ground and settle their nervous system so we have the best chance at having the conversation(s) we need to have from a good place? — katherine evering-rowe
 
@@ -25,7 +25,7 @@ ok dang, i have to stop writing now to to get to the rest of my morning routine 
 
 ---
 
-links that include both reasonable and ridiculous ideas about this practice:
+links that include both reasonable and also ridiculous ideas about this practice:
 
 - https://www.resetera.com/threads/sleeping-on-the-couch-as-a-punishment-in-adult-relationships.42497/
 - https://www.elitedaily.com/dating/partner-sleeps-on-couch
