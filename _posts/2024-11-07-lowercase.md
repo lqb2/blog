@@ -3,7 +3,7 @@ layout: post
 title: 'why i type in (almost) all lowercase'
 date: '2024-11-07T13:12:00-04:00'
 tags:
-- 
+- protocols
 - 
 
 --- 
