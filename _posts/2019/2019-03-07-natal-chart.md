@@ -8,7 +8,7 @@ tags:
 - natal birth chart
 --- 
 
-adding my astrological natal birth chart to my [self-mastery archive]({{ site.baseurl }}tags/#self-mastery-ref). 
+adding my astrological natal birth chart to my [self-mastery archive]({{site.baseurl }}tags/#self-mastery-ref). 
 
 also need to do some cleaning up of the formatting of this page, but that'll come later i think.
 
@@ -20,10 +20,16 @@ also need to do some cleaning up of the formatting of this page, but that'll com
 
 in depth detailed chart done by constance of astrostory club
 
-![Imgur](https://i.imgur.com/S1izbHc.jpg)
+![Imgur](https://i.imgur.com/S1izbHc.jpg){:target='_blank'}
 
-the theme from my chart is capricorn.
+the theme from my chart is capricorn. (15 jan 2025 - what does this "theme" mean?))
 
+---
+
+some details about earth grand trine:
+
+* https://www.alicesparklykat.com/articles/224/Earth_Grand_Trine/
+* https://www.forrestastrology.com/blogs/astrology/thinking-about-grand-trines
 
 ---
 
