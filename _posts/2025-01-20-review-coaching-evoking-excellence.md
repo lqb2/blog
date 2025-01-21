@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'book review: coaching: evoking excellence in others'
+title: 'book review: coaching: evoking excellence in others by james flaherty'
 date: '2025-01-20T14:32:00-04:00'
 tags:
 - book reviews

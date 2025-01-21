@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'book review: '
-date: '2024-08-00T00:00:00-04:00'
+date: '2025-01-00T00:00:00-04:00'
 tags:
 - book reviews
 - author

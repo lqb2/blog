@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'book review: the art of receiving and giving: the wheel of consent'
+title: 'book review: the art of receiving and giving: the wheel of consent by betty martin'
 date: '2024-01-29T07:04:00-04:00'
 tags:
 - book reviews

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'book review: the new saints — from broken hearts to spiritual warriors'
+title: 'book review: the new saints — from broken hearts to spiritual warriors by lama rod owens'
 date: '2024-08-25T14:54:00-04:00'
 tags:
 - book reviews
