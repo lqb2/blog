@@ -21,7 +21,7 @@ i am connector by nature (include by malcolm gladwell's [definition](https://ada
 
 so why do i bring this up? because i have been trying to figure out how to work with and even shift this from overwhelm to positivity. i really do love that so many people are checking in on each other. i also really can't keep up responding to so many people.
 
-![pod mapping worksheet](https://batjc.files.wordpress.com/2016/06/screen-shot-2016-06-02-at-1-09-26-pm.png)
+![pod mapping worksheet](https://i.imgur.com/6wLLrL5.png)
 
 i have been thinking about the use of [pods](https://batjc.wordpress.com/pods-and-pod-mapping-worksheet/) (albeit in a very different context) as one way to shift this. like, what if my covid pod was six people around me who i keep updated about my physical, emotional, mental, material, and spiritual well-being? and then, if i am feeling out of capacity to do new responses, i direct everyone else to those six people if they want an update. 
 

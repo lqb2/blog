@@ -20,7 +20,9 @@ maybe something about i am ok or not ok, and i am being checked on by XYZ. i rea
 here are all the feelings that i feel now checking in on people, they come in waves and how i've managed it: 
 
 **Lawrence and Danielle get sick:**
+
 **i check in on lawrence and Danielle**
+
 worry and love for them- i love them, i want to make sure they are ok. 
 
 anxiety and worry about myself - if they have it, maybe i have it, this is serious. 
@@ -28,7 +30,9 @@ anxiety and worry about myself - if they have it, maybe i have it, this is serio
 my need to in the know about all things (IM A LEO OK?!?!) 
 
 **I ask How are you?**
+
 **Lawrence doesn't respond:**
+
 i check in with other friends who i know are closer to lawrence than i am to make sure he is ok, once I know that, I give lawrence space. 
 
 i realize the energy that asking how someone is, isn't super supportive - it takes rather than offers. 
@@ -45,7 +49,8 @@ Next step to just send what i can offer?
 * if it's coming from a place of fear - center yourself and bring in love to yourself first, reach out to another friend WHO IS NOT SICK to manage your fear. The person should not need to assure you. 
 * if you're being nosy - don't reach out. 
 * are you closer to the person who is sick or another person who loves that person? if you are closer to the other person, ask that person how you can support THEM to support their loved one. 
-Makes me think of that whole thing about supporting people - the person at the center is supported by their closest people, the people closest to those people are supported by people closest to them - [ring theory](https://www.psychologytoday.com/us/blog/promoting-hope-preventing-suicide/201705/ring-theory-helps-us-bring-comfort-in) 
+
+Makes me think of that whole thing about supporting people - the person at the center is supported by their closest people, the people closest to those people are supported by people closest to them - [ring theory](https://www.psychologytoday.com/us/blog/promoting-hope-preventing-suicide/201705/ring-theory-helps-us-bring-comfort-in){:target='_blank'}
 
 **On extractive/regenerative caring:**
 there are transactional, extractive and regenerative interactions. Transactional interactions come out of obligation - asking how someone is because you are supposed to and or because it's socially acceptable. The energy exchange between these are low. you give a low level of energy and the other person receives a low level of energy (the same question will have different results based on who is asking and why they are asking)
