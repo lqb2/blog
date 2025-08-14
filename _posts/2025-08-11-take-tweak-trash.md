@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ''
+title: '"take, tweak, trash"'
 date: '2025-08-11T08:51:00-04:00'
-tags: "take, tweak, trash"
+tags: 
 - coaching
 - 
 
