@@ -23,6 +23,7 @@ see below the line break for the regularly scheduled programming about no new th
 
 1. no new things day happened in early september this year but i'm just now getting around to writing about it. 
 2. related to the above, the fall c/rush somehow seems more intense than in recent years. idk what that's about, but it feels real to me. 
+3. to be contined (it's dessert time atm)!
 
 
 ---
