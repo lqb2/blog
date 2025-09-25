@@ -12,7 +12,7 @@ tags:
 --- 
 
 
-> preface: if you're curious in the evolution of this experiment/thought/practice, here are the last 5 posts about it: [2023]({{ site.baseurl }}2023/11/15/no-new-things-day/){:target="_blank"}, [2022]({{ site.baseurl }}2022/10/21/no-new-things-day/){:target="_blank"}, [2021]({{ site.baseurl }}2021/11/06/fall-equinox-no-new-things-day/){:target="_blank"}, [2020]({{ site.baseurl }}2020/09/22/fall-equinox-no-new-things-day/){:target="_blank"}, [2019]({{ site.baseurl }}2019/10/04/no-new-things-day/){:target="_blank"}. 
+> preface: if you're curious in the evolution of this experiment/thought/practice, here are the last 5 posts about it: [2024]({{ site.baseurl }}2024/09/30-no-new-things-day){:target='_blank'}, [2023]({{ site.baseurl }}2023/11/15/no-new-things-day/){:target="_blank"}, [2022]({{ site.baseurl }}2022/10/21/no-new-things-day/){:target="_blank"}, [2021]({{ site.baseurl }}2021/11/06/fall-equinox-no-new-things-day/){:target="_blank"}, [2020]({{ site.baseurl }}2020/09/22/fall-equinox-no-new-things-day/){:target="_blank"}, [2019]({{ site.baseurl }}2019/10/04/no-new-things-day/){:target="_blank"}. 
 
 
 
