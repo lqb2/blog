@@ -17,17 +17,17 @@ tags:
 
 ## individual videos
 
-#### [nisha](https://youtu.be/mTlpAqVDchQ){:target='_blank'}
+#### [nisha](https://www.nishapurushotham.com/){:target='_blank'}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mTlpAqVDchQ?si=5vgOKEFQkccqULOv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
-#### [sól](https://youtu.be/6z9M983P0cw){:target='_blank'}
+#### [sól](https://www.solstice-healing.com/){:target='_blank'}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6z9M983P0cw?si=clFODITV36KOhjVz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
-#### [lawrence](https://youtu.be/9gqSkERCe40){:target='_blank'}
+#### [lawrence](http://www.lqb2.co){:target='_blank'}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9gqSkERCe40?si=Qv450G7LDWiJsBq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
