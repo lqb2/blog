@@ -17,6 +17,6 @@ wai'anae on o'ahu w/ danny boro from [westside surf lessons](https://www.westsid
 
 
 
-# dec 2023
+# pre-dec 2025
 
-* [lawrence goes surfing with CHJL color the water in LA (dec 2023 @ dockweiler beach)](https://imgur.com/a/lawrence-goes-surfing-with-chjl-color-water-la-dec-2023-dockweiler-beach-b5MxoSn){:target='_blank'}
+* [lawrence goes surfing with CHJL color the water in LA (dec 2023 @ dockweiler beach) plus june 2024 and sept 2025 surf hangouts with david and theresa](https://imgur.com/a/lawrence-goes-surfing-with-chjl-color-water-la-dec-2023-dockweiler-beach-b5MxoSn){:target='_blank'}
