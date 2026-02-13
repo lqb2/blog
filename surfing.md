@@ -13,3 +13,10 @@ wai'anae on o'ahu w/ danny boro from [westside surf lessons](https://www.westsid
 * [lawrence stands (DJI_0716.MP4)](https://drive.google.com/file/d/1O1CRbKpDWuf32vJf2oB4gsRkQPgsyCs3/view?usp=drivesdk){:target='_blank'}
 * [lawrence stands (DJI_0705.MP4)](https://drive.google.com/file/d/13atetKvTQarW7Epwb6-KBvNZ6hXJu2c8/view?usp=drivesdk){:target='_blank'}
 * [lawrence kneels (DJI_0713.MP4)](https://drive.google.com/file/d/1KMM7edGZwVUAV4JGtacxzW4O8woi387g/view?usp=drivesdk){:target='_blank'}
+
+
+
+
+# dec 2023
+
+* [lawrence goes surfing with CHJL color the water in LA (dec 2023 @ dockweiler beach)](https://imgur.com/a/lawrence-goes-surfing-with-chjl-color-water-la-dec-2023-dockweiler-beach-b5MxoSn){:target='_blank'}
