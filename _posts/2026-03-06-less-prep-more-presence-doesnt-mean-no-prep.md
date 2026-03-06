@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ''
-date: '2026-03-00T00:00:00-04:00'
+title: '"less prep, more presence" doesn&#039;t mean no prep'
+date: '2026-03-06T00:00:00-04:00'
 tags:
 - 
 - 
@@ -10,7 +10,7 @@ tags:
 
 
 
-
+[post coming soon]
 
 
 ---
