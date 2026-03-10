@@ -24,7 +24,7 @@ when adrienne maree brown put out emergent strategy (es) what feels like ages ag
 
 it seems simple enough but it's such a clear that quotes from important, quoteworthy folks get taken out of context and misused. 
 
-as i understand it, less prep, more presence, came from a time when there was a small trend in movement gatherings, convenings, and facilitations where the design would be too complicated or involved to allow for what's actually happening in the room to come through. simpler, less complex design can create space for allowing what's actually happening in the room to come through. 
+as i understand it, less prep, more presence, came from a time when there was a small trend in movement gatherings, convenings, and facilitations where the design would be so complicated or involved to allow for what's actually happening in the room to come through. simpler, less complex design can create space for allowing what's actually happening in the room to come through. also, less prep, more presence encourages emphasis on actually BEING present and leaning on live facilitation skills to let what's is present bubble up and into the room rather than stay hidden in the corners or left to come up in the hallways after the meeting ends or on breaks. 
 
 anyways, that's all i/we wanna say here. back to work! 
 
@@ -44,4 +44,4 @@ resources:
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-287w / 11min / min
+287w / 11min / 2min
