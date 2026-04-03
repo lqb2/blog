@@ -50,6 +50,7 @@ ps - my current ranking of seasons (fight me)
 2. winter
 3. fall
 4. spring
+
 pps - the order of fall and spring swap depending on what's feeling particularly hard for me at any given time. i used to say "anything that takes me out of my favorite season is going to be hard and that's why fall is my least favorite." i don't feel that anymore but it was definitely strongly felt at one point in my not too distant life. 
 
 
