@@ -4,7 +4,7 @@ title: 'a few thoughts on addiction: alcohol, marijuana, tobacco, texting'
 date: '2026-07-09T10:19:00-04:00'
 tags:
 - addiction
-- smart phones
+- smart phones 
 
 --- 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'book review: love in a f*cked up world by dean spade'
-date: '2025-01-20T18:16:00-04:00'
+date: '2026-08-08T18:16:00-04:00'
 tags:
 - book reviews
 - dean spade
