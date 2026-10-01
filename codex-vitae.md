@@ -30,4 +30,4 @@ title: Codex Vitae
 
 # misc
 
-- the reality of nature / the nature of reality is fractal. "small is all." — adrienne maree brown. "everything is patterns." — martin bell. if you can learn about or change something in a small manifestation, you will be more equipped to do it on a larger scale. 
+- the reality of nature / the nature of reality is fractal. "small is all." — adrienne maree brown."everything is patterns." — martin bell. if you can learn about or change something in a small manifestation, you will be more equipped to do it on a larger scale. 
