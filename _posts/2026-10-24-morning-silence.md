@@ -15,7 +15,7 @@ but in this moment, the thing i want to share is that this summer i found a new 
 
 > deep down, i believe that each and every one of us is a gift. and, for many reasons, some good and some less good, most of us give ourselves away to others before we give ourselves to ourselves. practicing morning silence is a way to give the gift of you to you first. 
 
-now, i love me a good metaphor so i could really dive off the deep end with the metaphoric extensions here (which i sometimes when i share this practice during an active facilitation moment). instead of doing that though, i just want to touch on the "good and not so good reasons" for giving ourselves away to others before we give ourselves to ourselves. 
+now, i love me a good metaphor so i could really dive off the deep end with the metaphoric extensions here (which i sometimes do when i share this practice during an active facilitation moment). instead of doing that though, i just want to touch on the "good and not so good reasons" for giving ourselves away to others before we give ourselves to ourselves. 
 
 some of the good reasons:
 
