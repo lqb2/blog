@@ -49,4 +49,4 @@ ps - happy birthday, çaca!
 <!-- &#039; = single quote '-->
 
 **words / writing / post-processing**  
-513w / 17min / min
+513w / 17min / 5min
