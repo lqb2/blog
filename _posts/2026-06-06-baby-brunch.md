@@ -41,6 +41,7 @@ ok this is me stopping myself. so much is starting to flow and i'll bottle it fo
 
 ---
 
+update (nov 2026): i recently learned that a friend, tomás m., also stumbled onto this baby brunch structure. he, too, has found it extraordinarily successful!
 
 
 <!-- &#042; = asterisk -->
